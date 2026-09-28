@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T20:58:25.079Z",
-  "cachedAt": "2026-09-28T20:58:25.079Z",
+  "generatedAt": "2026-09-28T21:05:08.634Z",
+  "cachedAt": "2026-09-28T21:05:08.634Z",
   "items": [
     {
       "title": "SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest",
@@ -14,6 +14,72 @@
       "jurisdiction": "US"
     },
     {
+      "title": "horizoninvestmentsa(.)com: Bafin warns about website and identity fraud",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_28_horizoninvestmentsa_en.html",
+      "date": "2026-09-28T09:45:00.000Z",
+      "summary": "The German Financial Supervisory Authority (Bafin) warns about offers from the website horizoninvestmentsa(.)com. According to information available to Bafin, the unknown operators of the website are offering financial services without the required authorisation.",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
+    },
+    {
+      "title": "spacexfy(.)ai:&#160;Bafin&#160;warns consumers about website&#160;",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_23_spacexfy_ai_en.html",
+      "date": "2026-09-28T07:39:00.000Z",
+      "summary": "The Federal Financial Supervisory Authority&#160;(Bafin)&#160;warns consumers about the services offered on the website spacexfy(.)ai. Bafin has information that the website is being used to offer financial, investment and cryptoasset services without the required authorisation.",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
+    },
+    {
+      "title": "eberhart-dienstleistungen(.)de: Bafin warns consumers about website",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_08_31_eberhart-dienstleistungen_en.html",
+      "date": "2026-09-25T12:34:00.000Z",
+      "summary": "The Federal Financial Supervisory Authority (Bafin) warns consumers about the services offered by Eberhart Dienstleistungen. Bafin suspects the unknown operators, who purportedly have their registered office in Hamburg, of using the website eberhart-dienstleistungen(.)de to offer",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
+    },
+    {
+      "title": "praxisleasing(.)com and praxisleasing(.)org: Bafin warns consumers about websites and identity fraud",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_25_praxisleasing_en.html",
+      "date": "2026-09-25T12:31:00.000Z",
+      "summary": "The Federal Financial Supervisory Authority (Bafin) warns consumers about the services offered on the websites praxisleasing(.)com and praxisleasing(.)org. Bafin suspects the unknown operators of offering consumers financial services without the required authorisation.",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
+    },
+    {
+      "title": "Significant benchmarks notified under Article 24(2) of Regulation (EU) 2016/1011 (Benchmarks Regulation, BMR)",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Mitteilungen_nach_BMR/meldung_2026_09_25_eex_phelix-de_en.html",
+      "date": "2026-09-25T08:00:00.000Z",
+      "summary": "The Federal Financial Supervisory Authority (Bafin) has received a notification from the administrator European Energy Exchange AG pursuant to Article 24(2) BMR stating that the below benchmark has reached the threshold of EUR 50 billion referred to in Article 24(1) BMR.",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
+    },
+    {
+      "title": "\"Operation Heracles\": A blow against cybercriminals",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Pressemitteilung/2026/pm_2026_09_25_operation_herakles_en.html",
+      "date": "2026-09-25T07:30:00.000Z",
+      "summary": "Operation Heracles delivers another blow to international cyber investment fraud Nearly 10,000 telephone numbers used by cyber criminals cut off The Bundeskriminalamt (BKA), the Bundesnetzagentur and the Austrian BKA contributed to successful cooperation between the Cyber Crime C",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
+    },
+    {
       "title": "Minutes of the Market Participants Group meeting – 24 September 2026",
       "link": "https://www.bankofengland.co.uk/minutes/2026/september/market-participants-group-meeting-25-september-2026",
       "date": "2026-09-25T06:30:00.000Z",
@@ -23,6 +89,83 @@
       "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
+    },
+    {
+      "title": "Sanctions Penalties Regulations",
+      "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19678/sanctions-penalties-regulations",
+      "date": "2026-09-25T00:00:00.000Z",
+      "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is adding the Sanctions Penalties Regulations. These new regulations consolidate previously existing information regarding penalties applicable to multiple sanctions programs implemented by OFAC.",
+      "sourceId": "federal-register",
+      "sourceLabel": "US Federal Register",
+      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      "kind": "rulebook",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Terrorism List Governments Sanctions Regulations",
+      "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19657/terrorism-list-governments-sanctions-regulations",
+      "date": "2026-09-25T00:00:00.000Z",
+      "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is amending the Terrorism List Governments Sanctions Regulations to implement changes resulting from the rescission of the designation of Syria as a State Sponsor of Terrorism. Specifically, OFAC is removing",
+      "sourceId": "federal-register",
+      "sourceLabel": "US Federal Register",
+      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      "kind": "rulebook",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "festzinskompass(.)com: Bafin warns about website",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_24_festzinskompass_en.html",
+      "date": "2026-09-24T09:47:00.000Z",
+      "summary": "The German Financial Supervisory Authority (Bafin) warns about offers on the website festzinskompass(.)com. It is suspected that the unknown operators are offering banking transactions and financial services without the required authorisation.",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
+    },
+    {
+      "title": "2026 LSI stress test: Banks&#8217; and savings banks&#8217; capital buffers robust",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Pressemitteilung/2026/pm_2026_09_24_lsi-stresstest_en.html",
+      "date": "2026-09-24T09:00:00.000Z",
+      "summary": "Germany&#8217;s small and medium-sized banks and savings banks remain highly resilient. Despite a tense economic situation, heightened geopolitical risks and rising burdens, especially in corporate and commercial real estate business, institutions have, on the whole, a sound capi",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
+    },
+    {
+      "title": "tavorello(.)net: Bafin warns about website",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_24_tavorello_en.html",
+      "date": "2026-09-24T04:01:00.000Z",
+      "summary": "The German Financial Supervisory Authority (Bafin) warns about offers on the website tavorello(.)net: It is suspected that the unknown operators are offering financial services and crypto-asset services without the required authorisation.",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
+    },
+    {
+      "title": "BERLIN LIVING AG: evidence indicates no securities information sheet published",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/weitere/2026/meldung_2026_09_24_berlin_living_ag_en.html",
+      "date": "2026-09-24T04:00:00.000Z",
+      "summary": "The Federal Financial Supervisory Authority (Bafin) has sufficient grounds to suspect that BERLIN LIVING AG is offering securities called &#8220;BERLIN LIVING 1 Anleihe 2026/2031&#8220; to the public in Germany, without the required securities information sheet.",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
+    },
+    {
+      "title": "kapitalmitte(.)com and aw-vermoegensverwaltung(.)de: Bafin warns about websites and points out identity theft",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_24_kapitalmitte_aw-vermoegensverwaltung_en.html",
+      "date": "2026-09-24T04:00:00.000Z",
+      "summary": "The German Financial Supervisory Authority (Bafin) warns about offers on the websites kapitalmitte(.)com und aw-vermoegensverwaltung(.)de. It is suspected that the unknown operators are offering banking business and financial services without the required authorisation.",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
     },
     {
       "title": "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
@@ -47,6 +190,72 @@
       "jurisdiction": "US"
     },
     {
+      "title": "kapitallotse(.)com: Bafin warns about website and points out identity theft",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_23_kapitallotse_en.html",
+      "date": "2026-09-23T12:48:00.000Z",
+      "summary": "The German Financial Supervisory Authority (Bafin) warns about offers on the website kapitallotse(.)com. It is suspected that the unknown operators are offering banking business and financial services without the required authorisation.",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
+    },
+    {
+      "title": "Basel III risk-based capital and leverage ratios are stable while liquidity  indicators show limited movements for large internationally active  banks, latest Basel III monitoring exercise shows",
+      "link": "https://www.bis.org/media-releases/20260923-basel-iii-risk-based-capital-and-leverage-ratios-are-stable-while-liquidity-indicators-show",
+      "date": "2026-09-23T00:00:00.000Z",
+      "summary": "As of the end of 2025, Basel III risk-based capital and leverage ratios remained stable for large internationally active banks compared with June 2025. The average Liquidity Coverage Ratio (LCR) of Group 1 banks improved slightly, while the Net Stable Funding Ratio (NSFR) decreas",
+      "sourceId": "bis-press",
+      "sourceLabel": "Bank for International Settlements — Media Releases",
+      "sourceUrl": "https://www.bis.org/press/index.htm",
+      "kind": "paper",
+      "jurisdiction": "International"
+    },
+    {
+      "title": "Publication of Iran-Related Web General Licenses Y and Z",
+      "link": "https://www.federalregister.gov/documents/2026/09/23/2026-19424/publication-of-iran-related-web-general-licenses-y-and-z",
+      "date": "2026-09-23T00:00:00.000Z",
+      "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing two Iran-related general licenses (GLs): GLs Y and Z. These GLs were previously made available on OFAC's website.",
+      "sourceId": "federal-register",
+      "sourceLabel": "US Federal Register",
+      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      "kind": "rulebook",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Publication of the Democratic Republic of the Congo Sanctions Regulations Web General License 2",
+      "link": "https://www.federalregister.gov/documents/2026/09/23/2026-19423/publication-of-the-democratic-republic-of-the-congo-sanctions-regulations-web-general-license-2",
+      "date": "2026-09-23T00:00:00.000Z",
+      "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing a general license (GL) issued pursuant to the Democratic Republic of the Congo Sanctions Regulations: GL 2. This GL was previously made available on OFAC's website.",
+      "sourceId": "federal-register",
+      "sourceLabel": "US Federal Register",
+      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      "kind": "rulebook",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Publication of Venezuela Sanctions Regulations Web General Licenses 5X and 5Y",
+      "link": "https://www.federalregister.gov/documents/2026/09/23/2026-19422/publication-of-venezuela-sanctions-regulations-web-general-licenses-5x-and-5y",
+      "date": "2026-09-23T00:00:00.000Z",
+      "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing two general licenses (GLs) issued pursuant to the Venezuela Sanctions Regulations: GL 5X and 5Y, each of which was previously made available on OFAC's website.",
+      "sourceId": "federal-register",
+      "sourceLabel": "US Federal Register",
+      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      "kind": "rulebook",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Publication of International Criminal Court-Related Sanctions Regulations Web General License 12",
+      "link": "https://www.federalregister.gov/documents/2026/09/23/2026-19421/publication-of-international-criminal-court-related-sanctions-regulations-web-general-license-12",
+      "date": "2026-09-23T00:00:00.000Z",
+      "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing a general license (GL) issued pursuant to the International Criminal Court-Related Sanctions Regulations: GL 12. This GL was previously made available on OFAC's website.",
+      "sourceId": "federal-register",
+      "sourceLabel": "US Federal Register",
+      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      "kind": "rulebook",
+      "jurisdiction": "US"
+    },
+    {
       "title": "SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci",
       "date": "2026-09-22T16:41:11.000Z",
@@ -67,6 +276,17 @@
       "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
+    },
+    {
+      "title": "Unsafe or Unsound Practices, Matters Requiring Attention; Correction",
+      "link": "https://www.federalregister.gov/documents/2026/09/22/2026-19312/unsafe-or-unsound-practices-matters-requiring-attention-correction",
+      "date": "2026-09-22T00:00:00.000Z",
+      "summary": "The Office of the Comptroller of the Currency (OCC) and the Federal Deposit Insurance Corporation (FDIC) published a final rule in the Federal Register of September 1, 2026, to define the term \"unsafe or unsound practice\" for purposes of section 8 of the Federal Deposit Insurance",
+      "sourceId": "federal-register",
+      "sourceLabel": "US Federal Register",
+      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      "kind": "rulebook",
+      "jurisdiction": "US"
     },
     {
       "title": "Bank of England announces new office space in Leeds",
@@ -212,6 +432,17 @@
       "jurisdiction": "US"
     },
     {
+      "title": "Expanded Examination Cycle for Certain Small Insured Depository Institutions and U.S. Branches and Agencies of Foreign Banks",
+      "link": "https://www.federalregister.gov/documents/2026/09/14/2026-18766/expanded-examination-cycle-for-certain-small-insured-depository-institutions-and-us-branches-and",
+      "date": "2026-09-14T00:00:00.000Z",
+      "summary": "The OCC, Board, and FDIC (collectively, the Agencies) are jointly issuing and requesting public comment on an interim final rule to implement section 903 of the 21st Century ROAD to Housing Act. The interim final rule raises the asset threshold for certain supervised institutions",
+      "sourceId": "federal-register",
+      "sourceLabel": "US Federal Register",
+      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      "kind": "rulebook",
+      "jurisdiction": "US"
+    },
+    {
       "title": "Joint Readout of Principals’ Meeting of U.S. and UK Authorities Regarding Central Counterparty Resolution",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-87-joint-readout-principals-meeting-us-uk-authorities-regarding-central-counterparty-resolution",
       "date": "2026-09-11T15:00:00.000Z",
@@ -223,6 +454,61 @@
       "jurisdiction": "US"
     },
     {
+      "title": "Publication of Iran-Related Web General Licenses CC and DD.",
+      "link": "https://www.federalregister.gov/documents/2026/09/11/2026-18576/publication-of-iran-related-web-general-licenses-cc-and-dd",
+      "date": "2026-09-11T00:00:00.000Z",
+      "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing two Iran-related general licenses (GLs): GLs CC and DD, which were previously made available on OFAC's website upon issuance.",
+      "sourceId": "federal-register",
+      "sourceLabel": "US Federal Register",
+      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      "kind": "rulebook",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Publication of Venezuela Sanctions Regulations Web General Licenses 50A and 51A",
+      "link": "https://www.federalregister.gov/documents/2026/09/11/2026-18572/publication-of-venezuela-sanctions-regulations-web-general-licenses-50a-and-51a",
+      "date": "2026-09-11T00:00:00.000Z",
+      "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing two general licenses (GLs) issued pursuant to the Venezuela Sanctions Regulations: GLs 50A and 51A, each of which was previously made available on OFAC's website.",
+      "sourceId": "federal-register",
+      "sourceLabel": "US Federal Register",
+      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      "kind": "rulebook",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Publication of Venezuela Sanctions Regulations Web General Licenses 30B and 51.",
+      "link": "https://www.federalregister.gov/documents/2026/09/11/2026-18569/publication-of-venezuela-sanctions-regulations-web-general-licenses-30b-and-51",
+      "date": "2026-09-11T00:00:00.000Z",
+      "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing two general licenses (GLs) issued pursuant to the Venezuela Sanctions Regulations: GLs 30B and 51, each of which was previously made available on OFAC's website.",
+      "sourceId": "federal-register",
+      "sourceLabel": "US Federal Register",
+      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      "kind": "rulebook",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Publication of Nicaragua Sanctions Regulations Web General License 5",
+      "link": "https://www.federalregister.gov/documents/2026/09/11/2026-18565/publication-of-nicaragua-sanctions-regulations-web-general-license-5",
+      "date": "2026-09-11T00:00:00.000Z",
+      "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing a general license (GL) issued pursuant to the Nicaragua Sanctions Regulations: GL 5, which was previously made available on OFAC's website.",
+      "sourceId": "federal-register",
+      "sourceLabel": "US Federal Register",
+      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      "kind": "rulebook",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Publication of Global Terrorism Sanctions Regulations and Illicit Drug Trade Sanctions Regulations Web General License 35",
+      "link": "https://www.federalregister.gov/documents/2026/09/11/2026-18563/publication-of-global-terrorism-sanctions-regulations-and-illicit-drug-trade-sanctions-regulations",
+      "date": "2026-09-11T00:00:00.000Z",
+      "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing a general license (GL) issued pursuant to the Global Terrorism Sanctions Regulations and the Illicit Drug Trade Sanctions Regulations: GL 35. This GL was previously made available on OFAC's web",
+      "sourceId": "federal-register",
+      "sourceLabel": "US Federal Register",
+      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      "kind": "rulebook",
+      "jurisdiction": "US"
+    },
+    {
       "title": "SEC Charges Founder and His Two New Jersey-Based Companies in Alleged $16 Million Ponzi Scheme",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-86-sec-charges-founder-his-two-new-jersey-based-companies-alleged-16-million-ponzi-scheme",
       "date": "2026-09-10T17:45:22.000Z",
@@ -231,6 +517,39 @@
       "sourceLabel": "US SEC — Press Releases",
       "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Iranian Transactions and Sanctions Regulations",
+      "link": "https://www.federalregister.gov/documents/2026/09/10/2026-18461/iranian-transactions-and-sanctions-regulations",
+      "date": "2026-09-10T00:00:00.000Z",
+      "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is indefinitely suspending three general licenses and one licensing policy issued pursuant to the Iranian Transactions and Sanctions Regulations to align with changes in the foreign policy of the United Stat",
+      "sourceId": "federal-register",
+      "sourceLabel": "US Federal Register",
+      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      "kind": "rulebook",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Global standard-setting bodies publish a toolkit for cyber resilience at FMIs and a discussion paper on FMIs’ reliance on third-party service providers",
+      "link": "https://www.bis.org/media-releases/20260908-global-standard-setting-bodies-publish-toolkit-cyber-resilience-fmis-and-discussion-paper-fmis",
+      "date": "2026-09-08T00:00:00.000Z",
+      "summary": "CPMI-IOSCO are seeking input from stakeholders on a cyber resilience toolkit for financial market infrastructures (FMIs) and on risks to FMIs from third-party service providers. The Cyber resilience toolkit: practical considerations for FMIs supports FMIs in strengthening their c",
+      "sourceId": "bis-press",
+      "sourceLabel": "Bank for International Settlements — Media Releases",
+      "sourceUrl": "https://www.bis.org/press/index.htm",
+      "kind": "paper",
+      "jurisdiction": "International"
+    },
+    {
+      "title": "Geographic Targeting Order Imposing Recordkeeping and Reporting Requirements on Certain Money Services Businesses Along the Southwest Border",
+      "link": "https://www.federalregister.gov/documents/2026/09/04/2026-18194/geographic-targeting-order-imposing-recordkeeping-and-reporting-requirements-on-certain-money",
+      "date": "2026-09-04T00:00:00.000Z",
+      "summary": "FinCEN is issuing this Geographic Targeting Order, requiring certain money services businesses along the southwest border of the United States to report and retain records of transactions in currency of $1,000 or more, but not more than $10,000, and to verify the identity of pers",
+      "sourceId": "federal-register",
+      "sourceLabel": "US Federal Register",
+      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      "kind": "rulebook",
       "jurisdiction": "US"
     },
     {
@@ -265,26 +584,229 @@
       "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
+    },
+    {
+      "title": "Global economic pressure points call for policy discipline: BIS",
+      "link": "https://www.bis.org/media-releases/20260628-global-economic-pressure-points-call-policy-discipline-bis",
+      "date": "2026-06-28T00:00:00.000Z",
+      "summary": "The sustainability of the AI boom, financial vulnerabilities and strained public finances are among pressure points facing the global economy, along with the return of inflation.",
+      "sourceId": "bis-press",
+      "sourceLabel": "Bank for International Settlements — Media Releases",
+      "sourceUrl": "https://www.bis.org/press/index.htm",
+      "kind": "paper",
+      "jurisdiction": "International"
+    },
+    {
+      "title": "The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS",
+      "link": "https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis",
+      "date": "2026-06-23T00:00:00.000Z",
+      "summary": "Digital innovation is transforming finance, potentially enabling greater competition and efficiency in payment systems and financial intermediation. However, it also poses new macro-financial challenges and raises the broader question of how to preserve trust in money in the digi",
+      "sourceId": "bis-press",
+      "sourceLabel": "Bank for International Settlements — Media Releases",
+      "sourceUrl": "https://www.bis.org/press/index.htm",
+      "kind": "paper",
+      "jurisdiction": "International"
+    },
+    {
+      "title": "Basel Committee publishes report on information and communication technology risk management",
+      "link": "https://www.bis.org/media-releases/20260602-basel-committee-publishes-report-information-and-communication-technology-risk-management",
+      "date": "2026-06-02T00:00:00.000Z",
+      "summary": "The Basel Committee has published a report describing a range of observed information and communication technology (ICT) risk management practices across jurisdictions to address non-malicious ICT incidents.",
+      "sourceId": "bis-press",
+      "sourceLabel": "Bank for International Settlements — Media Releases",
+      "sourceUrl": "https://www.bis.org/press/index.htm",
+      "kind": "paper",
+      "jurisdiction": "International"
+    },
+    {
+      "title": "Project Agorá shows how tokenisation can improve wholesale cross-border payments; work will advance to real-value testing",
+      "link": "https://www.bis.org/media-releases/20260527-project-agora-shows-how-tokenisation-can-improve-wholesale-cross-border-payments-work-will",
+      "date": "2026-05-27T00:00:00.000Z",
+      "summary": "The Project Agorá prototype demonstrates how tokenisation and programmable technologies can address long-standing inefficiencies in wholesale cross-border payments at scale, while preserving the safety and integrity of settlement in central bank reserves.",
+      "sourceId": "bis-press",
+      "sourceLabel": "Bank for International Settlements — Media Releases",
+      "sourceUrl": "https://www.bis.org/press/index.htm",
+      "kind": "paper",
+      "jurisdiction": "International"
+    },
+    {
+      "title": "Basel Committee agrees to publish report on information and communication technology risk management, progresses cryptoasset targeted review, considers targeted updates on liquidity risk principles",
+      "link": "https://www.bis.org/media-releases/20260520-basel-committee-agrees-publish-report-information-and-communication-technology-risk-management",
+      "date": "2026-05-20T00:00:00.000Z",
+      "summary": "Agrees to publish range of practices report on information and communication technology risk management. Progresses its targeted review of the prudential standard for banks' cryptoasset exposures. Considers targeted updates of its principles on liquidity risk.",
+      "sourceId": "bis-press",
+      "sourceLabel": "Bank for International Settlements — Media Releases",
+      "sourceUrl": "https://www.bis.org/press/index.htm",
+      "kind": "paper",
+      "jurisdiction": "International"
+    },
+    {
+      "title": "Central bank Governors appointed to lead BIS Board and key groups",
+      "link": "https://www.bis.org/media-releases/20260512-central-bank-governors-appointed-lead-bis-board-and-key-groups",
+      "date": "2026-05-12T00:00:00.000Z",
+      "summary": "Press release from May 12, 2026 on central bank governors appointed to lead the BIS board of directors, the meeting of governors of major emerging market economies, the asian consultative council and the committee of the global financial system.",
+      "sourceId": "bis-press",
+      "sourceLabel": "Bank for International Settlements — Media Releases",
+      "sourceUrl": "https://www.bis.org/press/index.htm",
+      "kind": "paper",
+      "jurisdiction": "International"
+    },
+    {
+      "title": "CPMI-IOSCO publishes for consultation updated guidance and public disclosures to support the implementation of initial margin proposals",
+      "link": "https://www.bis.org/media-releases/20260506-cpmi-iosco-publishes-consultation-updated-guidance-and-public-disclosures-support",
+      "date": "2026-05-06T00:00:00.000Z",
+      "summary": "CPMI-IOSCO is seeking input from interested stakeholders on amendments to CCP-related resilience guidance and public quantitative disclosures requirements.",
+      "sourceId": "bis-press",
+      "sourceLabel": "Bank for International Settlements — Media Releases",
+      "sourceUrl": "https://www.bis.org/press/index.htm",
+      "kind": "paper",
+      "jurisdiction": "International"
+    },
+    {
+      "title": "Statement on the appointment of Hyun Song Shin as Governor of the Bank of Korea",
+      "link": "https://www.bis.org/media-releases/20260420-statement-appointment-hyun-song-shin-governor-bank-korea",
+      "date": "2026-04-20T00:00:00.000Z",
+      "summary": "The General Manager of the BIS, Pablo Hernández de Cos, made the following statement today on the announcement that Hyun Song Shin has been appointed to serve as Governor of the Bank of Korea.",
+      "sourceId": "bis-press",
+      "sourceLabel": "Bank for International Settlements — Media Releases",
+      "sourceUrl": "https://www.bis.org/press/index.htm",
+      "kind": "paper",
+      "jurisdiction": "International"
+    },
+    {
+      "title": "FCA secures bankruptcy order against Arthur Temlett",
+      "link": "https://www.fca.org.uk/news/news-stories/fca-secures-bankruptcy-order-against-arthur-temlett",
+      "date": null,
+      "summary": "We asked the Court to make Arthur Temlett, trading as Abacus Insurance Consultants ('Abacus'), bankrupt. This is known as sequestration in Scotland. The Sheriff granted our application on 27 August 2026.\n\nEmma Porter of Aver Chartered Accountants ('Aver') was appointed as trustee",
+      "sourceId": "fca-news",
+      "sourceLabel": "UK FCA — News & Publications",
+      "sourceUrl": "https://www.fca.org.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "FCA secures money back for victims of crypto fraud",
+      "link": "https://www.fca.org.uk/news/press-releases/fca-secures-money-back-victims-crypto-fraud",
+      "date": null,
+      "summary": "Victims of a £1.5m crypto investment fraud will recover lost funds after the FCA obtained confiscation orders against Raymondip Bedi and Patrick Mavanga.\n\nAt a hearing at Southwark Crown Court on 28 September 2026, Raymondip Bedi was ordered to pay £603,404.28 and Patrick Mavanga",
+      "sourceId": "fca-news",
+      "sourceLabel": "UK FCA — News & Publications",
+      "sourceUrl": "https://www.fca.org.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "InterestMe Financial Planning Limited (IMFP) and the appointed representative InterestMe Advisers Limited (IMA) enter administration",
+      "link": "https://www.fca.org.uk/news/news-stories/imfp-appointed-representative-ima-enter-administration",
+      "date": null,
+      "summary": "On 24 September 2026, IMFP and IMA entered administration. Robert Goodhew and Geoff Bouchier of Kroll Advisory Limited were appointed joint administrators for both firms.\n\nThe joint administrators are responsible for managing the affairs of the firms during the administration pro",
+      "sourceId": "fca-news",
+      "sourceLabel": "UK FCA — News & Publications",
+      "sourceUrl": "https://www.fca.org.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "ITI Capital Ltd enters special administration",
+      "link": "https://www.fca.org.uk/news/news-stories/iti-capital-ltd-enters-special-administration",
+      "date": null,
+      "summary": "On 25 September 2026, ITI Capital Ltd (ITI Capital) entered special administration. Duncan Perring and David Soden, both of Teneo Financial Advisory Ltd (Teneo), were appointed as special administrators.\n\nITI Capital is a FCA authorised and regulated brokerage company that helped",
+      "sourceId": "fca-news",
+      "sourceLabel": "UK FCA — News & Publications",
+      "sourceUrl": "https://www.fca.org.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "Twenty-four CFD firms closing in crackdown on misuse of UK authorisation",
+      "link": "https://www.fca.org.uk/news/press-releases/twenty-four-cfd-firms-closing-crackdown-misuse-uk-authorisation",
+      "date": null,
+      "summary": "Twenty-one Contracts for Differences (CFD) firms have closed since 2025, following a FCA crackdown.\n\nThe FCA was concerned the firms were misusing their authorised status to mislead consumers. Three other firms are currently cancelling their permissions.The FCA has been challengi",
+      "sourceId": "fca-news",
+      "sourceLabel": "UK FCA — News & Publications",
+      "sourceUrl": "https://www.fca.org.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "Building the next generation of market infrastructure",
+      "link": "https://www.fca.org.uk/news/speeches/building-next-generation-market-infrastructure",
+      "date": null,
+      "summary": "Speech by Nikhil Rathi, FCA chief executive at TheCityUK dinner, sponsored by Nasdaq.\n\nThank you to TheCityUK and Nasdaq for bringing us together this evening.It’s a fitting venue for us to discuss market transitions: the former HQ of Midland Bank, which of course became part of ",
+      "sourceId": "fca-news",
+      "sourceLabel": "UK FCA — News & Publications",
+      "sourceUrl": "https://www.fca.org.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "Firms crack down on money mules but need to do more",
+      "link": "https://www.fca.org.uk/news/press-releases/firms-crack-down-money-mules-need-do-more",
+      "date": null,
+      "summary": "Financial firms are shutting down hundreds of thousands of suspected money mule accounts, but organised criminal groups are still shifting dirty money through multiple bank accounts before cashing out.\n\nAn FCA survey found firms have closed an increasing number of suspected mule ",
+      "sourceId": "fca-news",
+      "sourceLabel": "UK FCA — News & Publications",
+      "sourceUrl": "https://www.fca.org.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "Debt advice warning: spot the red flags",
+      "link": "https://www.fca.org.uk/news/press-releases/debt-advice-warning-spot-red-flags",
+      "date": null,
+      "summary": "People seeking debt advice are being urged to watch out for red flags.\n\nFree debt advice is available to everyone. However, the FCA is concerned that some consumers are being steered towards fee-paying debt solutions that may not be suitable for their needs, sometimes through hig",
+      "sourceId": "fca-news",
+      "sourceLabel": "UK FCA — News & Publications",
+      "sourceUrl": "https://www.fca.org.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "FCA takes Hunter Jones to High Court over alleged unauthorised activity",
+      "link": "https://www.fca.org.uk/news/press-releases/fca-takes-hunter-jones-high-court-over-alleged-unauthorised-activity",
+      "date": null,
+      "summary": "The FCA has begun High Court proceedings against Osborne Baldwin Limited, which trades as Hunter Jones and Hunter Jones Group.\n\nThe FCA alleges that Hunter Jones, which sells loan notes, carries out regulated activity without authorisation. The FCA is asking the court to stop Hun",
+      "sourceId": "fca-news",
+      "sourceLabel": "UK FCA — News & Publications",
+      "sourceUrl": "https://www.fca.org.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "FCA and partners join forces to help improve financial security for millions",
+      "link": "https://www.fca.org.uk/news/press-releases/fca-partners-help-improve-financial-security-millions",
+      "date": null,
+      "summary": "The FCA is partnering across sectors to expand protection insurance coverage for millions of unprotected people.\n\nWhile the market is working well for consumers who have protection insurance, millions of people remain unprotected.Around 58% of adults have no life insurance, criti",
+      "sourceId": "fca-news",
+      "sourceLabel": "UK FCA — News & Publications",
+      "sourceUrl": "https://www.fca.org.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "Video",
+      "link": "https://www.fca.org.uk/news/news-stories/video",
+      "date": null,
+      "summary": "",
+      "sourceId": "fca-news",
+      "sourceLabel": "UK FCA — News & Publications",
+      "sourceUrl": "https://www.fca.org.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "Infographics",
+      "link": "https://www.fca.org.uk/news/news-stories/infographics",
+      "date": null,
+      "summary": "",
+      "sourceId": "fca-news",
+      "sourceLabel": "UK FCA — News & Publications",
+      "sourceUrl": "https://www.fca.org.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
     }
   ],
-  "sourceErrors": [
-    {
-      "source": "UK FCA — News & Publications",
-      "error": "Invalid time value"
-    },
-    {
-      "source": "Basel Committee (BIS) — Publications",
-      "error": "Basel Committee (BIS) — Publications fetch failed: 404"
-    },
-    {
-      "source": "Bank for International Settlements — Press",
-      "error": "Bank for International Settlements — Press fetch failed: 404"
-    },
-    {
-      "source": "US Federal Register",
-      "error": "Federal Register fetch failed: 400"
-    }
-  ],
+  "sourceErrors": [],
   "manualSources": [
     {
       "id": "fatf-publications",
@@ -316,6 +838,30 @@
       "kind": "rulebook",
       "jurisdiction": "EU",
       "url": "https://www.eba.europa.eu/publications-and-media/publications",
+      "method": "manual"
+    },
+    {
+      "id": "mas-news",
+      "label": "Monetary Authority of Singapore — News",
+      "kind": "guidance",
+      "jurisdiction": "Singapore",
+      "url": "https://www.mas.gov.sg/news",
+      "method": "manual"
+    },
+    {
+      "id": "cbuae-news",
+      "label": "Central Bank of the UAE — News & Insights",
+      "kind": "guidance",
+      "jurisdiction": "UAE",
+      "url": "https://centralbank.ae/en/news-and-publications/news-and-insights/",
+      "method": "manual"
+    },
+    {
+      "id": "qcb-news",
+      "label": "Qatar Central Bank — Publications",
+      "kind": "guidance",
+      "jurisdiction": "Qatar",
+      "url": "https://www.qcb.gov.qa/en/publications",
       "method": "manual"
     }
   ]
