@@ -1,0 +1,65 @@
+{
+  "generatedAt": "2026-09-28T20:46:15.843Z",
+  "cachedAt": "2026-09-28T20:46:15.843Z",
+  "items": [],
+  "sourceErrors": [
+    {
+      "source": "UK FCA — News & Publications",
+      "error": "UK FCA — News & Publications fetch failed: 403"
+    },
+    {
+      "source": "US SEC — Press Releases",
+      "error": "US SEC — Press Releases fetch failed: 403"
+    },
+    {
+      "source": "Bank of England — News",
+      "error": "Bank of England — News fetch failed: 403"
+    },
+    {
+      "source": "Basel Committee (BIS) — Publications",
+      "error": "Basel Committee (BIS) — Publications fetch failed: 403"
+    },
+    {
+      "source": "Bank for International Settlements — Press",
+      "error": "Bank for International Settlements — Press fetch failed: 403"
+    },
+    {
+      "source": "US Federal Register",
+      "error": "Federal Register fetch failed: 403"
+    }
+  ],
+  "manualSources": [
+    {
+      "id": "fatf-publications",
+      "label": "FATF — Publications",
+      "kind": "guidance",
+      "jurisdiction": "International",
+      "url": "https://www.fatf-gafi.org/en/publications.html",
+      "method": "manual"
+    },
+    {
+      "id": "eu-commission-finance",
+      "label": "European Commission — Financial Stability, Services & Capital Markets Union",
+      "kind": "guidance",
+      "jurisdiction": "EU",
+      "url": "https://finance.ec.europa.eu/news_en",
+      "method": "manual"
+    },
+    {
+      "id": "fincen-news",
+      "label": "FinCEN — News & Guidance",
+      "kind": "guidance",
+      "jurisdiction": "US",
+      "url": "https://www.fincen.gov/news-room",
+      "method": "manual"
+    },
+    {
+      "id": "eba-publications",
+      "label": "European Banking Authority — Publications",
+      "kind": "rulebook",
+      "jurisdiction": "EU",
+      "url": "https://www.eba.europa.eu/publications-and-media/publications",
+      "method": "manual"
+    }
+  ]
+}

@@ -233,7 +233,7 @@ function populateJurisdictions(){
 
 async function load(){
   try {
-    const res = await fetch('/api/feed');
+    const res = await fetch('./feed.json', { cache: 'no-store' });
     const data = await res.json();
     if (!res.ok) {
       main.innerHTML = `<div class="status-line">${escapeHtml(data.error || 'Could not load the feed.')}</div>`;
@@ -242,9 +242,9 @@ async function load(){
     feedData = data;
     populateJurisdictions();
     render();
-    footer.textContent = `Sources: ${new Set(data.items.map(i => i.sourceLabel)).size} live feeds checked, plus ${data.manualSources.length} manual-link sources.`;
+    footer.textContent = `Sources: ${new Set(data.items.map(i => i.sourceLabel)).size} feeds checked, plus ${data.manualSources.length} manual-link sources. Refreshed every 6 hours.`;
   } catch (err) {
-    main.innerHTML = `<div class="status-line">Network error — could not reach the feed service.</div>`;
+    main.innerHTML = `<div class="status-line">Could not load feed.json — it may not have been generated yet.</div>`;
   }
 }
 
