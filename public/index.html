@@ -1,0 +1,257 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>RegWatch</title>
+<style>
+/* Layout: a dated ledger of updates, one filter bar (jurisdiction + kind) above a chronological list */
+:root{
+  --bg:#f4f5f1;
+  --panel:#ffffff;
+  --ink:#1a1d17;
+  --ink-dim:#5a5f52;
+  --line:#d9dccb;
+  --accent:#2f5d3f;
+  --accent-ink:#f4f5f1;
+  --tag-bg:#e6e8dc;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#12140f;
+    --panel:#1a1d15;
+    --ink:#e8e9de;
+    --ink-dim:#a3a894;
+    --line:#33372a;
+    --accent:#7fb885;
+    --accent-ink:#12140f;
+    --tag-bg:#242819;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#12140f;
+  --panel:#1a1d15;
+  --ink:#e8e9de;
+  --ink-dim:#a3a894;
+  --line:#33372a;
+  --accent:#7fb885;
+  --accent-ink:#12140f;
+  --tag-bg:#242819;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  background:var(--bg);
+  color:var(--ink);
+  font-family:'Source Serif 4', Georgia, 'Times New Roman', serif;
+  padding:0 16px;
+}
+::selection{background:var(--accent);color:var(--accent-ink)}
+.wrap{max-width:860px;margin:0 auto}
+header{padding-block:28px 20px;border-bottom:1px solid var(--line)}
+.eyebrow{
+  font-family:'IBM Plex Mono', ui-monospace, monospace;
+  font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);
+  display:flex;gap:10px;align-items:center;
+}
+.eyebrow::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--accent)}
+h1{font-size:clamp(28px,5vw,42px);line-height:1.05;margin:10px 0 8px;text-wrap:balance;letter-spacing:-.01em}
+.dek{color:var(--ink-dim);font-size:15px;max-width:64ch;line-height:1.55;margin:0 0 18px}
+.filters{display:flex;gap:8px;flex-wrap:wrap}
+.filters select{
+  background:var(--panel);border:1px solid var(--line);color:var(--ink);
+  padding:8px 12px;border-radius:3px;font-family:'IBM Plex Mono', ui-monospace, monospace;font-size:12.5px;
+}
+main{padding-block:24px 60px}
+.status-line{
+  font-family:'IBM Plex Mono', ui-monospace, monospace;font-size:12.5px;color:var(--ink-dim);
+  margin-bottom:16px;
+}
+.day-group{margin-bottom:22px}
+.day-label{
+  font-family:'IBM Plex Mono', ui-monospace, monospace;font-size:11.5px;letter-spacing:.08em;
+  text-transform:uppercase;color:var(--accent);margin-bottom:8px;
+}
+.item{
+  border:1px solid var(--line);border-radius:4px;background:var(--panel);
+  padding:14px 16px;margin-bottom:10px;
+}
+.item-head{display:flex;justify-content:space-between;gap:12px;align-items:baseline;flex-wrap:wrap}
+.item-title{font-weight:600;font-size:15.5px;text-decoration:none;color:var(--ink);line-height:1.35}
+.item-title:hover{color:var(--accent)}
+.item-meta{display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.pill{
+  font-family:'IBM Plex Mono', ui-monospace, monospace;font-size:10px;letter-spacing:.04em;text-transform:uppercase;
+  background:var(--tag-bg);color:var(--ink-dim);padding:3px 8px;border-radius:2px;white-space:nowrap;
+}
+.item-summary{color:var(--ink-dim);font-size:13.5px;line-height:1.55;margin-top:6px}
+.item-source{
+  font-family:'IBM Plex Mono', ui-monospace, monospace;font-size:11.5px;color:var(--ink-dim);margin-top:8px;
+}
+.manual-section{margin-top:34px;border-top:1px solid var(--line);padding-top:20px}
+.manual-section h2{
+  font-family:'IBM Plex Mono', ui-monospace, monospace;font-size:12px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--accent);margin:0 0 4px;
+}
+.manual-section p{color:var(--ink-dim);font-size:13px;margin:0 0 14px;max-width:60ch}
+.manual-list{display:flex;flex-direction:column}
+.manual-row{
+  display:flex;justify-content:space-between;gap:12px;padding-block:10px;border-bottom:1px solid var(--line);
+  font-size:14px;flex-wrap:wrap;
+}
+.manual-row a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--accent)}
+.manual-row a:hover{color:var(--accent)}
+.error-line{
+  font-family:'IBM Plex Mono', ui-monospace, monospace;font-size:11.5px;color:var(--ink-dim);
+  padding:6px 0;
+}
+footer{
+  border-top:1px solid var(--line);padding-block:20px 40px;color:var(--ink-dim);font-size:12.5px;
+  font-family:'IBM Plex Mono', ui-monospace, monospace;
+}
+</style>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Live regulatory feed</div>
+    <h1>RegWatch</h1>
+    <p class="dek">Guidance, rulemaking, and publications from AML/KYC/sanctions regulators and standards bodies, pulled live from their own public feeds and aggregated into one chronological list.</p>
+    <div class="filters">
+      <select id="kindFilter">
+        <option value="all">All kinds</option>
+        <option value="guidance">Guidance</option>
+        <option value="paper">Papers</option>
+        <option value="rulebook">Rulebook / rulemaking</option>
+      </select>
+      <select id="jurisdictionFilter">
+        <option value="all">All jurisdictions</option>
+      </select>
+    </div>
+  </header>
+
+  <main id="main">
+    <div class="status-line">Loading latest updates…</div>
+  </main>
+
+  <footer id="footer"></footer>
+</div>
+
+<script>
+const main = document.getElementById('main');
+const footer = document.getElementById('footer');
+const kindFilter = document.getElementById('kindFilter');
+const jurisdictionFilter = document.getElementById('jurisdictionFilter');
+
+let feedData = null;
+
+function escapeHtml(s){
+  return String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function dayLabel(iso){
+  if (!iso) return 'Undated';
+  const d = new Date(iso);
+  return d.toLocaleDateString(undefined, { year: 'numeric', month: 'long', day: 'numeric' });
+}
+
+function render(){
+  if (!feedData) return;
+  const kind = kindFilter.value;
+  const jurisdiction = jurisdictionFilter.value;
+  const items = feedData.items.filter(it =>
+    (kind === 'all' || it.kind === kind) &&
+    (jurisdiction === 'all' || it.jurisdiction === jurisdiction)
+  );
+
+  const groups = new Map();
+  items.forEach(it => {
+    const key = it.date ? it.date.slice(0, 10) : 'undated';
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(it);
+  });
+
+  let html = `<div class="status-line">${items.length} update${items.length===1?'':'s'} · refreshed ${new Date(feedData.cachedAt).toLocaleString()}</div>`;
+
+  if (items.length === 0) {
+    html += `<div class="status-line">No updates match this filter right now.</div>`;
+  }
+
+  [...groups.entries()].forEach(([key, group]) => {
+    html += `<div class="day-group"><div class="day-label">${key === 'undated' ? 'Undated' : dayLabel(group[0].date)}</div>`;
+    group.forEach(it => {
+      html += `
+        <div class="item">
+          <div class="item-head">
+            <a class="item-title" href="${it.link}" target="_blank" rel="noopener">${escapeHtml(it.title)}</a>
+            <div class="item-meta">
+              <span class="pill">${escapeHtml(it.kind)}</span>
+              <span class="pill">${escapeHtml(it.jurisdiction)}</span>
+            </div>
+          </div>
+          ${it.summary ? `<div class="item-summary">${escapeHtml(it.summary)}</div>` : ''}
+          <div class="item-source">${escapeHtml(it.sourceLabel)}</div>
+        </div>
+      `;
+    });
+    html += `</div>`;
+  });
+
+  if (feedData.sourceErrors && feedData.sourceErrors.length > 0) {
+    html += `<div class="status-line">Unavailable right now: ${feedData.sourceErrors.map(e => escapeHtml(e.source)).join(', ')}</div>`;
+  }
+
+  html += `
+    <div class="manual-section">
+      <h2>Also watch directly</h2>
+      <p>These regulators don't publish a stable feed endpoint, so check their pages directly for the latest.</p>
+      <div class="manual-list">
+        ${feedData.manualSources.map(s => `
+          <div class="manual-row">
+            <a href="${s.url}" target="_blank" rel="noopener">${escapeHtml(s.label)}</a>
+            <div class="item-meta">
+              <span class="pill">${escapeHtml(s.kind)}</span>
+              <span class="pill">${escapeHtml(s.jurisdiction)}</span>
+            </div>
+          </div>
+        `).join('')}
+      </div>
+    </div>
+  `;
+
+  main.innerHTML = html;
+}
+
+function populateJurisdictions(){
+  const set = new Set(feedData.items.map(it => it.jurisdiction).filter(Boolean));
+  jurisdictionFilter.innerHTML = '<option value="all">All jurisdictions</option>' +
+    [...set].sort().map(j => `<option value="${escapeHtml(j)}">${escapeHtml(j)}</option>`).join('');
+}
+
+async function load(){
+  try {
+    const res = await fetch('/api/feed');
+    const data = await res.json();
+    if (!res.ok) {
+      main.innerHTML = `<div class="status-line">${escapeHtml(data.error || 'Could not load the feed.')}</div>`;
+      return;
+    }
+    feedData = data;
+    populateJurisdictions();
+    render();
+    footer.textContent = `Sources: ${new Set(data.items.map(i => i.sourceLabel)).size} live feeds checked, plus ${data.manualSources.length} manual-link sources.`;
+  } catch (err) {
+    main.innerHTML = `<div class="status-line">Network error — could not reach the feed service.</div>`;
+  }
+}
+
+kindFilter.addEventListener('change', render);
+jurisdictionFilter.addEventListener('change', render);
+
+load();
+</script>
+</body>
+</html>

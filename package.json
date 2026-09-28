@@ -1,0 +1,16 @@
+{
+  "name": "regwatch",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aggregated feed of regulatory guidance, papers, and rulebook updates from AML/KYC/sanctions regulators.",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
