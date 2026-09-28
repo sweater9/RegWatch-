@@ -3,7 +3,9 @@ const { parseFeed } = require("../rssParser");
 // Each entry is a regulator/standards-body feed. `kind` is a loose label
 // (guidance / paper / rulebook / news) used for client-side filtering —
 // regulators don't tag their own RSS items this way, so it's a best guess
-// per-source rather than per-item.
+// per-source rather than per-item. `sourceUrl` is the regulator's own
+// human-facing publications page (not the raw feed XML) — shown on each
+// item so a reader can go check the source directly.
 const FEEDS = [
   {
     id: "fca-news",
@@ -11,6 +13,7 @@ const FEEDS = [
     kind: "guidance",
     jurisdiction: "UK",
     feedUrl: "https://www.fca.org.uk/news/rss.xml",
+    sourceUrl: "https://www.fca.org.uk/news",
   },
   {
     id: "sec-press",
@@ -18,6 +21,7 @@ const FEEDS = [
     kind: "guidance",
     jurisdiction: "US",
     feedUrl: "https://www.sec.gov/news/pressreleases.rss",
+    sourceUrl: "https://www.sec.gov/newsroom/press-releases",
   },
   {
     id: "boe-news",
@@ -25,6 +29,7 @@ const FEEDS = [
     kind: "guidance",
     jurisdiction: "UK",
     feedUrl: "https://www.bankofengland.co.uk/rss/news",
+    sourceUrl: "https://www.bankofengland.co.uk/news",
   },
   {
     id: "bis-bcbs",
@@ -32,6 +37,7 @@ const FEEDS = [
     kind: "rulebook",
     jurisdiction: "International",
     feedUrl: "https://www.bis.org/doclist/bcbs_publications.rss",
+    sourceUrl: "https://www.bis.org/bcbs/publications.htm",
   },
   {
     id: "bis-press",
@@ -39,6 +45,7 @@ const FEEDS = [
     kind: "paper",
     jurisdiction: "International",
     feedUrl: "https://www.bis.org/doclist/press.rss",
+    sourceUrl: "https://www.bis.org/press/index.htm",
   },
 ];
 
@@ -54,6 +61,7 @@ async function fetchFeed(source) {
     ...item,
     sourceId: source.id,
     sourceLabel: source.label,
+    sourceUrl: source.sourceUrl,
     kind: source.kind,
     jurisdiction: source.jurisdiction,
   }));

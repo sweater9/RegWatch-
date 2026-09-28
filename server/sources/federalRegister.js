@@ -27,6 +27,7 @@ async function fetchFederalRegister() {
     summary: (doc.abstract || "").slice(0, 280),
     sourceId: "federal-register",
     sourceLabel: "US Federal Register",
+    sourceUrl: "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
     kind: "rulebook",
     jurisdiction: "US",
   }));
