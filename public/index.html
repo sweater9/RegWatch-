@@ -94,6 +94,7 @@ main{padding-block:24px 60px}
   font-family:'IBM Plex Mono', ui-monospace, monospace;font-size:10px;letter-spacing:.04em;text-transform:uppercase;
   background:var(--tag-bg);color:var(--ink-dim);padding:3px 8px;border-radius:2px;white-space:nowrap;
 }
+.pill.commentary{background:transparent;border:1px solid var(--accent);color:var(--accent)}
 .item-summary{color:var(--ink-dim);font-size:13.5px;line-height:1.55;margin-top:6px}
 .item-source{
   font-family:'IBM Plex Mono', ui-monospace, monospace;font-size:11.5px;color:var(--ink-dim);margin-top:8px;
@@ -130,13 +131,14 @@ footer{
   <header>
     <div class="eyebrow">Live regulatory feed</div>
     <h1>RegWatch</h1>
-    <p class="dek">Guidance, rulemaking, and publications from AML/KYC/sanctions regulators and standards bodies, pulled live from their own public feeds and aggregated into one chronological list.</p>
+    <p class="dek">Guidance, rulemaking, and publications from AML/KYC/sanctions regulators and standards bodies, pulled live from their own public feeds and aggregated into one chronological list. Items marked <strong>Law firm commentary</strong> are third-party analysis, not primary regulatory sources.</p>
     <div class="filters">
       <select id="kindFilter">
         <option value="all">All kinds</option>
         <option value="guidance">Guidance</option>
         <option value="paper">Papers</option>
         <option value="rulebook">Rulebook / rulemaking</option>
+        <option value="commentary">Law firm commentary</option>
       </select>
       <select id="jurisdictionFilter">
         <option value="all">All jurisdictions</option>
@@ -203,7 +205,7 @@ function render(){
           <div class="item-head">
             <a class="item-title" href="${it.link}" target="_blank" rel="noopener">${escapeHtml(it.title)}</a>
             <div class="item-meta">
-              <span class="pill">${escapeHtml(it.kind)}</span>
+              <span class="pill${it.kind === 'commentary' ? ' commentary' : ''}">${escapeHtml(it.kind)}</span>
               <span class="pill">${escapeHtml(it.jurisdiction)}</span>
             </div>
           </div>
@@ -228,7 +230,7 @@ function render(){
           <div class="manual-row">
             <a href="${s.url}" target="_blank" rel="noopener">${escapeHtml(s.label)}</a>
             <div class="item-meta">
-              <span class="pill">${escapeHtml(s.kind)}</span>
+              <span class="pill${s.kind === 'commentary' ? ' commentary' : ''}">${escapeHtml(s.kind)}</span>
               <span class="pill">${escapeHtml(s.jurisdiction)}</span>
             </div>
           </div>
