@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T21:05:08.634Z",
-  "cachedAt": "2026-09-28T21:05:08.634Z",
+  "generatedAt": "2026-09-28T21:08:26.134Z",
+  "cachedAt": "2026-09-28T21:08:26.134Z",
   "items": [
     {
       "title": "SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest",
@@ -857,11 +857,67 @@
       "method": "manual"
     },
     {
-      "id": "qcb-news",
-      "label": "Qatar Central Bank — Publications",
+      "id": "uae-eocn",
+      "label": "UAE Executive Office for Control & Non-Proliferation (EOCN)",
+      "kind": "guidance",
+      "jurisdiction": "UAE",
+      "url": "https://www.uaeiec.gov.ae/en-us/",
+      "method": "manual"
+    },
+    {
+      "id": "uae-unsc-list",
+      "label": "UAE UN Security Council Sanctions List Implementation (via EOCN)",
+      "kind": "rulebook",
+      "jurisdiction": "UAE",
+      "url": "https://www.uaeiec.gov.ae/en-us/",
+      "method": "manual"
+    },
+    {
+      "id": "uae-dfsa",
+      "label": "Dubai Financial Services Authority (DFSA) — News",
+      "kind": "guidance",
+      "jurisdiction": "UAE",
+      "url": "https://www.dfsa.ae/news",
+      "method": "manual"
+    },
+    {
+      "id": "uae-cma",
+      "label": "UAE Capital Market Authority (CMA)",
+      "kind": "guidance",
+      "jurisdiction": "UAE",
+      "url": "https://www.uaecma.gov.ae/en/home.aspx",
+      "method": "manual"
+    },
+    {
+      "id": "uae-fsra",
+      "label": "ADGM Financial Services Regulatory Authority (FSRA)",
+      "kind": "guidance",
+      "jurisdiction": "UAE",
+      "url": "https://www.adgm.com/financial-services-regulatory-authority",
+      "method": "manual"
+    },
+    {
+      "id": "uae-vara",
+      "label": "Dubai Virtual Assets Regulatory Authority (VARA) — VASPs",
+      "kind": "guidance",
+      "jurisdiction": "UAE",
+      "url": "https://www.vara.ae/en/news/",
+      "method": "manual"
+    },
+    {
+      "id": "qatar-qfcra",
+      "label": "Qatar Financial Centre Regulatory Authority (QFCRA)",
       "kind": "guidance",
       "jurisdiction": "Qatar",
-      "url": "https://www.qcb.gov.qa/en/publications",
+      "url": "https://www.qfcra.com/",
+      "method": "manual"
+    },
+    {
+      "id": "qatar-nctc",
+      "label": "Qatar National Counter Terrorism Committee (NCTC)",
+      "kind": "rulebook",
+      "jurisdiction": "Qatar",
+      "url": "https://portal.moi.gov.qa/wps/portal/NCTC/Home/",
       "method": "manual"
     }
   ]
