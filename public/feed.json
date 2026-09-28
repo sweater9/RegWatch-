@@ -1,7 +1,40 @@
 {
-  "generatedAt": "2026-09-28T21:12:58.098Z",
-  "cachedAt": "2026-09-28T21:12:58.098Z",
+  "generatedAt": "2026-09-28T21:17:53.500Z",
+  "cachedAt": "2026-09-28T21:17:53.500Z",
   "items": [
+    {
+      "title": "Jacob Garfinkel; 5G Funding LLC; Five G Funding LLC",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26651",
+      "date": "2026-09-28T19:40:06.000Z",
+      "summary": "Jacob Garfinkel; 5G Funding LLC; Five G Funding LLC",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Fan “Jocelyn” Yang; Jing Tian; Zijun Zhang; Shuchen Zhu; Chong Zhang; and Hanxiong Bo",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26650",
+      "date": "2026-09-28T19:11:29.000Z",
+      "summary": "Fan “Jocelyn” Yang; Jing Tian; Zijun Zhang; Shuchen Zhu; Chong Zhang; and Hanxiong Bo",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Lloyd Anderson Wilson, C.P.A.",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26649",
+      "date": "2026-09-28T19:10:34.000Z",
+      "summary": "Lloyd Anderson Wilson, C.P.A.",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
     {
       "title": "SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest",
@@ -36,6 +69,17 @@
       "jurisdiction": "Germany"
     },
     {
+      "title": "Kristopher A. Lunsford; AKL Transport LLC; Southern Truck Leasing LLC",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26648",
+      "date": "2026-09-25T14:23:10.000Z",
+      "summary": "Kristopher A. Lunsford; AKL Transport LLC; Southern Truck Leasing LLC",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
       "title": "eberhart-dienstleistungen(.)de: Bafin warns consumers about website",
       "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_08_31_eberhart-dienstleistungen_en.html",
       "date": "2026-09-25T12:34:00.000Z",
@@ -56,6 +100,28 @@
       "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
       "kind": "guidance",
       "jurisdiction": "Germany"
+    },
+    {
+      "title": "Cuban National Convicted for International Alien Smuggling and Money Laundering Conspiracy",
+      "link": "https://www.justice.gov/opa/pr/cuban-national-convicted-international-alien-smuggling-and-money-laundering-conspiracy",
+      "date": "2026-09-25T12:00:00.000Z",
+      "summary": "A federal jury in the Middle District of Florida convicted a Cuban National for his role in an international alien smuggling and money laundering conspiracy.&nbsp;",
+      "sourceId": "doj-press",
+      "sourceLabel": "US DOJ — Press Releases",
+      "sourceUrl": "https://www.justice.gov/news/press-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Texas Mental Health Clinic Owner Convicted in $26M Scheme to Defraud Military Health Benefits Program",
+      "link": "https://www.justice.gov/opa/pr/texas-mental-health-clinic-owner-convicted-26m-scheme-defraud-military-health-benefits",
+      "date": "2026-09-25T12:00:00.000Z",
+      "summary": "A federal jury in Fort Worth convicted a Texas licensed professional counselor yesterday for his role in a $26 million health care fraud, kickbacks, and money laundering scheme.",
+      "sourceId": "doj-press",
+      "sourceLabel": "US DOJ — Press Releases",
+      "sourceUrl": "https://www.justice.gov/news/press-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
     },
     {
       "title": "Significant benchmarks notified under Article 24(2) of Regulation (EU) 2016/1011 (Benchmarks Regulation, BMR)",
@@ -113,6 +179,17 @@
       "jurisdiction": "US"
     },
     {
+      "title": "Manish Lachwani",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26647",
+      "date": "2026-09-24T18:20:44.000Z",
+      "summary": "Manish Lachwani",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
       "title": "festzinskompass(.)com: Bafin warns about website",
       "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_24_festzinskompass_en.html",
       "date": "2026-09-24T09:47:00.000Z",
@@ -166,6 +243,17 @@
       "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
       "kind": "guidance",
       "jurisdiction": "Germany"
+    },
+    {
+      "title": "Michael D. Williams and CMI Capital, LLC",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26646",
+      "date": "2026-09-23T20:01:48.000Z",
+      "summary": "Michael D. Williams and CMI Capital, LLC",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
     },
     {
       "title": "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
@@ -256,6 +344,17 @@
       "jurisdiction": "US"
     },
     {
+      "title": "Lawrence Billimek and Alan Williams",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26645",
+      "date": "2026-09-22T22:37:52.000Z",
+      "summary": "Lawrence Billimek and Alan Williams",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
       "title": "SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci",
       "date": "2026-09-22T16:41:11.000Z",
@@ -278,6 +377,17 @@
       "jurisdiction": "UK"
     },
     {
+      "title": "Extradited Nigerian National Pleads Guilty to Money Laundering in Connection with Sextortion and Romance Scams",
+      "link": "https://www.justice.gov/opa/pr/extradited-nigerian-national-pleads-guilty-money-laundering-connection-sextortion-and",
+      "date": "2026-09-22T12:00:00.000Z",
+      "summary": "Olamide Shanu, 35, a Nigerian national, pleaded guilty yesterday in the District of Idaho to charges related to his role in several cyber-enabled schemes that defrauded approximately 150 American victims and caused millions of dollars in losses.&nbsp;Shanu made more than $2,500,0",
+      "sourceId": "doj-press",
+      "sourceLabel": "US DOJ — Press Releases",
+      "sourceUrl": "https://www.justice.gov/news/press-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
       "title": "Unsafe or Unsound Practices, Matters Requiring Attention; Correction",
       "link": "https://www.federalregister.gov/documents/2026/09/22/2026-19312/unsafe-or-unsound-practices-matters-requiring-attention-correction",
       "date": "2026-09-22T00:00:00.000Z",
@@ -286,6 +396,28 @@
       "sourceLabel": "US Federal Register",
       "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
       "kind": "rulebook",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Michael T. Christensen",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26644",
+      "date": "2026-09-21T21:32:16.000Z",
+      "summary": "Michael T. Christensen",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Michael Ayala; Wavemark Capital, LLC",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26643",
+      "date": "2026-09-21T21:27:18.000Z",
+      "summary": "Michael Ayala; Wavemark Capital, LLC",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
       "jurisdiction": "US"
     },
     {
@@ -309,6 +441,17 @@
       "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
+    },
+    {
+      "title": "Ellen Polcari",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26642",
+      "date": "2026-09-18T20:06:11.000Z",
+      "summary": "Ellen Polcari",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
     },
     {
       "title": "Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026",
@@ -399,6 +542,17 @@
       "jurisdiction": "UK"
     },
     {
+      "title": "Jessica Richman and Zachary Apte",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26641",
+      "date": "2026-09-16T22:01:05.000Z",
+      "summary": "Jessica Richman and Zachary Apte",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
       "title": "Chancellor announces Bank of England appointments",
       "link": "https://www.bankofengland.co.uk/news/2026/september/chancellor-announces-boe-appointments",
       "date": "2026-09-16T14:03:08.000Z",
@@ -417,6 +571,17 @@
       "sourceId": "sec-press",
       "sourceLabel": "US SEC — Press Releases",
       "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Jon P. Kipp",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26640",
+      "date": "2026-09-15T21:32:14.000Z",
+      "summary": "Jon P. Kipp",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
       "kind": "guidance",
       "jurisdiction": "US"
     },
@@ -918,6 +1083,14 @@
       "kind": "rulebook",
       "jurisdiction": "Qatar",
       "url": "https://portal.moi.gov.qa/wps/portal/NCTC/Home/",
+      "method": "manual"
+    },
+    {
+      "id": "jdsupra-aml",
+      "label": "JD Supra — Anti-Money Laundering (law firm alerts)",
+      "kind": "commentary",
+      "jurisdiction": "International",
+      "url": "https://www.jdsupra.com/topics/anti-money-laundering/",
       "method": "manual"
     }
   ]
