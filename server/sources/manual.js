@@ -29,6 +29,27 @@ const MANUAL_SOURCES = [
     jurisdiction: "EU",
     url: "https://www.eba.europa.eu/publications-and-media/publications",
   },
+  {
+    id: "mas-news",
+    label: "Monetary Authority of Singapore — News",
+    kind: "guidance",
+    jurisdiction: "Singapore",
+    url: "https://www.mas.gov.sg/news",
+  },
+  {
+    id: "cbuae-news",
+    label: "Central Bank of the UAE — News & Insights",
+    kind: "guidance",
+    jurisdiction: "UAE",
+    url: "https://centralbank.ae/en/news-and-publications/news-and-insights/",
+  },
+  {
+    id: "qcb-news",
+    label: "Qatar Central Bank — Publications",
+    kind: "guidance",
+    jurisdiction: "Qatar",
+    url: "https://www.qcb.gov.qa/en/publications",
+  },
 ];
 
 function listManual() {

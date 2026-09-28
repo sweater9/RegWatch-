@@ -32,20 +32,20 @@ const FEEDS = [
     sourceUrl: "https://www.bankofengland.co.uk/news",
   },
   {
-    id: "bis-bcbs",
-    label: "Basel Committee (BIS) — Publications",
-    kind: "rulebook",
-    jurisdiction: "International",
-    feedUrl: "https://www.bis.org/doclist/bcbs_publications.rss",
-    sourceUrl: "https://www.bis.org/bcbs/publications.htm",
-  },
-  {
     id: "bis-press",
-    label: "Bank for International Settlements — Press",
+    label: "Bank for International Settlements — Media Releases",
     kind: "paper",
     jurisdiction: "International",
-    feedUrl: "https://www.bis.org/doclist/press.rss",
+    feedUrl: "https://www.bis.org/doclist/all_pressrels.rss",
     sourceUrl: "https://www.bis.org/press/index.htm",
+  },
+  {
+    id: "bafin-press",
+    label: "Germany BaFin — Press Releases",
+    kind: "guidance",
+    jurisdiction: "Germany",
+    feedUrl: "https://www.bafin.de/EN/service/rss/_function/RSS_Presse.xml?nn=187494",
+    sourceUrl: "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
   },
 ];
 

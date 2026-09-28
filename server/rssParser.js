@@ -38,10 +38,11 @@ function parseFeed(xml) {
       ? tag(block, "updated") || tag(block, "published")
       : tag(block, "pubDate") || tag(block, "dc:date");
     const summary = tag(block, "description") || tag(block, "summary") || tag(block, "content");
+    const parsedDate = dateStr ? new Date(dateStr) : null;
     items.push({
       title,
       link,
-      date: dateStr ? new Date(dateStr).toISOString() : null,
+      date: parsedDate && !isNaN(parsedDate.getTime()) ? parsedDate.toISOString() : null,
       summary: summary ? summary.slice(0, 280) : "",
     });
   }

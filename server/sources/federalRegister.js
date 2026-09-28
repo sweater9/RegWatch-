@@ -3,7 +3,7 @@
 const AGENCIES = [
   "financial-crimes-enforcement-network",
   "securities-and-exchange-commission",
-  "office-of-foreign-assets-control",
+  "foreign-assets-control-office",
   "comptroller-of-the-currency",
 ];
 
@@ -20,17 +20,20 @@ async function fetchFederalRegister() {
   if (!res.ok) throw new Error(`Federal Register fetch failed: ${res.status}`);
   const data = await res.json();
   const results = data?.results || [];
-  return results.slice(0, 15).map((doc) => ({
-    title: doc.title,
-    link: doc.html_url,
-    date: doc.publication_date ? new Date(doc.publication_date).toISOString() : null,
-    summary: (doc.abstract || "").slice(0, 280),
-    sourceId: "federal-register",
-    sourceLabel: "US Federal Register",
-    sourceUrl: "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
-    kind: "rulebook",
-    jurisdiction: "US",
-  }));
+  return results.slice(0, 15).map((doc) => {
+    const parsedDate = doc.publication_date ? new Date(doc.publication_date) : null;
+    return {
+      title: doc.title,
+      link: doc.html_url,
+      date: parsedDate && !isNaN(parsedDate.getTime()) ? parsedDate.toISOString() : null,
+      summary: (doc.abstract || "").slice(0, 280),
+      sourceId: "federal-register",
+      sourceLabel: "US Federal Register",
+      sourceUrl: "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      kind: "rulebook",
+      jurisdiction: "US",
+    };
+  });
 }
 
 module.exports = { fetchFederalRegister, label: "US Federal Register" };
