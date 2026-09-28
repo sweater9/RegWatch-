@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T20:47:02.455Z",
-  "cachedAt": "2026-09-28T20:47:02.455Z",
+  "generatedAt": "2026-09-28T20:58:25.079Z",
+  "cachedAt": "2026-09-28T20:58:25.079Z",
   "items": [
     {
       "title": "SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest",
@@ -9,6 +9,7 @@
       "summary": "The Securities and Exchange Commission today announced settled charges against New York-based investment adviser Zoe Financial Inc. for failing to fully and fairly disclose material facts concerning conflicts of interest to its clients and prospective…",
       "sourceId": "sec-press",
       "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
     },
@@ -19,6 +20,7 @@
       "summary": "The Market Participants Group (MPG) is a senior-level forum for financial market participants to share their views on relevant themes and narratives in financial markets with members of the Bank of England’s Monetary Policy Committee.",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
     },
@@ -29,6 +31,7 @@
       "summary": "The Securities and Exchange Commission’s Division of Economic and Risk Analysis (DERA) published updated statistics and data visualizations covering key segments of the U.S. capital markets, including a notable increase in the number of initial public…",
       "sourceId": "sec-press",
       "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
     },
@@ -39,6 +42,7 @@
       "summary": "The Securities and Exchange Commission today charged CMI Capital LLC and its founder and manager, Michael D. Williams, for an alleged fraudulent investment scheme that raised approximately $860,000 from at least 18 investors, many of whom are current or…",
       "sourceId": "sec-press",
       "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
     },
@@ -49,6 +53,7 @@
       "summary": "The Securities and Exchange Commission today censured New York-based broker dealer OTC Link LLC and ordered it to pay a $575,000 civil penalty for longstanding violations of Regulation Systems Compliance and Integrity (SCI).According to the SEC’s settled…",
       "sourceId": "sec-press",
       "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
     },
@@ -59,6 +64,7 @@
       "summary": "Not for distribution, directly or indirectly, in or into the United States, Canada, Australia, Japan or any other jurisdiction where it is unlawful to distribute this announcement",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
     },
@@ -69,6 +75,7 @@
       "summary": "The Bank of England has secured a new long-term premises in Leeds, marking a major milestone in its commitment to build its presence in the region.",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
     },
@@ -79,6 +86,7 @@
       "summary": "Not for distribution, directly or indirectly, in or into the United States, Canada, Australia, Japan or any other jurisdiction where it is unlawful to distribute this announcement",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
     },
@@ -89,6 +97,7 @@
       "summary": "The Transaction and Post-trade Reporting Harmonisation Taskforce, through its three working groups, will help inform the design of the Bank and FCA’s long-term approach to harmonising UK MiFIR, UK EMIR and UK SFTR reporting requirements",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
     },
@@ -99,6 +108,7 @@
       "summary": "Following the publication of the Monetary Policy Summary and minutes of the Monetary Policy Committee meeting",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
     },
@@ -109,6 +119,7 @@
       "summary": "2027 confirmed dates",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
     },
@@ -119,28 +130,9 @@
       "summary": "The SEC is taking a significant step forward, within its statutory authority, to bring America’s capital markets into the digital age by facilitating onchain trading of certain tokenized stocks.",
       "sourceId": "sec-press",
       "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
-    },
-    {
-      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
-      "date": "2026-09-17T11:00:00.000Z",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "sourceId": "boe-news",
-      "sourceLabel": "Bank of England — News",
-      "kind": "guidance",
-      "jurisdiction": "UK"
-    },
-    {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 17 September 2026",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026",
-      "date": "2026-09-17T11:00:00.000Z",
-      "summary": "This Market Notice outlines the Bank Executive’s approach to implementing the Monetary Policy Committee’s (MPC) decision to unwind the gilts held for monetary policy purposes in the Asset Purchase Facility (APF). As part of this, Bank APF auctions will be paused while the Bank re",
-      "sourceId": "boe-news",
-      "sourceLabel": "Bank of England — News",
-      "kind": "guidance",
-      "jurisdiction": "UK"
     },
     {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
@@ -149,6 +141,7 @@
       "summary": "Exchange of letters between the Governor and the Chancellor",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
     },
@@ -159,6 +152,29 @@
       "summary": "Exchange of letters between the Governor and the Chancellor",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 17 September 2026",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026",
+      "date": "2026-09-17T11:00:00.000Z",
+      "summary": "This Market Notice outlines the Bank Executive’s approach to implementing the Monetary Policy Committee’s (MPC) decision to unwind the gilts held for monetary policy purposes in the Asset Purchase Facility (APF). As part of this, Bank APF auctions will be paused while the Bank re",
+      "sourceId": "boe-news",
+      "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+      "date": "2026-09-17T11:00:00.000Z",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "sourceId": "boe-news",
+      "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
     },
@@ -169,6 +185,7 @@
       "summary": "His Majesty the King and the Chancellor have appointed three new non-executive directors to the Bank of England’s Court of Directors",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
     },
@@ -179,6 +196,7 @@
       "summary": "The Securities and Exchange Commission today proposed to rescind Rule 14a-8 under the Securities Exchange Act of 1934, which exceeds the scope of the Commission's statutory authority and intrudes into matters of state law.The Commission outlined…",
       "sourceId": "sec-press",
       "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
     },
@@ -189,6 +207,7 @@
       "summary": "The Securities and Exchange Commission issued an order granting exemptive relief from certain Inline XBRL requirements adopted on Dec. 16, 2024. More specifically, the Commission is granting exemptive relief from filing or submitting the following in…",
       "sourceId": "sec-press",
       "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
     },
@@ -199,6 +218,7 @@
       "summary": "Senior officials from the Securities and Exchange Commission, Federal Deposit Insurance Corporation, Commodity Futures Trading Commission, Federal Reserve Board, and Bank of England convened for a tabletop exercise on Sept. 3, 2026, to discuss certain…",
       "sourceId": "sec-press",
       "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
     },
@@ -209,6 +229,7 @@
       "summary": "The Securities and Exchange Commission today charged Ernest Ossei Boateng and two New Jersey-based companies he controls, Intercontinental Wealth Network LLC and I Wealth Network LP, for allegedly raising approximately $16 million from more than 200…",
       "sourceId": "sec-press",
       "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
     },
@@ -219,6 +240,7 @@
       "summary": "The Securities and Exchange Commission today issued a&nbsp;proposal&nbsp;to rescind&nbsp;its “pay-to-play”&nbsp;rule that&nbsp;prohibits investment advisers from providing&nbsp;compensated investment advisory services to a government client for two years…",
       "sourceId": "sec-press",
       "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
     },
@@ -229,6 +251,7 @@
       "summary": "The Securities and Exchange Commission’s&nbsp;Investor Advisory Committee will host a public meeting at the SEC Headquarters in Washington D.C. on Sept. 10 at 10 a.m. ET to discuss artificial intelligence technologies in the public markets and the SEC’s…",
       "sourceId": "sec-press",
       "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
     },
@@ -239,6 +262,7 @@
       "summary": "The Securities and Exchange Commission today announced the agenda and panelists for its Sept. 17, 2026, roundtable on preparations for 24-hour trading.The roundtable will be held at the SEC’s headquarters at 100 F Street, N.E., Washington, D.C., from 10…",
       "sourceId": "sec-press",
       "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
     }
