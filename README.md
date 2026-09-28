@@ -4,11 +4,13 @@ A chronological feed of regulatory guidance, papers, and rulemaking from AML/KYC
 
 ## Sources
 
-- **Fetched feeds:** UK FCA, US SEC, Bank of England, Basel Committee (BIS), BIS press
+- **Fetched feeds:** UK FCA, US SEC (press releases + litigation releases), Bank of England, Basel Committee (BIS), BIS press, Germany BaFin, US DOJ (filtered to financial-crime coverage)
 - **Fetched API:** US Federal Register (FinCEN, SEC, OFAC, OCC rulemaking)
-- **Manual-link fallback** (no stable public feed): FATF, European Commission, FinCEN news, EBA
+- **Manual-link fallback** (no stable public feed): FATF, European Commission, FinCEN news, EBA, Singapore MAS, seven UAE regulators (EOCN, DFSA, Central Bank, CMA, ADGM FSRA, VARA, UN sanctions list implementation), Qatar (QFCRA, NCTC), JD Supra's AML topic page for law firm commentary
 
 Each source is fetched independently; a source that's temporarily down doesn't block the rest — it's reported in `feed.json`'s `sourceErrors` instead.
+
+**On Reuters/Bloomberg/Financial Times:** none currently offer a free public RSS feed (Reuters discontinued theirs, Bloomberg only publishes RSS for corporate press releases rather than editorial coverage, and FT's feed requires a paid myFT login). A Google News site-scoped RSS workaround does technically work, but Google's own feed terms restrict it to personal, non-commercial feed-reader use — not a fit for a public aggregator. DOJ and SEC litigation releases were added instead as genuinely free wire-equivalent coverage of major sanctions/AML enforcement.
 
 ## How it works
 

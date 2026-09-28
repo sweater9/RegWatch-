@@ -47,6 +47,25 @@ const FEEDS = [
     feedUrl: "https://www.bafin.de/EN/service/rss/_function/RSS_Presse.xml?nn=187494",
     sourceUrl: "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
   },
+  {
+    id: "doj-press",
+    label: "US DOJ — Press Releases",
+    kind: "guidance",
+    jurisdiction: "US",
+    feedUrl: "https://www.justice.gov/news/rss?m=1",
+    sourceUrl: "https://www.justice.gov/news/press-releases",
+    // DOJ's feed covers all department news; keep only the financial-crime
+    // subset relevant to this tool instead of every prosecution.
+    filterKeywords: ["sanction", "money launder", "laundering", "AML", "OFAC", "terrorist financ", "financial crime", "bank secrecy", "forfeiture", "cryptocurrency fraud", "wire fraud"],
+  },
+  {
+    id: "sec-litigation",
+    label: "US SEC — Litigation Releases",
+    kind: "guidance",
+    jurisdiction: "US",
+    feedUrl: "https://www.sec.gov/enforcement-litigation/litigation-releases/rss",
+    sourceUrl: "https://www.sec.gov/enforcement-litigation/litigation-releases",
+  },
 ];
 
 async function fetchFeed(source) {
@@ -56,7 +75,15 @@ async function fetchFeed(source) {
   });
   if (!res.ok) throw new Error(`${source.label} fetch failed: ${res.status}`);
   const xml = await res.text();
-  const items = parseFeed(xml).slice(0, 12);
+  let items = parseFeed(xml);
+  if (source.filterKeywords) {
+    const keywords = source.filterKeywords.map((k) => k.toLowerCase());
+    items = items.filter((item) => {
+      const text = `${item.title} ${item.summary}`.toLowerCase();
+      return keywords.some((k) => text.includes(k));
+    });
+  }
+  items = items.slice(0, 12);
   return items.map((item) => ({
     ...item,
     sourceId: source.id,

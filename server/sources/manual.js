@@ -99,6 +99,13 @@ const MANUAL_SOURCES = [
     jurisdiction: "Qatar",
     url: "https://portal.moi.gov.qa/wps/portal/NCTC/Home/",
   },
+  {
+    id: "jdsupra-aml",
+    label: "JD Supra — Anti-Money Laundering (law firm alerts)",
+    kind: "commentary",
+    jurisdiction: "International",
+    url: "https://www.jdsupra.com/topics/anti-money-laundering/",
+  },
 ];
 
 function listManual() {
