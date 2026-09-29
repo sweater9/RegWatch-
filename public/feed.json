@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T21:17:53.500Z",
-  "cachedAt": "2026-09-28T21:17:53.500Z",
+  "generatedAt": "2026-09-29T04:34:14.434Z",
+  "cachedAt": "2026-09-29T04:34:14.434Z",
   "items": [
     {
       "title": "Jacob Garfinkel; 5G Funding LLC; Five G Funding LLC",
@@ -498,6 +498,17 @@
       "jurisdiction": "US"
     },
     {
+      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+      "date": "2026-09-17T11:00:00.000Z",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "sourceId": "boe-news",
+      "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
       "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
       "date": "2026-09-17T11:00:00.000Z",
@@ -524,17 +535,6 @@
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026",
       "date": "2026-09-17T11:00:00.000Z",
       "summary": "This Market Notice outlines the Bank Executive’s approach to implementing the Monetary Policy Committee’s (MPC) decision to unwind the gilts held for monetary policy purposes in the Asset Purchase Facility (APF). As part of this, Bank APF auctions will be paused while the Bank re",
-      "sourceId": "boe-news",
-      "sourceLabel": "Bank of England — News",
-      "sourceUrl": "https://www.bankofengland.co.uk/news",
-      "kind": "guidance",
-      "jurisdiction": "UK"
-    },
-    {
-      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
-      "date": "2026-09-17T11:00:00.000Z",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
       "sourceUrl": "https://www.bankofengland.co.uk/news",
