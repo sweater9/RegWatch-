@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T16:36:27.301Z",
-  "cachedAt": "2026-09-29T16:36:27.301Z",
+  "generatedAt": "2026-09-29T17:36:21.626Z",
+  "cachedAt": "2026-09-29T17:36:21.626Z",
   "items": [
     {
       "title": "Aktualisierte Sanktionsmeldung: ISIL (Da'esh) und Al-Kaida",
@@ -564,17 +564,6 @@
       "jurisdiction": "UK"
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 17 September 2026",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026",
-      "date": "2026-09-17T11:00:00.000Z",
-      "summary": "This Market Notice outlines the Bank Executive’s approach to implementing the Monetary Policy Committee’s (MPC) decision to unwind the gilts held for monetary policy purposes in the Asset Purchase Facility (APF). As part of this, Bank APF auctions will be paused while the Bank re",
-      "sourceId": "boe-news",
-      "sourceLabel": "Bank of England — News",
-      "sourceUrl": "https://www.bankofengland.co.uk/news",
-      "kind": "guidance",
-      "jurisdiction": "UK"
-    },
-    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
       "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
       "date": "2026-09-17T11:00:00.000Z",
@@ -590,6 +579,17 @@
       "link": "https://www.bankofengland.co.uk/letter/2026/exchange-of-letters-between-the-governor-and-the-chancellor-regarding-qt-and-the-apf",
       "date": "2026-09-17T11:00:00.000Z",
       "summary": "Exchange of letters between the Governor and the Chancellor",
+      "sourceId": "boe-news",
+      "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 17 September 2026",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026",
+      "date": "2026-09-17T11:00:00.000Z",
+      "summary": "This Market Notice outlines the Bank Executive’s approach to implementing the Monetary Policy Committee’s (MPC) decision to unwind the gilts held for monetary policy purposes in the Asset Purchase Facility (APF). As part of this, Bank APF auctions will be paused while the Bank re",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
       "sourceUrl": "https://www.bankofengland.co.uk/news",
