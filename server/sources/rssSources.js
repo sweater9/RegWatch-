@@ -66,6 +66,22 @@ const FEEDS = [
     feedUrl: "https://www.sec.gov/enforcement-litigation/litigation-releases/rss",
     sourceUrl: "https://www.sec.gov/enforcement-litigation/litigation-releases",
   },
+  {
+    id: "finma-news",
+    label: "Switzerland FINMA — News",
+    kind: "guidance",
+    jurisdiction: "Switzerland",
+    feedUrl: "https://www.finma.ch/en/rss/news/",
+    sourceUrl: "https://www.finma.ch/en/news/",
+  },
+  {
+    id: "austrac-media",
+    label: "AUSTRAC (Australia) — Media Releases",
+    kind: "guidance",
+    jurisdiction: "Australia",
+    feedUrl: "https://www.austrac.gov.au/media-release/rss.xml",
+    sourceUrl: "https://www.austrac.gov.au/news-and-media/media-releases",
+  },
 ];
 
 async function fetchFeed(source) {
