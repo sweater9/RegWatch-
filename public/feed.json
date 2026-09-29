@@ -1,7 +1,40 @@
 {
-  "generatedAt": "2026-09-29T05:49:29.336Z",
-  "cachedAt": "2026-09-29T05:49:29.336Z",
+  "generatedAt": "2026-09-29T08:44:30.402Z",
+  "cachedAt": "2026-09-29T08:44:30.402Z",
   "items": [
+    {
+      "title": "Purpose Mutual Funds Limited: Bafin warns consumers about websites promarketscfd(.)com, rormarkets(.)com and firstrade24(.)com",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_29_promarketscfd_rormarkets_firstrade24_en.html",
+      "date": "2026-09-29T07:00:00.000Z",
+      "summary": "The Federal Financial Supervisory Authority (Bafin) warns consumers about the services offered on the websites promarketscfd(.)com, rormarkets(.)com and firstrade24(.)com. According to information available to Bafin, these websites are offering banking business, financial or inve",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
+    },
+    {
+      "title": "staublicapital(.)com: Bafin warns about websites and points out identity theft.",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_29_staublicapital_com_en.html",
+      "date": "2026-09-29T06:03:00.000Z",
+      "summary": "The German Financial Supervisory Authority (Bafin) warns about offers on the website staublicapital(.)com. It is suspected that the unknown operators are offering without the required authorisation banking business on the website, as well as via unsolicited telephone calls and e-",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
+    },
+    {
+      "title": "FINMA concludes enforcement proceeding against Julius Bär",
+      "link": "https://www.finma.ch/en/news/2026/09/20260929-mm-enforcementverfahren/",
+      "date": "2026-09-29T04:45:00.000Z",
+      "summary": "The Swiss Financial Market Supervisory Authority FINMA has concluded an enforcement proceeding against Julius Bär bank in connection with private debt loans granted to a European group and client relationships involving two Russian PEPs, or politically exposed persons. It has est",
+      "sourceId": "finma-news",
+      "sourceLabel": "Switzerland FINMA — News",
+      "sourceUrl": "https://www.finma.ch/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Switzerland"
+    },
     {
       "title": "Jacob Garfinkel; 5G Funding LLC; Five G Funding LLC",
       "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26651",
@@ -146,6 +179,17 @@
       "jurisdiction": "Germany"
     },
     {
+      "title": "Sanktionen: Belarus",
+      "link": "https://www.finma.ch/en/news/2026/09/20260925-sanktionen-belarus/",
+      "date": "2026-09-25T06:50:01.000Z",
+      "summary": "Der Bundesrat hat am 18. September 2026 weitere Sanktionsmassnahmen gegenüber Belarus beschlossen. Er schliesst sich damit den Massnahmen an, welche die Europäische Union (EU) am 23. April 2026 gegenüber Belarus verabschiedet hatte. Die Neuerungen treten am 19. September 2026 in ",
+      "sourceId": "finma-news",
+      "sourceLabel": "Switzerland FINMA — News",
+      "sourceUrl": "https://www.finma.ch/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Switzerland"
+    },
+    {
       "title": "Minutes of the Market Participants Group meeting – 24 September 2026",
       "link": "https://www.bankofengland.co.uk/minutes/2026/september/market-participants-group-meeting-25-september-2026",
       "date": "2026-09-25T06:30:00.000Z",
@@ -234,17 +278,6 @@
       "jurisdiction": "Germany"
     },
     {
-      "title": "kapitalmitte(.)com and aw-vermoegensverwaltung(.)de: Bafin warns about websites and points out identity theft",
-      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_24_kapitalmitte_aw-vermoegensverwaltung_en.html",
-      "date": "2026-09-24T04:00:00.000Z",
-      "summary": "The German Financial Supervisory Authority (Bafin) warns about offers on the websites kapitalmitte(.)com und aw-vermoegensverwaltung(.)de. It is suspected that the unknown operators are offering banking business and financial services without the required authorisation.",
-      "sourceId": "bafin-press",
-      "sourceLabel": "Germany BaFin — Press Releases",
-      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
-      "kind": "guidance",
-      "jurisdiction": "Germany"
-    },
-    {
       "title": "Michael D. Williams and CMI Capital, LLC",
       "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26646",
       "date": "2026-09-23T20:01:48.000Z",
@@ -276,17 +309,6 @@
       "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
-    },
-    {
-      "title": "kapitallotse(.)com: Bafin warns about website and points out identity theft",
-      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_23_kapitallotse_en.html",
-      "date": "2026-09-23T12:48:00.000Z",
-      "summary": "The German Financial Supervisory Authority (Bafin) warns about offers on the website kapitallotse(.)com. It is suspected that the unknown operators are offering banking business and financial services without the required authorisation.",
-      "sourceId": "bafin-press",
-      "sourceLabel": "Germany BaFin — Press Releases",
-      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
-      "kind": "guidance",
-      "jurisdiction": "Germany"
     },
     {
       "title": "Basel III risk-based capital and leverage ratios are stable while liquidity  indicators show limited movements for large internationally active  banks, latest Basel III monitoring exercise shows",
@@ -443,6 +465,17 @@
       "jurisdiction": "UK"
     },
     {
+      "title": "Swiss Takeover Board: Joris Gröflin elected as new member",
+      "link": "https://www.finma.ch/en/news/2026/09/20260921-mm-uebernahmekommission/",
+      "date": "2026-09-21T08:00:00.000Z",
+      "summary": "The Board of Directors of the Swiss Financial Market Supervisory Authority FINMA has appointed Joris Gröflin to the Swiss Takeover Board with effect from 1 January 2027.",
+      "sourceId": "finma-news",
+      "sourceLabel": "Switzerland FINMA — News",
+      "sourceUrl": "https://www.finma.ch/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Switzerland"
+    },
+    {
       "title": "Ellen Polcari",
       "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26642",
       "date": "2026-09-18T20:06:11.000Z",
@@ -498,17 +531,6 @@
       "jurisdiction": "US"
     },
     {
-      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
-      "date": "2026-09-17T11:00:00.000Z",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "sourceId": "boe-news",
-      "sourceLabel": "Bank of England — News",
-      "sourceUrl": "https://www.bankofengland.co.uk/news",
-      "kind": "guidance",
-      "jurisdiction": "UK"
-    },
-    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
       "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
       "date": "2026-09-17T11:00:00.000Z",
@@ -535,6 +557,17 @@
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026",
       "date": "2026-09-17T11:00:00.000Z",
       "summary": "This Market Notice outlines the Bank Executive’s approach to implementing the Monetary Policy Committee’s (MPC) decision to unwind the gilts held for monetary policy purposes in the Asset Purchase Facility (APF). As part of this, Bank APF auctions will be paused while the Bank re",
+      "sourceId": "boe-news",
+      "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+      "date": "2026-09-17T11:00:00.000Z",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
       "sourceUrl": "https://www.bankofengland.co.uk/news",
@@ -696,6 +729,17 @@
       "jurisdiction": "US"
     },
     {
+      "title": "Aktualisierte Sanktionsmeldung: ISIL (Da'esh) und Al-Kaida",
+      "link": "https://www.finma.ch/en/news/2026/09/20260908-sr-946-231-08/",
+      "date": "2026-09-08T09:47:23.000Z",
+      "summary": "",
+      "sourceId": "finma-news",
+      "sourceLabel": "Switzerland FINMA — News",
+      "sourceUrl": "https://www.finma.ch/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Switzerland"
+    },
+    {
       "title": "Global standard-setting bodies publish a toolkit for cyber resilience at FMIs and a discussion paper on FMIs’ reliance on third-party service providers",
       "link": "https://www.bis.org/media-releases/20260908-global-standard-setting-bodies-publish-toolkit-cyber-resilience-fmis-and-discussion-paper-fmis",
       "date": "2026-09-08T00:00:00.000Z",
@@ -705,6 +749,17 @@
       "sourceUrl": "https://www.bis.org/press/index.htm",
       "kind": "paper",
       "jurisdiction": "International"
+    },
+    {
+      "title": "FINMA’s supervision of small banks: proportionality as a guiding principle for effective supervision",
+      "link": "https://www.finma.ch/en/documentation/finma-publications/addresses-and-specialist-articles/referate-folder/20260907-rede-stefan-walter-kbs-2026/",
+      "date": "2026-09-07T08:42:00.000Z",
+      "summary": "",
+      "sourceId": "finma-news",
+      "sourceLabel": "Switzerland FINMA — News",
+      "sourceUrl": "https://www.finma.ch/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Switzerland"
     },
     {
       "title": "Geographic Targeting Order Imposing Recordkeeping and Reporting Requirements on Certain Money Services Businesses Along the Southwest Border",
@@ -749,6 +804,83 @@
       "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
+    },
+    {
+      "title": "Aktualisierte Sanktionsmeldung: Taliban",
+      "link": "https://www.finma.ch/en/news/2026/08/20260831-sr-946-231-07/",
+      "date": "2026-08-31T13:02:02.000Z",
+      "summary": "Das Staatssekretariat für Wirtschaft (SECO) hat eine Änderung der Liste der sanktionierten natürlichen Personen, Unternehmen und Organisationen der Verordnung vom 21. März 2025 über Massnahmen gegenüber Personen und Organisationen, die mit den Taliban in Verbindung stehen (SR 946",
+      "sourceId": "finma-news",
+      "sourceLabel": "Switzerland FINMA — News",
+      "sourceUrl": "https://www.finma.ch/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Switzerland"
+    },
+    {
+      "title": "Sanktionen: Russland",
+      "link": "https://www.finma.ch/en/news/2026/08/20260820-sr/",
+      "date": "2026-08-20T15:00:00.000Z",
+      "summary": "Der Bundesrat hat am 19. August 2026 beschlossen, sich den weiteren Massnahmen des 20. Sanktionspakets der Europäischen Union (EU) gegenüber Russland gemäss bisheriger Praxis anzuschliessen. Die neuen Massnahmen treten am 20. August 2026 in Kraft.",
+      "sourceId": "finma-news",
+      "sourceLabel": "Switzerland FINMA — News",
+      "sourceUrl": "https://www.finma.ch/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Switzerland"
+    },
+    {
+      "title": "Swiss insurance sector continues to strengthen its resilience",
+      "link": "https://www.finma.ch/en/news/2026/08/20260820-mm-versicherungsmarktbericht-2025/",
+      "date": "2026-08-20T08:00:00.000Z",
+      "summary": "The 2025 insurance market report, published today by the Swiss Financial Market Supervisory Authority FINMA, shows that the Swiss insurance sector is in a strong financial position overall. Insurance companies significantly increased their equity and continued to maintain a high ",
+      "sourceId": "finma-news",
+      "sourceLabel": "Switzerland FINMA — News",
+      "sourceUrl": "https://www.finma.ch/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Switzerland"
+    },
+    {
+      "title": "Aktualisierte Sanktionsmeldung: ISIL (Da'esh) und Al-Kaida",
+      "link": "https://www.finma.ch/en/news/2026/08/20260820-sr-946-231-08/",
+      "date": "2026-08-20T03:43:47.000Z",
+      "summary": "Das Staatssekretariat für Wirtschaft (SECO) hat eine Änderung der Liste der sanktionierten natürlichen Personen, Unternehmen und Organisationen der Verordnung vom 21. März 2025 über Massnahmen gegenüber Personen und Organisationen, die mit den Organisationen ISIL (Da'esh) und Al-",
+      "sourceId": "finma-news",
+      "sourceLabel": "Switzerland FINMA — News",
+      "sourceUrl": "https://www.finma.ch/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Switzerland"
+    },
+    {
+      "title": "Aktualisierte Sanktionsmeldung: ISIL (Da'esh) und Al-Kaida",
+      "link": "https://www.finma.ch/en/news/2026/08/20260819-sr-946-231-08/",
+      "date": "2026-08-19T07:45:24.000Z",
+      "summary": "Das Staatssekretariat für Wirtschaft (SECO) hat eine Änderung der Liste der sanktionierten natürlichen Personen, Unternehmen und Organisationen der Verordnung vom 21. März 2025 über Massnahmen gegenüber Personen und Organisationen, die mit den Organisationen ISIL (Da'esh) und Al-",
+      "sourceId": "finma-news",
+      "sourceLabel": "Switzerland FINMA — News",
+      "sourceUrl": "https://www.finma.ch/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Switzerland"
+    },
+    {
+      "title": "Aktualisierte Sanktionsmeldung: Islamische Republik Iran",
+      "link": "https://www.finma.ch/en/news/2026/08/20260818-sr-946-231-143-6/",
+      "date": "2026-08-18T14:36:28.000Z",
+      "summary": "Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung WBF hat eine Änderung der Anhänge 12, 13 und 14 der Verordnung vom 12. Dezember 2025 über Massnahmen gegenüber der Islamischen Republik Iran (SR 946.231.143.6) publiziert.",
+      "sourceId": "finma-news",
+      "sourceLabel": "Switzerland FINMA — News",
+      "sourceUrl": "https://www.finma.ch/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Switzerland"
+    },
+    {
+      "title": "Aktualisierte Sanktionsmeldung: Russland",
+      "link": "https://www.finma.ch/en/news/2026/08/20260817-sr-946-231-176-72/",
+      "date": "2026-08-17T12:29:53.000Z",
+      "summary": "Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung WBF hat Änderungen des Anhangs 2 und 14a der Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine (SR 946.231.176.72) publiziert.",
+      "sourceId": "finma-news",
+      "sourceLabel": "Switzerland FINMA — News",
+      "sourceUrl": "https://www.finma.ch/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Switzerland"
     },
     {
       "title": "Global economic pressure points call for policy discipline: BIS",
@@ -971,7 +1103,12 @@
       "jurisdiction": "UK"
     }
   ],
-  "sourceErrors": [],
+  "sourceErrors": [
+    {
+      "source": "AUSTRAC (Australia) — Media Releases",
+      "error": "The operation was aborted due to timeout"
+    }
+  ],
   "manualSources": [
     {
       "id": "fatf-publications",
