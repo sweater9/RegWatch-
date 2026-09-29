@@ -26,7 +26,11 @@ This writes `public/feed.json`. Open `public/index.html` in a browser (or serve 
 
 ## Deploy
 
-GitHub Pages, via the included workflow. Enable it once under **Settings → Pages → Source: GitHub Actions**; it then updates itself on schedule and redeploys automatically.
+**GitHub Pages** (primary): via the included workflow. Enable it once under **Settings → Pages → Source: GitHub Actions**; it then updates itself on schedule and redeploys automatically.
+
+**Cloudflare Workers** (optional, mirrors the same static site): the workflow also deploys to Cloudflare Workers on every run, using `wrangler.toml`'s static-assets config — but only if `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID` are set as repo secrets (**Settings → Secrets and variables → Actions**). Without those secrets, that step is skipped and GitHub Pages still deploys normally. Create the token at the Cloudflare dashboard (My Profile → API Tokens → a token with Workers Scripts: Edit permission for the target account); the account ID is on the Cloudflare dashboard's right sidebar.
+
+If a Worker was ever deployed manually (`wrangler deploy` from a local copy, or pasted via the dashboard), it has no ongoing link to this repo — pushes here will never reach it until the secrets above are set and this workflow's Cloudflare step actually runs.
 
 ## Project layout
 
