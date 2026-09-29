@@ -1,7 +1,51 @@
 {
-  "generatedAt": "2026-09-29T18:07:27.922Z",
-  "cachedAt": "2026-09-29T18:07:27.922Z",
+  "generatedAt": "2026-09-29T22:20:50.163Z",
+  "cachedAt": "2026-09-29T22:20:50.163Z",
   "items": [
+    {
+      "title": "Timothy E. Alatorre, Rhonda D. Stevenson, and Above: Space Development Corporation f/k/a Orbital Assembly Corporation",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26655",
+      "date": "2026-09-29T21:45:00.000Z",
+      "summary": "Timothy E. Alatorre, Rhonda D. Stevenson, and Above: Space Development Corporation f/k/a Orbital Assembly Corporation",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Cryptoaiml Ltd.; Cryptoaiml Capital Foundation; TSAI Pro Ltd.; TSAI Capital Foundation",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26654",
+      "date": "2026-09-29T21:06:47.000Z",
+      "summary": "Cryptoaiml Ltd.; Cryptoaiml Capital Foundation; TSAI Pro Ltd.; TSAI Capital Foundation",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Chris Farrant",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26653",
+      "date": "2026-09-29T19:20:25.000Z",
+      "summary": "Chris Farrant",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Cheryl R. Kramer",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26652",
+      "date": "2026-09-29T18:58:51.000Z",
+      "summary": "Cheryl R. Kramer",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
     {
       "title": "Aktualisierte Sanktionsmeldung: ISIL (Da'esh) und Al-Kaida",
       "link": "https://www.finma.ch/en/news/2026/09/aktualisierte-sanktionsmeldung_isil-da-esh-und-al-kaida/",
@@ -421,17 +465,6 @@
       "jurisdiction": "UK"
     },
     {
-      "title": "Extradited Nigerian National Pleads Guilty to Money Laundering in Connection with Sextortion and Romance Scams",
-      "link": "https://www.justice.gov/opa/pr/extradited-nigerian-national-pleads-guilty-money-laundering-connection-sextortion-and",
-      "date": "2026-09-22T12:00:00.000Z",
-      "summary": "Olamide Shanu, 35, a Nigerian national, pleaded guilty yesterday in the District of Idaho to charges related to his role in several cyber-enabled schemes that defrauded approximately 150 American victims and caused millions of dollars in losses.&nbsp;Shanu made more than $2,500,0",
-      "sourceId": "doj-press",
-      "sourceLabel": "US DOJ — Press Releases",
-      "sourceUrl": "https://www.justice.gov/news/press-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
       "title": "Unsafe or Unsound Practices, Matters Requiring Attention; Correction",
       "link": "https://www.federalregister.gov/documents/2026/09/22/2026-19312/unsafe-or-unsound-practices-matters-requiring-attention-correction",
       "date": "2026-09-22T00:00:00.000Z",
@@ -447,17 +480,6 @@
       "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26644",
       "date": "2026-09-21T21:32:16.000Z",
       "summary": "Michael T. Christensen",
-      "sourceId": "sec-litigation",
-      "sourceLabel": "US SEC — Litigation Releases",
-      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
-      "title": "Michael Ayala; Wavemark Capital, LLC",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26643",
-      "date": "2026-09-21T21:27:18.000Z",
-      "summary": "Michael Ayala; Wavemark Capital, LLC",
       "sourceId": "sec-litigation",
       "sourceLabel": "US SEC — Litigation Releases",
       "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
@@ -496,17 +518,6 @@
       "sourceUrl": "https://www.finma.ch/en/news/",
       "kind": "guidance",
       "jurisdiction": "Switzerland"
-    },
-    {
-      "title": "Ellen Polcari",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26642",
-      "date": "2026-09-18T20:06:11.000Z",
-      "summary": "Ellen Polcari",
-      "sourceId": "sec-litigation",
-      "sourceLabel": "US SEC — Litigation Releases",
-      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
     },
     {
       "title": "Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026",
@@ -597,17 +608,6 @@
       "jurisdiction": "UK"
     },
     {
-      "title": "Jessica Richman and Zachary Apte",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26641",
-      "date": "2026-09-16T22:01:05.000Z",
-      "summary": "Jessica Richman and Zachary Apte",
-      "sourceId": "sec-litigation",
-      "sourceLabel": "US SEC — Litigation Releases",
-      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
       "title": "Chancellor announces Bank of England appointments",
       "link": "https://www.bankofengland.co.uk/news/2026/september/chancellor-announces-boe-appointments",
       "date": "2026-09-16T14:03:08.000Z",
@@ -626,17 +626,6 @@
       "sourceId": "sec-press",
       "sourceLabel": "US SEC — Press Releases",
       "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
-      "title": "Jon P. Kipp",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26640",
-      "date": "2026-09-15T21:32:14.000Z",
-      "summary": "Jon P. Kipp",
-      "sourceId": "sec-litigation",
-      "sourceLabel": "US SEC — Litigation Releases",
-      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
       "kind": "guidance",
       "jurisdiction": "US"
     },
