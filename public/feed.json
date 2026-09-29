@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-09-29T13:00:47.138Z",
-  "cachedAt": "2026-09-29T13:00:47.138Z",
+  "generatedAt": "2026-09-29T15:56:03.713Z",
+  "cachedAt": "2026-09-29T15:56:03.713Z",
   "items": [
+    {
+      "title": "Aktualisierte Sanktionsmeldung: ISIL (Da'esh) und Al-Kaida",
+      "link": "https://www.finma.ch/en/news/2026/09/aktualisierte-sanktionsmeldung_isil-da-esh-und-al-kaida/",
+      "date": "2026-09-29T15:31:00.000Z",
+      "summary": "Das Staatssekretariat für Wirtschaft (SECO) hat eine Änderung der Liste der sanktionierten natürlichen Personen, Unternehmen und Organisationen der Verordnung vom 21. März 2025 über Massnahmen gegenüber Personen und Organisationen, die mit den Organisationen ISIL (Da'esh) und Al-",
+      "sourceId": "finma-news",
+      "sourceLabel": "Switzerland FINMA — News",
+      "sourceUrl": "https://www.finma.ch/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Switzerland"
+    },
     {
       "title": "Purpose Mutual Funds Limited: Bafin warns consumers about websites promarketscfd(.)com, rormarkets(.)com and firstrade24(.)com",
       "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_29_promarketscfd_rormarkets_firstrade24_en.html",
@@ -531,21 +542,10 @@
       "jurisdiction": "US"
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
-      "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
+      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
       "date": "2026-09-17T11:00:00.000Z",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "sourceId": "boe-news",
-      "sourceLabel": "Bank of England — News",
-      "sourceUrl": "https://www.bankofengland.co.uk/news",
-      "kind": "guidance",
-      "jurisdiction": "UK"
-    },
-    {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding QT and the APF - September 2026",
-      "link": "https://www.bankofengland.co.uk/letter/2026/exchange-of-letters-between-the-governor-and-the-chancellor-regarding-qt-and-the-apf",
-      "date": "2026-09-17T11:00:00.000Z",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
       "sourceUrl": "https://www.bankofengland.co.uk/news",
@@ -564,10 +564,21 @@
       "jurisdiction": "UK"
     },
     {
-      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
+      "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
       "date": "2026-09-17T11:00:00.000Z",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "sourceId": "boe-news",
+      "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding QT and the APF - September 2026",
+      "link": "https://www.bankofengland.co.uk/letter/2026/exchange-of-letters-between-the-governor-and-the-chancellor-regarding-qt-and-the-apf",
+      "date": "2026-09-17T11:00:00.000Z",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
       "sourceUrl": "https://www.bankofengland.co.uk/news",
@@ -865,17 +876,6 @@
       "link": "https://www.finma.ch/en/news/2026/08/20260818-sr-946-231-143-6/",
       "date": "2026-08-18T14:36:28.000Z",
       "summary": "Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung WBF hat eine Änderung der Anhänge 12, 13 und 14 der Verordnung vom 12. Dezember 2025 über Massnahmen gegenüber der Islamischen Republik Iran (SR 946.231.143.6) publiziert.",
-      "sourceId": "finma-news",
-      "sourceLabel": "Switzerland FINMA — News",
-      "sourceUrl": "https://www.finma.ch/en/news/",
-      "kind": "guidance",
-      "jurisdiction": "Switzerland"
-    },
-    {
-      "title": "Aktualisierte Sanktionsmeldung: Russland",
-      "link": "https://www.finma.ch/en/news/2026/08/20260817-sr-946-231-176-72/",
-      "date": "2026-08-17T12:29:53.000Z",
-      "summary": "Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung WBF hat Änderungen des Anhangs 2 und 14a der Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine (SR 946.231.176.72) publiziert.",
       "sourceId": "finma-news",
       "sourceLabel": "Switzerland FINMA — News",
       "sourceUrl": "https://www.finma.ch/en/news/",
