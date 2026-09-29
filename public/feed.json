@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T18:02:53.210Z",
-  "cachedAt": "2026-09-29T18:02:53.210Z",
+  "generatedAt": "2026-09-29T18:04:28.986Z",
+  "cachedAt": "2026-09-29T18:04:28.986Z",
   "items": [
     {
       "title": "Aktualisierte Sanktionsmeldung: ISIL (Da'esh) und Al-Kaida",
@@ -553,10 +553,21 @@
       "jurisdiction": "US"
     },
     {
-      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
+      "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
       "date": "2026-09-17T11:00:00.000Z",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "sourceId": "boe-news",
+      "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding QT and the APF - September 2026",
+      "link": "https://www.bankofengland.co.uk/letter/2026/exchange-of-letters-between-the-governor-and-the-chancellor-regarding-qt-and-the-apf",
+      "date": "2026-09-17T11:00:00.000Z",
+      "summary": "Exchange of letters between the Governor and the Chancellor",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
       "sourceUrl": "https://www.bankofengland.co.uk/news",
@@ -575,21 +586,10 @@
       "jurisdiction": "UK"
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
-      "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
+      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
       "date": "2026-09-17T11:00:00.000Z",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
-      "sourceId": "boe-news",
-      "sourceLabel": "Bank of England — News",
-      "sourceUrl": "https://www.bankofengland.co.uk/news",
-      "kind": "guidance",
-      "jurisdiction": "UK"
-    },
-    {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding QT and the APF - September 2026",
-      "link": "https://www.bankofengland.co.uk/letter/2026/exchange-of-letters-between-the-governor-and-the-chancellor-regarding-qt-and-the-apf",
-      "date": "2026-09-17T11:00:00.000Z",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
       "sourceUrl": "https://www.bankofengland.co.uk/news",
