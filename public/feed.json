@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T16:11:49.300Z",
-  "cachedAt": "2026-09-29T16:11:49.300Z",
+  "generatedAt": "2026-09-29T16:31:28.877Z",
+  "cachedAt": "2026-09-29T16:31:28.877Z",
   "items": [
     {
       "title": "Aktualisierte Sanktionsmeldung: ISIL (Da'esh) und Al-Kaida",
@@ -12,6 +12,17 @@
       "sourceUrl": "https://www.finma.ch/en/news/",
       "kind": "guidance",
       "jurisdiction": "Switzerland"
+    },
+    {
+      "title": "SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms",
+      "date": "2026-09-29T13:55:53.000Z",
+      "summary": "The Securities and Exchange Commission today charged multiple entities that are likely operated by individuals located overseas for defrauding hundreds of retail investors, including many in the U.S., through so-called investment confidence scams where…",
+      "sourceId": "sec-press",
+      "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
     },
     {
       "title": "Purpose Mutual Funds Limited: Bafin warns consumers about websites promarketscfd(.)com, rormarkets(.)com and firstrade24(.)com",
@@ -799,17 +810,6 @@
       "link": "https://www.sec.gov/newsroom/press-releases/2026-84-sec-investor-advisory-committee-host-sept-10-meeting",
       "date": "2026-09-03T14:27:49.000Z",
       "summary": "The Securities and Exchange Commission’s&nbsp;Investor Advisory Committee will host a public meeting at the SEC Headquarters in Washington D.C. on Sept. 10 at 10 a.m. ET to discuss artificial intelligence technologies in the public markets and the SEC’s…",
-      "sourceId": "sec-press",
-      "sourceLabel": "US SEC — Press Releases",
-      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
-      "title": "SEC Announces Agenda and Panelists for Roundtable on Preparations for 24-Hour Trading",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-83-sec-announces-agenda-panelists-roundtable-preparations-24-hour-trading",
-      "date": "2026-09-01T19:17:39.000Z",
-      "summary": "The Securities and Exchange Commission today announced the agenda and panelists for its Sept. 17, 2026, roundtable on preparations for 24-hour trading.The roundtable will be held at the SEC’s headquarters at 100 F Street, N.E., Washington, D.C., from 10…",
       "sourceId": "sec-press",
       "sourceLabel": "US SEC — Press Releases",
       "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
