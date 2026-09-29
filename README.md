@@ -35,6 +35,7 @@ If a Worker was ever deployed manually (`wrangler deploy` from a local copy, or 
 ## Project layout
 
 - `public/index.html` — the feed UI (reads `public/feed.json`)
+- `public/landing.html` — marketing/about page, linked from the feed UI's header
 - `public/feed.json` — generated output, refreshed by the Action
 - `scripts/build-feed.js` — fetches every source and writes `feed.json`
 - `server/rssParser.js` — minimal RSS/Atom parser (no external dependency)
