@@ -82,6 +82,22 @@ const FEEDS = [
     feedUrl: "https://www.austrac.gov.au/media-release/rss.xml",
     sourceUrl: "https://www.austrac.gov.au/news-and-media/media-releases",
   },
+  {
+    id: "japan-fsa-news",
+    label: "Japan FSA — News",
+    kind: "guidance",
+    jurisdiction: "Japan",
+    feedUrl: "https://www.fsa.go.jp/fsaEnNewsList_rss2.xml",
+    sourceUrl: "https://www.fsa.go.jp/en/news/",
+  },
+  {
+    id: "hk-sfc-press",
+    label: "Hong Kong SFC — Press Releases",
+    kind: "guidance",
+    jurisdiction: "Hong Kong",
+    feedUrl: "https://www.sfc.hk/en/RSS-Feeds/Press-releases",
+    sourceUrl: "https://www.sfc.hk/en/News-and-announcements/News",
+  },
 ];
 
 async function fetchFeed(source) {
