@@ -1,7 +1,95 @@
 {
-  "generatedAt": "2026-09-30T12:42:59.052Z",
-  "cachedAt": "2026-09-30T12:42:59.052Z",
+  "generatedAt": "2026-09-30T22:21:12.968Z",
+  "cachedAt": "2026-09-30T22:21:12.968Z",
   "items": [
+    {
+      "title": "Trevon Brown, Craig Grant, and Michael Noble",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26660",
+      "date": "2026-09-30T21:35:46.000Z",
+      "summary": "Trevon Brown, Craig Grant, and Michael Noble",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Owen E.H. Meyer and Meyer Global Management LLC",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26659",
+      "date": "2026-09-30T20:55:14.000Z",
+      "summary": "Owen E.H. Meyer and Meyer Global Management LLC",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Christopher Kenji Dinelli a/k/a Kenji Dinelli and Jacob David Frankel a/k/a Kobi Frankel",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26658",
+      "date": "2026-09-30T18:36:52.000Z",
+      "summary": "Christopher Kenji Dinelli a/k/a Kenji Dinelli and Jacob David Frankel a/k/a Kobi Frankel",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-98-sec-charges-meyer-global-management-its-ceo-defrauding-retail-investors-private-funds-held-interests",
+      "date": "2026-09-30T18:30:01.000Z",
+      "summary": "The Securities and Exchange Commission today charged private fund adviser Meyer Global Management LLC (MGM) and its CEO, Owen E.H. Meyer, with defrauding investors and MGM-managed funds in connection with investments in SpaceX and other pre-IPO…",
+      "sourceId": "sec-press",
+      "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Travel + Leisure Co.",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26657",
+      "date": "2026-09-30T17:10:26.000Z",
+      "summary": "Travel + Leisure Co.",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Lamar D. Fletcher",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26656",
+      "date": "2026-09-30T16:43:30.000Z",
+      "summary": "Lamar D. Fletcher",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "SEC Charges Two Individuals With Orchestrating Fraud Scheme That Targeted Veterans",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-97-sec-charges-two-individuals-orchestrating-fraud-scheme-targeted-veterans",
+      "date": "2026-09-30T16:42:15.000Z",
+      "summary": "The Securities and Exchange Commission today announced charges against Christopher Kenji Dinelli and Jacob David “Kobe” Frankel for allegedly orchestrating a fraud scheme that raised more than $8.7 million from 35 investors through their fund, Beyond…",
+      "sourceId": "sec-press",
+      "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "SEC Proposes Amendments to Expand Responsible Retailization of Private Markets",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-96-sec-proposes-amendments-expand-responsible-retailization-private-markets",
+      "date": "2026-09-30T15:45:00.000Z",
+      "summary": "The Securities and Exchange Commission today voted to propose rule amendments that would facilitate capital formation in the public and private markets by expanding retail investor choice and promoting innovation in regulated fund structures while…",
+      "sourceId": "sec-press",
+      "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
     {
       "title": "SFC, Securities Commission Malaysia announce Single Submission Arrangement to streamline simultaneous listings in Malaysia and Hong Kong",
       "link": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR159",
@@ -377,17 +465,6 @@
       "jurisdiction": "Hong Kong"
     },
     {
-      "title": "Kristopher A. Lunsford; AKL Transport LLC; Southern Truck Leasing LLC",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26648",
-      "date": "2026-09-25T14:23:10.000Z",
-      "summary": "Kristopher A. Lunsford; AKL Transport LLC; Southern Truck Leasing LLC",
-      "sourceId": "sec-litigation",
-      "sourceLabel": "US SEC — Litigation Releases",
-      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
       "title": "eberhart-dienstleistungen(.)de: Bafin warns consumers about website",
       "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_08_31_eberhart-dienstleistungen_en.html",
       "date": "2026-09-25T12:34:00.000Z",
@@ -520,17 +597,6 @@
       "jurisdiction": "US"
     },
     {
-      "title": "Manish Lachwani",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26647",
-      "date": "2026-09-24T18:20:44.000Z",
-      "summary": "Manish Lachwani",
-      "sourceId": "sec-litigation",
-      "sourceLabel": "US SEC — Litigation Releases",
-      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
       "title": "festzinskompass(.)com: Bafin warns about website",
       "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_24_festzinskompass_en.html",
       "date": "2026-09-24T09:47:00.000Z",
@@ -562,17 +628,6 @@
       "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
       "kind": "guidance",
       "jurisdiction": "Germany"
-    },
-    {
-      "title": "Michael D. Williams and CMI Capital, LLC",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26646",
-      "date": "2026-09-23T20:01:48.000Z",
-      "summary": "Michael D. Williams and CMI Capital, LLC",
-      "sourceId": "sec-litigation",
-      "sourceLabel": "US SEC — Litigation Releases",
-      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
     },
     {
       "title": "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
@@ -630,17 +685,6 @@
       "jurisdiction": "US"
     },
     {
-      "title": "Lawrence Billimek and Alan Williams",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26645",
-      "date": "2026-09-22T22:37:52.000Z",
-      "summary": "Lawrence Billimek and Alan Williams",
-      "sourceId": "sec-litigation",
-      "sourceLabel": "US SEC — Litigation Releases",
-      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
       "title": "SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci",
       "date": "2026-09-22T16:41:11.000Z",
@@ -661,17 +705,6 @@
       "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
-    },
-    {
-      "title": "Michael T. Christensen",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26644",
-      "date": "2026-09-21T21:32:16.000Z",
-      "summary": "Michael T. Christensen",
-      "sourceId": "sec-litigation",
-      "sourceLabel": "US SEC — Litigation Releases",
-      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
     },
     {
       "title": "Bank of England announces new office space in Leeds",
@@ -828,17 +861,6 @@
       "jurisdiction": "US"
     },
     {
-      "title": "SEC Charges Founder and His Two New Jersey-Based Companies in Alleged $16 Million Ponzi Scheme",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-86-sec-charges-founder-his-two-new-jersey-based-companies-alleged-16-million-ponzi-scheme",
-      "date": "2026-09-10T17:45:22.000Z",
-      "summary": "The Securities and Exchange Commission today charged Ernest Ossei Boateng and two New Jersey-based companies he controls, Intercontinental Wealth Network LLC and I Wealth Network LP, for allegedly raising approximately $16 million from more than 200…",
-      "sourceId": "sec-press",
-      "sourceLabel": "US SEC — Press Releases",
-      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
       "title": "Aktualisierte Sanktionsmeldung: ISIL (Da'esh) und Al-Kaida",
       "link": "https://www.finma.ch/en/news/2026/09/20260908-sr-946-231-08/",
       "date": "2026-09-08T09:47:23.000Z",
@@ -870,28 +892,6 @@
       "sourceUrl": "https://www.finma.ch/en/news/",
       "kind": "guidance",
       "jurisdiction": "Switzerland"
-    },
-    {
-      "title": "SEC Proposes Rescission of Political Contribution Rule for Investment Advisers",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers",
-      "date": "2026-09-03T20:30:00.000Z",
-      "summary": "The Securities and Exchange Commission today issued a&nbsp;proposal&nbsp;to rescind&nbsp;its “pay-to-play”&nbsp;rule that&nbsp;prohibits investment advisers from providing&nbsp;compensated investment advisory services to a government client for two years…",
-      "sourceId": "sec-press",
-      "sourceLabel": "US SEC — Press Releases",
-      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
-      "title": "SEC Investor Advisory Committee to Host Sept. 10 Meeting",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-84-sec-investor-advisory-committee-host-sept-10-meeting",
-      "date": "2026-09-03T14:27:49.000Z",
-      "summary": "The Securities and Exchange Commission’s&nbsp;Investor Advisory Committee will host a public meeting at the SEC Headquarters in Washington D.C. on Sept. 10 at 10 a.m. ET to discuss artificial intelligence technologies in the public markets and the SEC’s…",
-      "sourceId": "sec-press",
-      "sourceLabel": "US SEC — Press Releases",
-      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
     },
     {
       "title": "Aktualisierte Sanktionsmeldung: Taliban",
@@ -1037,6 +1037,17 @@
       "jurisdiction": "International"
     },
     {
+      "title": "FCA announces new Board appointments",
+      "link": "https://www.fca.org.uk/news/news-stories/fca-announces-new-board-appointments-lea-paterson-matthew-tobin-sarah-pritchard",
+      "date": null,
+      "summary": "Three new appointments have been made to our Board, bringing additional experience in public policy, financial services, regulation and corporate leadership as we continue to deliver our strategy.\n\nLea Paterson CBE and Matthew Tobin have been appointed by the Treasury as non-exec",
+      "sourceId": "fca-news",
+      "sourceLabel": "UK FCA — News & Publications",
+      "sourceUrl": "https://www.fca.org.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
       "title": "FCA opens the gateway to regulated crypto",
       "link": "https://www.fca.org.uk/news/press-releases/fca-opens-gateway-regulated-crypto",
       "date": null,
@@ -1151,17 +1162,6 @@
       "link": "https://www.fca.org.uk/news/press-releases/fca-partners-help-improve-financial-security-millions",
       "date": null,
       "summary": "The FCA is partnering across sectors to expand protection insurance coverage for millions of unprotected people.\n\nWhile the market is working well for consumers who have protection insurance, millions of people remain unprotected.Around 58% of adults have no life insurance, criti",
-      "sourceId": "fca-news",
-      "sourceLabel": "UK FCA — News & Publications",
-      "sourceUrl": "https://www.fca.org.uk/news",
-      "kind": "guidance",
-      "jurisdiction": "UK"
-    },
-    {
-      "title": "Video",
-      "link": "https://www.fca.org.uk/news/news-stories/video",
-      "date": null,
-      "summary": "",
       "sourceId": "fca-news",
       "sourceLabel": "UK FCA — News & Publications",
       "sourceUrl": "https://www.fca.org.uk/news",
