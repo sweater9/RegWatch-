@@ -1,7 +1,51 @@
 {
-  "generatedAt": "2026-10-01T13:26:42.441Z",
-  "cachedAt": "2026-10-01T13:26:42.441Z",
+  "generatedAt": "2026-10-01T22:45:12.952Z",
+  "cachedAt": "2026-10-01T22:45:12.952Z",
   "items": [
+    {
+      "title": "Bank of Canada Media Interview – The Missing Middle podcast",
+      "link": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-the-missing-middle-podcast-2026-10-01/",
+      "date": "2026-10-01T21:09:27.000Z",
+      "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers gave an interview to The Missing Middle podcast.",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
+    {
+      "title": "Thomas J. Moore, III",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26663",
+      "date": "2026-10-01T16:23:51.000Z",
+      "summary": "Thomas J. Moore, III",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "SEC Proposal Would Address How Investment Advisers and Funds Can Custody Crypto Assets Under the Federal Securities Laws",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal",
+      "date": "2026-10-01T16:16:07.000Z",
+      "summary": "The Securities and Exchange Commission today proposed new rules and amendments to provide a tailored framework for the custody of crypto assets for registered investment advisers and regulated funds, i.e. registered investment companies and business…",
+      "sourceId": "sec-press",
+      "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Speech by Carolyn Rogers, Senior Deputy Governor of the Bank of Canada",
+      "link": "https://www.bankofcanada.ca/2026/10/speech-carolyn-rogers-2026-10-01/",
+      "date": "2026-10-01T15:20:24.000Z",
+      "summary": "On Thursday, October 1, 2026, Carolyn Rogers, Senior Deputy Governor of the Bank of Canada, will speak before the Greater Victoria Chamber of Commerce and CFA Society Victoria.",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
     {
       "title": "Speech: Greater Victoria Chamber of Commerce and CFA Society Victoria",
       "link": "https://www.bankofcanada.ca/multimedia/speech-greater-victoria-chamber-of-commerce-and-cfa-society-victoria-2026-10-1/",
@@ -12,6 +56,39 @@
       "sourceUrl": "https://www.bankofcanada.ca/press/",
       "kind": "guidance",
       "jurisdiction": "Canada"
+    },
+    {
+      "title": "Canada’s housing affordability dilemma",
+      "link": "https://www.bankofcanada.ca/2026/10/canadas-housing-affordability-dilemma/",
+      "date": "2026-10-01T15:05:48.000Z",
+      "summary": "Senior Deputy Governor Carolyn Rogers discusses housing affordability, focusing on how it became such a challenge over time and why there are no easy solutions.",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
+    {
+      "title": "The complexity of housing affordability",
+      "link": "https://www.bankofcanada.ca/2026/10/complexity-housing-affordability/",
+      "date": "2026-10-01T15:05:01.000Z",
+      "summary": "Senior Deputy Governor Carolyn Rogers talks about housing affordability and why it is so difficult to fix, explaining that housing has become about more than just a place to live.",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
+    {
+      "title": "SEC’s Division of Examinations Announces New Exam Handbook",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook",
+      "date": "2026-10-01T15:03:35.000Z",
+      "summary": "The Securities and Exchange Commission’s Division of Examinations today published its new&nbsp;handbook, “The SEC Exam Handbook: A Practical Guide on Process and Engagement,” which replaces and expands upon the previous examination brochure by providing…",
+      "sourceId": "sec-press",
+      "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
     },
     {
       "title": "Minutes of the Meeting of the Court of Directors held on 16 July 2026",
@@ -47,10 +124,32 @@
       "jurisdiction": "Switzerland"
     },
     {
-      "title": "International supervisory community meets to discuss the future of global bank supervision and regulation",
-      "link": "https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation",
+      "title": "Makhlouf: Capital goes where the opportunity is, and stays where it is trusted",
+      "link": "https://www.centralbank.ie/news/article/makhlouf--capital-goes-where-the-opportunity-is--and-stays-where-it-is-trusted",
+      "date": "2026-10-01T09:30:59.000Z",
+      "summary": "Central Bank of Ireland Governor Gabriel Makhlouf today (Thursday 1 October) spoke at the Irish Funds Annual Global Funds Conference, where he set out why deeper, more integrated European capital markets matter for Irish households and the wider economy. Delivering this requires ",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
+    },
+    {
+      "title": "Opportunity and trust: Europe’s capital market and the Irish funds sector - Speech by Governor Makhlouf at Irish Funds Annual Global Funds Conference",
+      "link": "https://www.centralbank.ie/news/article/speech-governor-makhlouf-irish-funds-annual-global-funds-conference-1-october-2026",
+      "date": "2026-10-01T09:30:05.000Z",
+      "summary": "Good morning.Thank you for the invitation to speak here today.The success of Ireland&rsquo;s funds sector is well known. &nbsp;Europe&rsquo;s second-largest fund domicile and a top-three global player, Ireland now hosts &euro;5.6 trillion in investment fund assets and serves inve",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
+    },
+    {
+      "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
+      "link": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and",
       "date": "2026-10-01T00:00:00.000Z",
-      "summary": "Almost 300 central bankers and banking supervisors attended the International Conference of Banking Supervisors (ICBS) to discuss the future of supervision and the digitalisation of finance...",
+      "summary": "Exchanges experiences and views on developments in artificial intelligence for the global banking system and supervisors, modernisation efforts and implications for the Committee’s future work programme...",
       "sourceId": "bis-press",
       "sourceLabel": "Bank for International Settlements — Media Releases",
       "sourceUrl": "https://www.bis.org/press/index.htm",
@@ -58,10 +157,10 @@
       "jurisdiction": "International"
     },
     {
-      "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
-      "link": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and",
+      "title": "International supervisory community meets to discuss the future of global bank supervision and regulation",
+      "link": "https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation",
       "date": "2026-10-01T00:00:00.000Z",
-      "summary": "Exchanges experiences and views on developments in artificial intelligence for the global banking system and supervisors, modernisation efforts and implications for the Committee’s future work programme...",
+      "summary": "Almost 300 central bankers and banking supervisors attended the International Conference of Banking Supervisors (ICBS) to discuss the future of supervision and the digitalisation of finance...",
       "sourceId": "bis-press",
       "sourceLabel": "Bank for International Settlements — Media Releases",
       "sourceUrl": "https://www.bis.org/press/index.htm",
@@ -133,17 +232,6 @@
       "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
-    },
-    {
-      "title": "Speech by Carolyn Rogers, Senior Deputy Governor of the Bank of Canada",
-      "link": "https://www.bankofcanada.ca/2026/10/speech-carolyn-rogers-2026-10-01/",
-      "date": "2026-09-30T18:02:19.000Z",
-      "summary": "On Thursday, October 1, 2026, Carolyn Rogers, Senior Deputy Governor of the Bank of Canada, will speak before the Greater Victoria Chamber of Commerce and CFA Society Victoria.",
-      "sourceId": "canada-boc-press",
-      "sourceLabel": "Bank of Canada — Press",
-      "sourceUrl": "https://www.bankofcanada.ca/press/",
-      "kind": "guidance",
-      "jurisdiction": "Canada"
     },
     {
       "title": "Travel + Leisure Co.",
@@ -509,17 +597,6 @@
       "jurisdiction": "Hong Kong"
     },
     {
-      "title": "Jacob Garfinkel; 5G Funding LLC; Five G Funding LLC",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26651",
-      "date": "2026-09-28T19:40:06.000Z",
-      "summary": "Jacob Garfinkel; 5G Funding LLC; Five G Funding LLC",
-      "sourceId": "sec-litigation",
-      "sourceLabel": "US SEC — Litigation Releases",
-      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
       "title": "SEC Charges Registered Investment Adviser Zoe Financial for Failure to Disclose Conflict of Interest",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest",
       "date": "2026-09-28T17:46:30.000Z",
@@ -617,28 +694,6 @@
       "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
       "kind": "guidance",
       "jurisdiction": "Germany"
-    },
-    {
-      "title": "Cuban National Convicted for International Alien Smuggling and Money Laundering Conspiracy",
-      "link": "https://www.justice.gov/opa/pr/cuban-national-convicted-international-alien-smuggling-and-money-laundering-conspiracy",
-      "date": "2026-09-25T12:00:00.000Z",
-      "summary": "A federal jury in the Middle District of Florida convicted a Cuban National for his role in an international alien smuggling and money laundering conspiracy.&nbsp;",
-      "sourceId": "doj-press",
-      "sourceLabel": "US DOJ — Press Releases",
-      "sourceUrl": "https://www.justice.gov/news/press-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
-      "title": "Texas Mental Health Clinic Owner Convicted in $26M Scheme to Defraud Military Health Benefits Program",
-      "link": "https://www.justice.gov/opa/pr/texas-mental-health-clinic-owner-convicted-26m-scheme-defraud-military-health-benefits",
-      "date": "2026-09-25T12:00:00.000Z",
-      "summary": "A federal jury in Fort Worth convicted a Texas licensed professional counselor yesterday for his role in a $26 million health care fraud, kickbacks, and money laundering scheme.",
-      "sourceId": "doj-press",
-      "sourceLabel": "US DOJ — Press Releases",
-      "sourceUrl": "https://www.justice.gov/news/press-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
     },
     {
       "title": "Infinity Insurance & Assistance / Infinity European Assistance - Central Bank of Ireland Issues Warning on Unauthorised Firm",
@@ -872,28 +927,6 @@
       "jurisdiction": "Canada"
     },
     {
-      "title": "Bank of Canada Media Interview – Market News International",
-      "link": "https://www.bankofcanada.ca/2026/09/bank-of-canada-media-interview-market-news-international-2026-09-21/",
-      "date": "2026-09-21T14:00:15.000Z",
-      "summary": "Tiff Macklem, Governor of the Bank of Canada, gave an interview to Market News.",
-      "sourceId": "canada-boc-press",
-      "sourceLabel": "Bank of Canada — Press",
-      "sourceUrl": "https://www.bankofcanada.ca/press/",
-      "kind": "guidance",
-      "jurisdiction": "Canada"
-    },
-    {
-      "title": "Media Availability: Halifax Partnership",
-      "link": "https://www.bankofcanada.ca/multimedia/media-availability-halifax-partnership/",
-      "date": "2026-09-21T12:30:50.000Z",
-      "summary": "Economic developments  — Governor Tiff Macklem takes questions from reporters following his remarks (12:30 (ET) approx.)",
-      "sourceId": "canada-boc-press",
-      "sourceLabel": "Bank of Canada — Press",
-      "sourceUrl": "https://www.bankofcanada.ca/press/",
-      "kind": "guidance",
-      "jurisdiction": "Canada"
-    },
-    {
       "title": "Bank of England announces new office space in Leeds",
       "link": "https://www.bankofengland.co.uk/news/2026/september/bank-of-england-announces-new-office-space-in-leeds",
       "date": "2026-09-21T12:00:00.000Z",
@@ -914,17 +947,6 @@
       "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
-    },
-    {
-      "title": "Speech: Halifax Partnership",
-      "link": "https://www.bankofcanada.ca/multimedia/speech-halifax-partnership-2026-09-21/",
-      "date": "2026-09-21T11:20:45.000Z",
-      "summary": "Economic developments  — Governor Tiff Macklem speaks before the Halifax Partnership (11:20 (ET) approx.).",
-      "sourceId": "canada-boc-press",
-      "sourceLabel": "Bank of Canada — Press",
-      "sourceUrl": "https://www.bankofcanada.ca/press/",
-      "kind": "guidance",
-      "jurisdiction": "Canada"
     },
     {
       "title": "Swiss Takeover Board: Joris Gröflin elected as new member",
@@ -1081,54 +1103,10 @@
       "jurisdiction": "UK"
     },
     {
-      "title": "Opening Statement by Dr Robert Kelly, Director of Economics & Statistics at the Oireachtas Committee on Budgetary Oversight",
-      "link": "https://www.centralbank.ie/news/article/speech-robert-kelly-director-economics-statistics-oireachtas-budgetary-oversight-16-september-2026",
-      "date": "2026-09-16T17:40:16.000Z",
-      "summary": "Good afternoon Cathaoirleach and members of the Committee. I am joined by Dr Thomas Conefrey, Head of Irish Economic Analysis, and we thank you for the opportunity to engage in advance of October&rsquo;s Budget.Every day, train commuters across Ireland hear a familiar warning: mi",
-      "sourceId": "ireland-cbi-news",
-      "sourceLabel": "Central Bank of Ireland — News & Media",
-      "sourceUrl": "https://www.centralbank.ie/news",
-      "kind": "guidance",
-      "jurisdiction": "Ireland"
-    },
-    {
       "title": "SEC Proposes Rescission of Shareholder Proposal Rule and Reforms to Proxy Solicitation Process",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-89-sec-proposes-rescission-shareholder-proposal-rule-reforms-proxy-solicitation-process",
       "date": "2026-09-16T14:00:00.000Z",
       "summary": "The Securities and Exchange Commission today proposed to rescind Rule 14a-8 under the Securities Exchange Act of 1934, which exceeds the scope of the Commission's statutory authority and intrudes into matters of state law.The Commission outlined…",
-      "sourceId": "sec-press",
-      "sourceLabel": "US SEC — Press Releases",
-      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
-      "title": "Quarterly Bulletin 2026:3 – Steady growth amid heightened inflation and ongoing external uncertainty",
-      "link": "https://www.centralbank.ie/news/article/press-release-quarterly-bulletin-2026-3-16-september-2026",
-      "date": "2026-09-15T23:01:43.000Z",
-      "summary": "Modified domestic demand (MDD) growth is being revised up modestly in 2026 to 3.8      per cent and to 3.4 per cent in 2027, supported by resilient consumer      spending and multinational investmentHeadline inflation is projected to average 3.4 per cent      in 2026, moderating ",
-      "sourceId": "ireland-cbi-news",
-      "sourceLabel": "Central Bank of Ireland — News & Media",
-      "sourceUrl": "https://www.centralbank.ie/news",
-      "kind": "guidance",
-      "jurisdiction": "Ireland"
-    },
-    {
-      "title": "SEC Grants Exemptive Relief from Certain Inline XBRL Filing or Submission Requirements",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-88-sec-grants-exemptive-relief-certain-inline-xbrl-filing-or-submission-requirements",
-      "date": "2026-09-14T16:47:00.000Z",
-      "summary": "The Securities and Exchange Commission issued an order granting exemptive relief from certain Inline XBRL requirements adopted on Dec. 16, 2024. More specifically, the Commission is granting exemptive relief from filing or submitting the following in…",
-      "sourceId": "sec-press",
-      "sourceLabel": "US SEC — Press Releases",
-      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
-      "title": "Joint Readout of Principals’ Meeting of U.S. and UK Authorities Regarding Central Counterparty Resolution",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-87-joint-readout-principals-meeting-us-uk-authorities-regarding-central-counterparty-resolution",
-      "date": "2026-09-11T15:00:00.000Z",
-      "summary": "Senior officials from the Securities and Exchange Commission, Federal Deposit Insurance Corporation, Commodity Futures Trading Commission, Federal Reserve Board, and Bank of England convened for a tabletop exercise on Sept. 3, 2026, to discuss certain…",
       "sourceId": "sec-press",
       "sourceLabel": "US SEC — Press Releases",
       "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
