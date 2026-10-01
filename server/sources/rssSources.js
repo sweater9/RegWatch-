@@ -91,6 +91,22 @@ const FEEDS = [
     sourceUrl: "https://www.fsa.go.jp/en/news/",
   },
   {
+    id: "canada-boc-press",
+    label: "Bank of Canada — Press",
+    kind: "guidance",
+    jurisdiction: "Canada",
+    feedUrl: "https://www.bankofcanada.ca/content_type/press/feed/",
+    sourceUrl: "https://www.bankofcanada.ca/press/",
+  },
+  {
+    id: "ireland-cbi-news",
+    label: "Central Bank of Ireland — News & Media",
+    kind: "guidance",
+    jurisdiction: "Ireland",
+    feedUrl: "https://www.centralbank.ie/feeds/news-media-feed",
+    sourceUrl: "https://www.centralbank.ie/news",
+  },
+  {
     id: "hk-sfc-press",
     label: "Hong Kong SFC — Press Releases",
     kind: "guidance",
