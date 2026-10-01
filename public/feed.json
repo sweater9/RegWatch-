@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T08:45:22.066Z",
-  "cachedAt": "2026-10-01T08:45:22.066Z",
+  "generatedAt": "2026-10-01T13:26:42.441Z",
+  "cachedAt": "2026-10-01T13:26:42.441Z",
   "items": [
     {
       "title": "Speech: Greater Victoria Chamber of Commerce and CFA Society Victoria",
@@ -12,6 +12,61 @@
       "sourceUrl": "https://www.bankofcanada.ca/press/",
       "kind": "guidance",
       "jurisdiction": "Canada"
+    },
+    {
+      "title": "Minutes of the Meeting of the Court of Directors held on 16 July 2026",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-16-july-2026",
+      "date": "2026-10-01T13:00:00.000Z",
+      "summary": "The Bank's Court of Directors acts as a unitary board, setting the organisation's strategy and budget and taking key decisions on resourcing and appointments. Required to meet a minimum seven times per year, it has five executive members from the Bank and up to nine non-executive",
+      "sourceId": "boe-news",
+      "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "bitbucks(.)space:&#160;Bafin&#160;warns consumers about website",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_30_bitbucks_space_en.html",
+      "date": "2026-10-01T12:32:00.000Z",
+      "summary": "The Federal Financial Supervisory Authority (Bafin) warns consumers about the company BitBucks and the services it is offering. Bafin suspects the unknown operators of the website bitbucks(.)space of offering consumers financial, investment and cryptoasset services without the re",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
+    },
+    {
+      "title": "FINMA Executive Board: Alexandra Karg to leave FINMA; new division to be created",
+      "link": "https://www.finma.ch/en/news/2026/10/20261001-mm-personalstruktur/",
+      "date": "2026-10-01T11:00:00.000Z",
+      "summary": "Alexandra Karg, Head of the Operations division and a member of the Executive Board, has decided to leave the Swiss Financial Market Supervisory Authority FINMA on 30 November 2026, after 10 successful years. FINMA’s CEO and Executive Board thank Alexandra Karg for her valuable c",
+      "sourceId": "finma-news",
+      "sourceLabel": "Switzerland FINMA — News",
+      "sourceUrl": "https://www.finma.ch/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Switzerland"
+    },
+    {
+      "title": "International supervisory community meets to discuss the future of global bank supervision and regulation",
+      "link": "https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation",
+      "date": "2026-10-01T00:00:00.000Z",
+      "summary": "Almost 300 central bankers and banking supervisors attended the International Conference of Banking Supervisors (ICBS) to discuss the future of supervision and the digitalisation of finance...",
+      "sourceId": "bis-press",
+      "sourceLabel": "Bank for International Settlements — Media Releases",
+      "sourceUrl": "https://www.bis.org/press/index.htm",
+      "kind": "paper",
+      "jurisdiction": "International"
+    },
+    {
+      "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
+      "link": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and",
+      "date": "2026-10-01T00:00:00.000Z",
+      "summary": "Exchanges experiences and views on developments in artificial intelligence for the global banking system and supervisors, modernisation efforts and implications for the Committee’s future work programme...",
+      "sourceId": "bis-press",
+      "sourceLabel": "Bank for International Settlements — Media Releases",
+      "sourceUrl": "https://www.bis.org/press/index.htm",
+      "kind": "paper",
+      "jurisdiction": "International"
     },
     {
       "title": "Mukesh Asudani",
@@ -82,7 +137,7 @@
     {
       "title": "Speech by Carolyn Rogers, Senior Deputy Governor of the Bank of Canada",
       "link": "https://www.bankofcanada.ca/2026/10/speech-carolyn-rogers-2026-10-01/",
-      "date": "2026-09-30T18:02:04.000Z",
+      "date": "2026-09-30T18:02:19.000Z",
       "summary": "On Thursday, October 1, 2026, Carolyn Rogers, Senior Deputy Governor of the Bank of Canada, will speak before the Greater Victoria Chamber of Commerce and CFA Society Victoria.",
       "sourceId": "canada-boc-press",
       "sourceLabel": "Bank of Canada — Press",
@@ -718,17 +773,6 @@
       "jurisdiction": "Germany"
     },
     {
-      "title": "tavorello(.)net: Bafin warns about website",
-      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_24_tavorello_en.html",
-      "date": "2026-09-24T04:01:00.000Z",
-      "summary": "The German Financial Supervisory Authority (Bafin) warns about offers on the website tavorello(.)net: It is suspected that the unknown operators are offering financial services and crypto-asset services without the required authorisation.",
-      "sourceId": "bafin-press",
-      "sourceLabel": "Germany BaFin — Press Releases",
-      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
-      "kind": "guidance",
-      "jurisdiction": "Germany"
-    },
-    {
       "title": "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-93-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised",
       "date": "2026-09-23T18:27:00.000Z",
@@ -1004,6 +1048,17 @@
       "jurisdiction": "US"
     },
     {
+      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+      "date": "2026-09-17T11:00:00.000Z",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "sourceId": "boe-news",
+      "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
       "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
       "date": "2026-09-17T11:00:00.000Z",
@@ -1019,28 +1074,6 @@
       "link": "https://www.bankofengland.co.uk/letter/2026/exchange-of-letters-between-the-governor-and-the-chancellor-regarding-qt-and-the-apf",
       "date": "2026-09-17T11:00:00.000Z",
       "summary": "Exchange of letters between the Governor and the Chancellor",
-      "sourceId": "boe-news",
-      "sourceLabel": "Bank of England — News",
-      "sourceUrl": "https://www.bankofengland.co.uk/news",
-      "kind": "guidance",
-      "jurisdiction": "UK"
-    },
-    {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 17 September 2026",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026",
-      "date": "2026-09-17T11:00:00.000Z",
-      "summary": "This Market Notice outlines the Bank Executive’s approach to implementing the Monetary Policy Committee’s (MPC) decision to unwind the gilts held for monetary policy purposes in the Asset Purchase Facility (APF). As part of this, Bank APF auctions will be paused while the Bank re",
-      "sourceId": "boe-news",
-      "sourceLabel": "Bank of England — News",
-      "sourceUrl": "https://www.bankofengland.co.uk/news",
-      "kind": "guidance",
-      "jurisdiction": "UK"
-    },
-    {
-      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
-      "date": "2026-09-17T11:00:00.000Z",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
       "sourceUrl": "https://www.bankofengland.co.uk/news",
@@ -1180,17 +1213,6 @@
       "jurisdiction": "Switzerland"
     },
     {
-      "title": "Aktualisierte Sanktionsmeldung: ISIL (Da'esh) und Al-Kaida",
-      "link": "https://www.finma.ch/en/news/2026/08/20260819-sr-946-231-08/",
-      "date": "2026-08-19T07:45:24.000Z",
-      "summary": "Das Staatssekretariat für Wirtschaft (SECO) hat eine Änderung der Liste der sanktionierten natürlichen Personen, Unternehmen und Organisationen der Verordnung vom 21. März 2025 über Massnahmen gegenüber Personen und Organisationen, die mit den Organisationen ISIL (Da'esh) und Al-",
-      "sourceId": "finma-news",
-      "sourceLabel": "Switzerland FINMA — News",
-      "sourceUrl": "https://www.finma.ch/en/news/",
-      "kind": "guidance",
-      "jurisdiction": "Switzerland"
-    },
-    {
       "title": "Global economic pressure points call for policy discipline: BIS",
       "link": "https://www.bis.org/media-releases/20260628-global-economic-pressure-points-call-policy-discipline-bis",
       "date": "2026-06-28T00:00:00.000Z",
@@ -1250,28 +1272,6 @@
       "link": "https://www.bis.org/media-releases/20260512-central-bank-governors-appointed-lead-bis-board-and-key-groups",
       "date": "2026-05-12T00:00:00.000Z",
       "summary": "Press release from May 12, 2026 on central bank governors appointed to lead the BIS board of directors, the meeting of governors of major emerging market economies, the asian consultative council and the committee of the global financial system.",
-      "sourceId": "bis-press",
-      "sourceLabel": "Bank for International Settlements — Media Releases",
-      "sourceUrl": "https://www.bis.org/press/index.htm",
-      "kind": "paper",
-      "jurisdiction": "International"
-    },
-    {
-      "title": "CPMI-IOSCO publishes for consultation updated guidance and public disclosures to support the implementation of initial margin proposals",
-      "link": "https://www.bis.org/media-releases/20260506-cpmi-iosco-publishes-consultation-updated-guidance-and-public-disclosures-support",
-      "date": "2026-05-06T00:00:00.000Z",
-      "summary": "CPMI-IOSCO is seeking input from interested stakeholders on amendments to CCP-related resilience guidance and public quantitative disclosures requirements.",
-      "sourceId": "bis-press",
-      "sourceLabel": "Bank for International Settlements — Media Releases",
-      "sourceUrl": "https://www.bis.org/press/index.htm",
-      "kind": "paper",
-      "jurisdiction": "International"
-    },
-    {
-      "title": "Statement on the appointment of Hyun Song Shin as Governor of the Bank of Korea",
-      "link": "https://www.bis.org/media-releases/20260420-statement-appointment-hyun-song-shin-governor-bank-korea",
-      "date": "2026-04-20T00:00:00.000Z",
-      "summary": "The General Manager of the BIS, Pablo Hernández de Cos, made the following statement today on the announcement that Hyun Song Shin has been appointed to serve as Governor of the Bank of Korea.",
       "sourceId": "bis-press",
       "sourceLabel": "Bank for International Settlements — Media Releases",
       "sourceUrl": "https://www.bis.org/press/index.htm",
