@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-01T06:03:57.393Z",
-  "cachedAt": "2026-10-01T06:03:57.393Z",
+  "generatedAt": "2026-10-01T08:45:22.066Z",
+  "cachedAt": "2026-10-01T08:45:22.066Z",
   "items": [
+    {
+      "title": "Speech: Greater Victoria Chamber of Commerce and CFA Society Victoria",
+      "link": "https://www.bankofcanada.ca/multimedia/speech-greater-victoria-chamber-of-commerce-and-cfa-society-victoria-2026-10-1/",
+      "date": "2026-10-01T15:20:12.000Z",
+      "summary": "Canada’s housing market — Senior Deputy Governor Carolyn Rogers speaks before the Greater Victoria Chamber of Commerce and CFA Society Victoria (15:20 (ET) approx.).",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
     {
       "title": "Mukesh Asudani",
       "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26662",
@@ -67,6 +78,17 @@
       "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
+    },
+    {
+      "title": "Speech by Carolyn Rogers, Senior Deputy Governor of the Bank of Canada",
+      "link": "https://www.bankofcanada.ca/2026/10/speech-carolyn-rogers-2026-10-01/",
+      "date": "2026-09-30T18:02:04.000Z",
+      "summary": "On Thursday, October 1, 2026, Carolyn Rogers, Senior Deputy Governor of the Bank of Canada, will speak before the Greater Victoria Chamber of Commerce and CFA Society Victoria.",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
     },
     {
       "title": "Travel + Leisure Co.",
@@ -344,6 +366,50 @@
       "jurisdiction": "US"
     },
     {
+      "title": "Fireside chat with Toni Gravelle, Deputy Governor of the Bank of Canada",
+      "link": "https://www.bankofcanada.ca/2026/09/fireside-chat-with-toni-gravelle-2026-09-29/",
+      "date": "2026-09-29T13:35:26.000Z",
+      "summary": "On Tuesday, September 29, 2026, Toni Gravelle, Deputy Governor of the Bank of Canada, will participate in a fireside chat at the Bloomberg Canadian Finance Conference.",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
+    {
+      "title": "Repo markets and monetary policy implementation",
+      "link": "https://www.bankofcanada.ca/2026/09/repo-markets-monetary-policy-implementation/",
+      "date": "2026-09-29T13:20:51.000Z",
+      "summary": "Deputy Governor Toni Gravelle discusses how the Bank of Canada is supporting resilience in repurchase agreement (repo) markets and how our monetary policy implementation framework has evolved.",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
+    {
+      "title": "Bank of Canada and OSFI Issue Joint Statement on Use of the Bank’s Standing Liquidity Facility",
+      "link": "https://www.bankofcanada.ca/2026/09/bank-canada-osfi-issue-joint-statement-use-banks-standing-liquidity-facility/",
+      "date": "2026-09-29T13:20:40.000Z",
+      "summary": "The Bank of Canada (Bank) and the Office of the Superintendent of Financial Institutions (OSFI) are issuing this joint statement to provide clarity on the purpose and use of the Standing Liquidity Facility (SLF).",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
+    {
+      "title": "Central Bank of Ireland sets Insurance Compensation Fund Levy to 0%",
+      "link": "https://www.centralbank.ie/news/article/press-release-central-bank-of-ireland-insurance-compensation-fund-levy-29-september-2026",
+      "date": "2026-09-29T10:00:17.000Z",
+      "summary": "Central Bank of Ireland has today (29 September 2026) announced a reduction in the Insurance Compensation Fund Levy to 0%, which will take effect from 1 January 2027. It is the first time the levy has been set at 0% since it came into effect in 2012. This marks the second change ",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
+    },
+    {
       "title": "Purpose Mutual Funds Limited: Bafin warns consumers about websites promarketscfd(.)com, rormarkets(.)com and firstrade24(.)com",
       "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_29_promarketscfd_rormarkets_firstrade24_en.html",
       "date": "2026-09-29T07:00:00.000Z",
@@ -432,6 +498,17 @@
       "jurisdiction": "Germany"
     },
     {
+      "title": "Opening Remarks by Governor Makhlouf at the Civil Society Roundtable",
+      "link": "https://www.centralbank.ie/news/article/speech-opening-remarks-governor-makhlouf-civil-society-roundtable-28-september-2026",
+      "date": "2026-09-28T09:37:04.000Z",
+      "summary": "Good morning everyone, and welcome to North Wall Quay. It is good to see you all here.These roundtables have become an important part of how we work at the Central Bank. &nbsp;You all bring perspectives that help us understand how the financial system works for people in practice",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
+    },
+    {
       "title": "spacexfy(.)ai:&#160;Bafin&#160;warns consumers about website&#160;",
       "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_23_spacexfy_ai_en.html",
       "date": "2026-09-28T07:39:00.000Z",
@@ -507,6 +584,28 @@
       "sourceUrl": "https://www.justice.gov/news/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
+    },
+    {
+      "title": "Infinity Insurance & Assistance / Infinity European Assistance - Central Bank of Ireland Issues Warning on Unauthorised Firm",
+      "link": "https://www.centralbank.ie/news/article/infinity-insurance---assistance---infinity-european-assistance---central-bank-of-ireland-issues-warning-on-unauthorised-firm",
+      "date": "2026-09-25T11:01:02.000Z",
+      "summary": "Warning:Unauthorised Insurance&nbsp;IntermediaryUnauthorised Firm NameInfinity Insurance &amp; Assistance / Infinity European AssistanceWebsitewww.infinityinsurance.euwww.infinityassistance.ukEmail address(es) usedcontato@infinityassistance.eusac@infinityassistance.ukPhone number",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
+    },
+    {
+      "title": "Central Bank of Ireland launches U2 commemorative coin, marking 50 years since the band formed",
+      "link": "https://www.centralbank.ie/news/article/press-release-central-bank-of-ireland-launches-u2-commemorative-coin-25-september-2026",
+      "date": "2026-09-25T10:55:05.000Z",
+      "summary": "Central Bank of Ireland has today (Friday 25 September) launched a new &euro;2 commemorative coin to celebrate U2, one of the world&rsquo;s greatest bands, marking 50 years since their formation in 1976. The coin features an image of the four band members Adam Clayton, Bono, The ",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
     },
     {
       "title": "SFC suspends dealings in Silver Grant International Holdings Group Limited shares over suspicious diversion of over $1 billion in loan proceeds to its then-major shareholder and related party",
@@ -641,6 +740,17 @@
       "jurisdiction": "US"
     },
     {
+      "title": "Bank of Canada Media Interview – CBC North",
+      "link": "https://www.bankofcanada.ca/2026/09/bank-of-canada-media-interview-cbc-north-2026-09-23/",
+      "date": "2026-09-23T16:55:22.000Z",
+      "summary": "Tiff Macklem, Governor of the Bank of Canada, will give a live interview to CBC radio’s Trail’s End.",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
+    {
       "title": "SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement",
       "date": "2026-09-23T16:00:00.000Z",
@@ -707,6 +817,39 @@
       "jurisdiction": "UK"
     },
     {
+      "title": "Bank of Canada Media Interview – The Chronicle Herald",
+      "link": "https://www.bankofcanada.ca/2026/09/bank-of-canada-media-interview-the-chronicle-herald-2026-09-21/",
+      "date": "2026-09-21T14:00:34.000Z",
+      "summary": "Tiff Macklem, Governor of the Bank of Canada, gave an interview to The Chronicle Herald.",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
+    {
+      "title": "Bank of Canada Media Interview – Market News International",
+      "link": "https://www.bankofcanada.ca/2026/09/bank-of-canada-media-interview-market-news-international-2026-09-21/",
+      "date": "2026-09-21T14:00:15.000Z",
+      "summary": "Tiff Macklem, Governor of the Bank of Canada, gave an interview to Market News.",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
+    {
+      "title": "Media Availability: Halifax Partnership",
+      "link": "https://www.bankofcanada.ca/multimedia/media-availability-halifax-partnership/",
+      "date": "2026-09-21T12:30:50.000Z",
+      "summary": "Economic developments  — Governor Tiff Macklem takes questions from reporters following his remarks (12:30 (ET) approx.)",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
+    {
       "title": "Bank of England announces new office space in Leeds",
       "link": "https://www.bankofengland.co.uk/news/2026/september/bank-of-england-announces-new-office-space-in-leeds",
       "date": "2026-09-21T12:00:00.000Z",
@@ -729,6 +872,17 @@
       "jurisdiction": "UK"
     },
     {
+      "title": "Speech: Halifax Partnership",
+      "link": "https://www.bankofcanada.ca/multimedia/speech-halifax-partnership-2026-09-21/",
+      "date": "2026-09-21T11:20:45.000Z",
+      "summary": "Economic developments  — Governor Tiff Macklem speaks before the Halifax Partnership (11:20 (ET) approx.).",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
+    {
       "title": "Swiss Takeover Board: Joris Gröflin elected as new member",
       "link": "https://www.finma.ch/en/news/2026/09/20260921-mm-uebernahmekommission/",
       "date": "2026-09-21T08:00:00.000Z",
@@ -749,6 +903,72 @@
       "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
+    },
+    {
+      "title": "Remarks by Director of Insurance, Seána Cunningham to the UN Environment Programme Global Sustainable Insurance Summit, Dublin",
+      "link": "https://www.centralbank.ie/news/article/speech-remarks-by-seana-cunningham-dublin-17-September-2026",
+      "date": "2026-09-18T10:08:27.000Z",
+      "summary": "Seána Cunningham delivers her opening remarks at the UNEP Global Sustainable Insurance Summit in Dublin.",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
+    },
+    {
+      "title": "L'Europe, C'est Nous – Governor Gabriel Makhlouf remarks informal ECOFIN dinner",
+      "link": "https://www.centralbank.ie/news/article/speech-governor-gabriel-makhlouf-remarks-informal-ecofin-dinner-18-september-2026",
+      "date": "2026-09-18T09:47:37.000Z",
+      "summary": "T&aacute;naiste, Ministers, Governors, Commissioners, Deputy Governors, colleagues and friends.It is a great pleasure to join the T&aacute;naiste in welcoming you to Dublin this evening. &nbsp;I am conscious that, at this point in the proceedings I am standing between you and the",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
+    },
+    {
+      "title": "Innovation must be built on public trust – Governor Gabriel Makhlouf",
+      "link": "https://www.centralbank.ie/news/article/press-release-innovation-must-be-built-on-public-trust-governor-gabriel-makhlouf-18-september-2026",
+      "date": "2026-09-18T07:57:01.000Z",
+      "summary": "Central Bank of Ireland Governor Gabriel Makhlouf today (Friday 18 September) spoke at The Future of Finance Conference held in Dublin. Governor Makhlouf opened the conference with a focus on trust &ldquo;At the Central Bank of Ireland, our work on the payments system is an impor",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
+    },
+    {
+      "title": "Opening remarks by Governor Gabriel Makhlouf at Central Bank of Ireland Conference on “Trust & Innovation: the Future of Finance\"",
+      "link": "https://www.centralbank.ie/news/article/speech-opening-remarks-governor-makhlouf-trust-innovation-18-september-2026",
+      "date": "2026-09-18T07:57:00.000Z",
+      "summary": "Good morning, and welcome to our conference on &ldquo;Trust and Innovation: The Future of Finance&rdquo;.This morning&rsquo;s event takes place on the sidelines of the Informal ECOFIN &ndash; an occasion that brings together many of Europe&rsquo;s most experienced economic policy",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
+    },
+    {
+      "title": "Finance for Europe's Future – Getting the Foundations Right – Speech by Governor Makhlouf at Eurofi Financial Forum Gala Dinner",
+      "link": "https://www.centralbank.ie/news/article/speech-governor-makhlouf-eurofi-gala-dinner-17-september-2026",
+      "date": "2026-09-17T20:30:51.000Z",
+      "summary": "Good evening.&nbsp; I know you&rsquo;ve already been here for a couple of days but it&rsquo;s a pleasure to extend my own &ndash; slightly delayed &ndash; welcome to all visitors to Dublin.Today you have covered Basel divergence, the Banking Union, the Savings and Investments Uni",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
+    },
+    {
+      "title": "Governor Gabriel Makhlouf says Europe must move faster to complete Single Market",
+      "link": "https://www.centralbank.ie/news/article/press-release-governor-gabriel-makhlouf-says-europe-must-move-faster-to-complete-single-market-17-september-2026",
+      "date": "2026-09-17T20:30:06.000Z",
+      "summary": "Central Bank of Ireland Governor Gabriel Makhlouf today (Thursday 17 September) spoke at the Eurofi Financial Forum held in Dublin, where he said Europe needs to move faster on the completion of the Single Market. Governor Makhlouf said:&nbsp;&ldquo;We need to create One Single M",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
     },
     {
       "title": "Transcript of the Governor's pooled broadcast interview given on 17 September 2026",
@@ -784,17 +1004,6 @@
       "jurisdiction": "US"
     },
     {
-      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
-      "date": "2026-09-17T11:00:00.000Z",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "sourceId": "boe-news",
-      "sourceLabel": "Bank of England — News",
-      "sourceUrl": "https://www.bankofengland.co.uk/news",
-      "kind": "guidance",
-      "jurisdiction": "UK"
-    },
-    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
       "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
       "date": "2026-09-17T11:00:00.000Z",
@@ -828,6 +1037,28 @@
       "jurisdiction": "UK"
     },
     {
+      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
+      "date": "2026-09-17T11:00:00.000Z",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "sourceId": "boe-news",
+      "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "Opening Statement by Dr Robert Kelly, Director of Economics & Statistics at the Oireachtas Committee on Budgetary Oversight",
+      "link": "https://www.centralbank.ie/news/article/speech-robert-kelly-director-economics-statistics-oireachtas-budgetary-oversight-16-september-2026",
+      "date": "2026-09-16T17:40:16.000Z",
+      "summary": "Good afternoon Cathaoirleach and members of the Committee. I am joined by Dr Thomas Conefrey, Head of Irish Economic Analysis, and we thank you for the opportunity to engage in advance of October&rsquo;s Budget.Every day, train commuters across Ireland hear a familiar warning: mi",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
+    },
+    {
       "title": "SEC Proposes Rescission of Shareholder Proposal Rule and Reforms to Proxy Solicitation Process",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-89-sec-proposes-rescission-shareholder-proposal-rule-reforms-proxy-solicitation-process",
       "date": "2026-09-16T14:00:00.000Z",
@@ -837,6 +1068,17 @@
       "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
+    },
+    {
+      "title": "Quarterly Bulletin 2026:3 – Steady growth amid heightened inflation and ongoing external uncertainty",
+      "link": "https://www.centralbank.ie/news/article/press-release-quarterly-bulletin-2026-3-16-september-2026",
+      "date": "2026-09-15T23:01:43.000Z",
+      "summary": "Modified domestic demand (MDD) growth is being revised up modestly in 2026 to 3.8      per cent and to 3.4 per cent in 2027, supported by resilient consumer      spending and multinational investmentHeadline inflation is projected to average 3.4 per cent      in 2026, moderating ",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
     },
     {
       "title": "SEC Grants Exemptive Relief from Certain Inline XBRL Filing or Submission Requirements",
