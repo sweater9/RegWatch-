@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-09-30T22:21:12.968Z",
-  "cachedAt": "2026-09-30T22:21:12.968Z",
+  "generatedAt": "2026-10-01T06:03:57.393Z",
+  "cachedAt": "2026-10-01T06:03:57.393Z",
   "items": [
+    {
+      "title": "Mukesh Asudani",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26662",
+      "date": "2026-09-30T22:26:36.000Z",
+      "summary": "Mukesh Asudani",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Robert Bernardi and Sunil Chandra",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26661",
+      "date": "2026-09-30T22:17:57.000Z",
+      "summary": "Robert Bernardi and Sunil Chandra",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
     {
       "title": "Trevon Brown, Craig Grant, and Michael Noble",
       "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26660",
@@ -370,28 +392,6 @@
       "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26651",
       "date": "2026-09-28T19:40:06.000Z",
       "summary": "Jacob Garfinkel; 5G Funding LLC; Five G Funding LLC",
-      "sourceId": "sec-litigation",
-      "sourceLabel": "US SEC — Litigation Releases",
-      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
-      "title": "Fan “Jocelyn” Yang; Jing Tian; Zijun Zhang; Shuchen Zhu; Chong Zhang; and Hanxiong Bo",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26650",
-      "date": "2026-09-28T19:11:29.000Z",
-      "summary": "Fan “Jocelyn” Yang; Jing Tian; Zijun Zhang; Shuchen Zhu; Chong Zhang; and Hanxiong Bo",
-      "sourceId": "sec-litigation",
-      "sourceLabel": "US SEC — Litigation Releases",
-      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
-      "title": "Lloyd Anderson Wilson, C.P.A.",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26649",
-      "date": "2026-09-28T19:10:34.000Z",
-      "summary": "Lloyd Anderson Wilson, C.P.A.",
       "sourceId": "sec-litigation",
       "sourceLabel": "US SEC — Litigation Releases",
       "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
@@ -795,17 +795,6 @@
       "jurisdiction": "UK"
     },
     {
-      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 17 September 2026",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026",
-      "date": "2026-09-17T11:00:00.000Z",
-      "summary": "This Market Notice outlines the Bank Executive’s approach to implementing the Monetary Policy Committee’s (MPC) decision to unwind the gilts held for monetary policy purposes in the Asset Purchase Facility (APF). As part of this, Bank APF auctions will be paused while the Bank re",
-      "sourceId": "boe-news",
-      "sourceLabel": "Bank of England — News",
-      "sourceUrl": "https://www.bankofengland.co.uk/news",
-      "kind": "guidance",
-      "jurisdiction": "UK"
-    },
-    {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
       "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
       "date": "2026-09-17T11:00:00.000Z",
@@ -821,6 +810,17 @@
       "link": "https://www.bankofengland.co.uk/letter/2026/exchange-of-letters-between-the-governor-and-the-chancellor-regarding-qt-and-the-apf",
       "date": "2026-09-17T11:00:00.000Z",
       "summary": "Exchange of letters between the Governor and the Chancellor",
+      "sourceId": "boe-news",
+      "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 17 September 2026",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026",
+      "date": "2026-09-17T11:00:00.000Z",
+      "summary": "This Market Notice outlines the Bank Executive’s approach to implementing the Monetary Policy Committee’s (MPC) decision to unwind the gilts held for monetary policy purposes in the Asset Purchase Facility (APF). As part of this, Bank APF auctions will be paused while the Bank re",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
       "sourceUrl": "https://www.bankofengland.co.uk/news",
