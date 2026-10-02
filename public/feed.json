@@ -1,11 +1,44 @@
 {
-  "generatedAt": "2026-10-02T05:47:08.319Z",
-  "cachedAt": "2026-10-02T05:47:08.319Z",
+  "generatedAt": "2026-10-02T08:47:00.631Z",
+  "cachedAt": "2026-10-02T08:47:00.631Z",
   "items": [
+    {
+      "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
+      "link": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
+      "date": "2026-10-02T08:00:00.000Z",
+      "summary": "Following an external recruitment process, the Bank of England has appointed Carlos Conceicao and Alexander Justham as members of its Enforcement Decision Making Committee, with effect from September 2026.",
+      "sourceId": "boe-news",
+      "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "btcx(.)investments:&#160;Bafin&#160;warns consumers about website",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_29_btcx_investments_en.html",
+      "date": "2026-10-02T06:37:00.000Z",
+      "summary": "The Federal Financial Supervisory Authority (Bafin) warns consumers about the website btcx(.)investments and investigates the operators of the website. According to information available to Bafin, the operators are providing banking business and/or financial services on these web",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
+    },
+    {
+      "title": "Commission Quorum Requirement",
+      "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20262/commission-quorum-requirement",
+      "date": "2026-10-02T00:00:00.000Z",
+      "summary": "The Securities and Exchange Commission (\"Commission\") is amending its rules concerning the circumstances under which a quorum of the Commission is present. The amendments are designed to promote flexibility and finality of agency rulemaking.",
+      "sourceId": "federal-register",
+      "sourceLabel": "US Federal Register",
+      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      "kind": "rulebook",
+      "jurisdiction": "US"
+    },
     {
       "title": "Bank of Canada Media Interview – The Missing Middle podcast",
       "link": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-the-missing-middle-podcast-2026-10-01/",
-      "date": "2026-10-01T21:09:24.000Z",
+      "date": "2026-10-01T21:10:04.000Z",
       "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers gave an interview to The Missing Middle podcast.",
       "sourceId": "canada-boc-press",
       "sourceLabel": "Bank of Canada — Press",
@@ -91,6 +124,28 @@
       "jurisdiction": "US"
     },
     {
+      "title": "One for all, all for one: building a stronger European economy",
+      "link": "/en/general-news/speech-2026/one-for-all-all-for-one-building-a-stronger-european-economy/",
+      "date": "2026-10-01T14:54:43.000Z",
+      "summary": "&#x2018;Europe is no longer a profit centre, it is our lifeline&#x2019;, said Bas ter Weel in his opening keynote for the European Competitiveness Forum, in Maastricht today. He spoke about how to make the European economy more competitive and resilient.",
+      "sourceId": "dnb-general-news",
+      "sourceLabel": "De Nederlandsche Bank (DNB) — General News",
+      "sourceUrl": "https://www.dnb.nl/en/general-news/",
+      "kind": "guidance",
+      "jurisdiction": "Netherlands"
+    },
+    {
+      "title": "Climate Change: The Economic Reality We Can No Longer Ignore",
+      "link": "/en/general-news/speech-2026/climate-change-the-economic-reality-we-can-no-longer-ignore/",
+      "date": "2026-10-01T14:21:57.000Z",
+      "summary": "&#x2018;It is no longer possible to deny the economic impact of climate change. We can see it, we can feel it, we can measure it. That has nothing to do with ideology, that is reality.&#x2019; This is what Olaf Sleijpen said in his speech at the Sustainable Finance Gipfel in Fran",
+      "sourceId": "dnb-general-news",
+      "sourceLabel": "De Nederlandsche Bank (DNB) — General News",
+      "sourceUrl": "https://www.dnb.nl/en/general-news/",
+      "kind": "guidance",
+      "jurisdiction": "Netherlands"
+    },
+    {
       "title": "Minutes of the Meeting of the Court of Directors held on 16 July 2026",
       "link": "https://www.bankofengland.co.uk/minutes/2026/july/court-minutes-16-july-2026",
       "date": "2026-10-01T13:00:00.000Z",
@@ -146,10 +201,10 @@
       "jurisdiction": "Ireland"
     },
     {
-      "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
-      "link": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and",
+      "title": "International supervisory community meets to discuss the future of global bank supervision and regulation",
+      "link": "https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation",
       "date": "2026-10-01T00:00:00.000Z",
-      "summary": "Exchanges experiences and views on developments in artificial intelligence for the global banking system and supervisors, modernisation efforts and implications for the Committee’s future work programme...",
+      "summary": "Almost 300 central bankers and banking supervisors attended the International Conference of Banking Supervisors (ICBS) to discuss the future of supervision and the digitalisation of finance...",
       "sourceId": "bis-press",
       "sourceLabel": "Bank for International Settlements — Media Releases",
       "sourceUrl": "https://www.bis.org/press/index.htm",
@@ -157,10 +212,10 @@
       "jurisdiction": "International"
     },
     {
-      "title": "International supervisory community meets to discuss the future of global bank supervision and regulation",
-      "link": "https://www.bis.org/media-releases/20261001-international-supervisory-community-meets-discuss-future-global-bank-supervision-and-regulation",
+      "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
+      "link": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and",
       "date": "2026-10-01T00:00:00.000Z",
-      "summary": "Almost 300 central bankers and banking supervisors attended the International Conference of Banking Supervisors (ICBS) to discuss the future of supervision and the digitalisation of finance...",
+      "summary": "Exchanges experiences and views on developments in artificial intelligence for the global banking system and supervisors, modernisation efforts and implications for the Committee’s future work programme...",
       "sourceId": "bis-press",
       "sourceLabel": "Bank for International Settlements — Media Releases",
       "sourceUrl": "https://www.bis.org/press/index.htm",
@@ -278,6 +333,17 @@
       "jurisdiction": "US"
     },
     {
+      "title": "Direct investment via the Netherlands rises again after years of decline",
+      "link": "/en/general-news/statistical-news/2026/direct-investment-via-the-netherlands-rises-again-after-years-of-decline/",
+      "date": "2026-09-30T13:59:41.000Z",
+      "summary": "Foreign direct investment in the Netherlands has rebounded, outstripping capital repatriations. In the first half of 2026, foreign companies and investors invested &#x20AC;72 billion in the Netherlands, mainly from the United States and from Germany.",
+      "sourceId": "dnb-general-news",
+      "sourceLabel": "De Nederlandsche Bank (DNB) — General News",
+      "sourceUrl": "https://www.dnb.nl/en/general-news/",
+      "kind": "guidance",
+      "jurisdiction": "Netherlands"
+    },
+    {
       "title": "SFC, Securities Commission Malaysia announce Single Submission Arrangement to streamline simultaneous listings in Malaysia and Hong Kong",
       "link": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR159",
       "date": "2026-09-30T12:32:14.000Z",
@@ -287,6 +353,17 @@
       "sourceUrl": "https://www.sfc.hk/en/News-and-announcements/News",
       "kind": "guidance",
       "jurisdiction": "Hong Kong"
+    },
+    {
+      "title": "Consultation finds strong support for access to cash services",
+      "link": "https://www.rbnz.govt.nz/news-and-events/news/2026/10/consultation-finds-strong-support-for-access-to-cash",
+      "date": "2026-09-30T11:00:00.000Z",
+      "summary": "Today, we published findings from our Keeping Cash Local consultation about access to cash services, with new research on community views about cash services and cash use.",
+      "sourceId": "rbnz-news",
+      "sourceLabel": "Reserve Bank of New Zealand — News Releases",
+      "sourceUrl": "https://www.rbnz.govt.nz/news-and-events/news",
+      "kind": "guidance",
+      "jurisdiction": "New Zealand"
     },
     {
       "title": "Financial Policy Committee Record – September 2026",
@@ -498,6 +575,17 @@
       "jurisdiction": "Switzerland"
     },
     {
+      "title": "What impact do geopolitical tensions have on inflation?",
+      "link": "/en/general-news/background-2026/what-impact-do-geopolitical-tensions-have-on-inflation/",
+      "date": "2026-09-29T14:44:51.000Z",
+      "summary": "Geopolitical tensions, such as armed conflicts and trade disputes, have increased significantly in recent years. Not only do they affect today&#x2019;s economy, but they also increase the likelihood of tomorrow&#x2019;s inflation.",
+      "sourceId": "dnb-general-news",
+      "sourceLabel": "De Nederlandsche Bank (DNB) — General News",
+      "sourceUrl": "https://www.dnb.nl/en/general-news/",
+      "kind": "guidance",
+      "jurisdiction": "Netherlands"
+    },
+    {
       "title": "SEC Charges Multiple Entities in Fraud Schemes Totaling at Least $15 Million That Used WhatsApp and Other Platforms to Lure Investors",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms",
       "date": "2026-09-29T13:55:53.000Z",
@@ -606,6 +694,17 @@
       "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
+    },
+    {
+      "title": "Dutch motorists filled up more often across the border in the first half of this year",
+      "link": "/en/general-news/statistical-news/2026/dutch-motorists-filled-up-more-often-across-the-border-in-the-first-half-of-this-year/",
+      "date": "2026-09-28T16:28:52.000Z",
+      "summary": "Dutch motorists filled up their cars more often in Belgium and Germany in the first half of 2026 than in the same period last year. This is revealed by card payment data, which DNB is publishing in this format for the first time. &#xA;&#xA;",
+      "sourceId": "dnb-general-news",
+      "sourceLabel": "De Nederlandsche Bank (DNB) — General News",
+      "sourceUrl": "https://www.dnb.nl/en/general-news/",
+      "kind": "guidance",
+      "jurisdiction": "Netherlands"
     },
     {
       "title": "SFC shares updates with securities industry on scam prevention and cybersecurity",
@@ -806,21 +905,32 @@
       "jurisdiction": "US"
     },
     {
+      "title": "New Monetary Policy Committee member appointed",
+      "link": "https://www.rbnz.govt.nz/news-and-events/news/2026/09/new-monetary-policy-committee-member-appointed",
+      "date": "2026-09-24T12:00:00.000Z",
+      "summary": "A new internal member of the Monetary Policy Committee (MPC), Rebecca Williams, has been appointed by the Minister of Finance, Nicola Willis, on the recommendation of the RBNZ Board.",
+      "sourceId": "rbnz-news",
+      "sourceLabel": "Reserve Bank of New Zealand — News Releases",
+      "sourceUrl": "https://www.rbnz.govt.nz/news-and-events/news",
+      "kind": "guidance",
+      "jurisdiction": "New Zealand"
+    },
+    {
+      "title": "Reserve Bank requests TSB to commission independent report",
+      "link": "https://www.rbnz.govt.nz/news-and-events/news/2026/09/reserve-bank-requests-tsb-to-commission-independent-report",
+      "date": "2026-09-24T12:00:00.000Z",
+      "summary": "The Reserve Bank of New Zealand – Te Pūtea Matua is requesting an independent report from TSB under Section 95 of the Banking (Prudential Supervision) Act 1989.",
+      "sourceId": "rbnz-news",
+      "sourceLabel": "Reserve Bank of New Zealand — News Releases",
+      "sourceUrl": "https://www.rbnz.govt.nz/news-and-events/news",
+      "kind": "guidance",
+      "jurisdiction": "New Zealand"
+    },
+    {
       "title": "festzinskompass(.)com: Bafin warns about website",
       "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_24_festzinskompass_en.html",
       "date": "2026-09-24T09:47:00.000Z",
       "summary": "The German Financial Supervisory Authority (Bafin) warns about offers on the website festzinskompass(.)com. It is suspected that the unknown operators are offering banking transactions and financial services without the required authorisation.",
-      "sourceId": "bafin-press",
-      "sourceLabel": "Germany BaFin — Press Releases",
-      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
-      "kind": "guidance",
-      "jurisdiction": "Germany"
-    },
-    {
-      "title": "2026 LSI stress test: Banks&#8217; and savings banks&#8217; capital buffers robust",
-      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Pressemitteilung/2026/pm_2026_09_24_lsi-stresstest_en.html",
-      "date": "2026-09-24T09:00:00.000Z",
-      "summary": "Germany&#8217;s small and medium-sized banks and savings banks remain highly resilient. Despite a tense economic situation, heightened geopolitical risks and rising burdens, especially in corporate and commercial real estate business, institutions have, on the whole, a sound capi",
       "sourceId": "bafin-press",
       "sourceLabel": "Germany BaFin — Press Releases",
       "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
@@ -883,17 +993,6 @@
       "jurisdiction": "US"
     },
     {
-      "title": "Publication of the Democratic Republic of the Congo Sanctions Regulations Web General License 2",
-      "link": "https://www.federalregister.gov/documents/2026/09/23/2026-19423/publication-of-the-democratic-republic-of-the-congo-sanctions-regulations-web-general-license-2",
-      "date": "2026-09-23T00:00:00.000Z",
-      "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing a general license (GL) issued pursuant to the Democratic Republic of the Congo Sanctions Regulations: GL 2. This GL was previously made available on OFAC's website.",
-      "sourceId": "federal-register",
-      "sourceLabel": "US Federal Register",
-      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
-      "kind": "rulebook",
-      "jurisdiction": "US"
-    },
-    {
       "title": "SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci",
       "date": "2026-09-22T16:41:11.000Z",
@@ -936,6 +1035,28 @@
       "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
+    },
+    {
+      "title": "RBNZ leaders visit Dunedin to understand how the local economy is evolving",
+      "link": "https://www.rbnz.govt.nz/news-and-events/news/2026/09/rbnz-leaders-visit-dunedin-to-understand-how-the-local-economy-is-evolving",
+      "date": "2026-09-21T12:00:00.000Z",
+      "summary": "Governor Anna Breman, alongside External Monetary Policy Committee member Prasanna Gai and Board Chair Rodger Finlay, visited Dunedin to meet with local communities and businesses from key sectors in the regional centre.",
+      "sourceId": "rbnz-news",
+      "sourceLabel": "Reserve Bank of New Zealand — News Releases",
+      "sourceUrl": "https://www.rbnz.govt.nz/news-and-events/news",
+      "kind": "guidance",
+      "jurisdiction": "New Zealand"
+    },
+    {
+      "title": "Reserve Bank welcomes findings of independent review of Covid-19 monetary policy",
+      "link": "https://www.rbnz.govt.nz/news-and-events/news/2026/09/reserve-bank-welcomes-findings-of-independent-review-of-covid-19-monetary-policy",
+      "date": "2026-09-21T12:00:00.000Z",
+      "summary": "Board Chair Rodger Finlay has welcomed the findings of the Independent review of Covid-19 monetary policy released today by the Minister of Finance.",
+      "sourceId": "rbnz-news",
+      "sourceLabel": "Reserve Bank of New Zealand — News Releases",
+      "sourceUrl": "https://www.rbnz.govt.nz/news-and-events/news",
+      "kind": "guidance",
+      "jurisdiction": "New Zealand"
     },
     {
       "title": "Foreign Currency Reserves 2026 – Market Notice 21 September 2026",
@@ -1037,6 +1158,28 @@
       "jurisdiction": "Ireland"
     },
     {
+      "title": "Order subject to penalty for trust office Erez Corporate Service B.V. for serious non-compliance with the Act on the Supervision of Trust Offices 2018",
+      "link": "/en/general-news/enforcement-measures-2026/order-subject-to-penalty-for-trust-office-erez-corporate-service-b-v-for-serious-non-compliance-with-the-act-on-the-supervision-of-trust-offices-2018/",
+      "date": "2026-09-17T17:05:51.000Z",
+      "summary": "On 25 April 2024, DNB imposed an order subject to penalty on Erez Corporate Service B.V. (Erez). Erez was in non-compliance with various provisions of the Act on the Supervision of Trust Offices 2018 (Wet toezicht trustkantoren 2018 - Wtt 2018). T",
+      "sourceId": "dnb-general-news",
+      "sourceLabel": "De Nederlandsche Bank (DNB) — General News",
+      "sourceUrl": "https://www.dnb.nl/en/general-news/",
+      "kind": "guidance",
+      "jurisdiction": "Netherlands"
+    },
+    {
+      "title": "Fine for trust office Erez Corporate Service B.V. for failing to commission an audit",
+      "link": "/en/general-news/enforcement-measures-2026/fine-for-trust-office-erez-corporate-service-b-v-for-failing-to-commission-an-audit/",
+      "date": "2026-09-17T16:48:13.000Z",
+      "summary": "De Nederlandsche Bank (DNB) imposed a fine of &#x20AC;95,000 on Erez Corporate Service B.V. (Erez) on 20 January 2022. The fine was imposed because Erez failed to commission an audit concerning the period from January to December 2019.",
+      "sourceId": "dnb-general-news",
+      "sourceLabel": "De Nederlandsche Bank (DNB) — General News",
+      "sourceUrl": "https://www.dnb.nl/en/general-news/",
+      "kind": "guidance",
+      "jurisdiction": "Netherlands"
+    },
+    {
       "title": "Transcript of the Governor's pooled broadcast interview given on 17 September 2026",
       "link": "https://www.bankofengland.co.uk/news/2026/september/the-governor-interview-transcript-17-september-2026",
       "date": "2026-09-17T13:30:00.000Z",
@@ -1070,15 +1213,15 @@
       "jurisdiction": "US"
     },
     {
-      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
-      "date": "2026-09-17T11:00:00.000Z",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "sourceId": "boe-news",
-      "sourceLabel": "Bank of England — News",
-      "sourceUrl": "https://www.bankofengland.co.uk/news",
+      "title": "Māori access to capital (MA2K) snapshot 2026",
+      "link": "https://www.rbnz.govt.nz/news-and-events/news/2026/09/maori-access-to-capital-ma2k-snapshot-2026",
+      "date": "2026-09-17T12:00:00.000Z",
+      "summary": "Te Pūtea Matua – Reserve Bank of New Zealand has today published the 2026 Māori Access to Capital (MA2K) Snapshot, providing an updated industry-level view of Māori access to capital across participating banks, alongside the latest available aggregate system-level information.",
+      "sourceId": "rbnz-news",
+      "sourceLabel": "Reserve Bank of New Zealand — News Releases",
+      "sourceUrl": "https://www.rbnz.govt.nz/news-and-events/news",
       "kind": "guidance",
-      "jurisdiction": "UK"
+      "jurisdiction": "New Zealand"
     },
     {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
@@ -1114,6 +1257,94 @@
       "jurisdiction": "US"
     },
     {
+      "title": "Exploring the future of banking in New Zealand",
+      "link": "https://www.rbnz.govt.nz/news-and-events/news/2026/09/exploring-the-future-of-banking-in-new-zealand",
+      "date": "2026-09-16T12:00:00.000Z",
+      "summary": "The Reserve Bank of New Zealand – Te Pūtea Matua (RBNZ) has today published a Future of Banking study exploring how banking in New Zealand could evolve over the next decade.",
+      "sourceId": "rbnz-news",
+      "sourceLabel": "Reserve Bank of New Zealand — News Releases",
+      "sourceUrl": "https://www.rbnz.govt.nz/news-and-events/news",
+      "kind": "guidance",
+      "jurisdiction": "New Zealand"
+    },
+    {
+      "title": "The future of money: What does tokenised finance mean for FX markets, liquidity and financial stability?",
+      "link": "/en/general-news/speech-2026/the-future-of-money-what-does-tokenised-finance-mean-for-fx-markets-liquidity-and-financial-stability/",
+      "date": "2026-09-16T08:41:34.000Z",
+      "summary": "&#x2018;Distributed Ledger Technology and tokenisation could fundamentally change financial markets, including FX markets&#x2019;, said Bas ter Weel today at TradeTech FX in Amsterdam. He talked about ways to keep a tokenised financial system safe and stable, and how central bank",
+      "sourceId": "dnb-general-news",
+      "sourceLabel": "De Nederlandsche Bank (DNB) — General News",
+      "sourceUrl": "https://www.dnb.nl/en/general-news/",
+      "kind": "guidance",
+      "jurisdiction": "Netherlands"
+    },
+    {
+      "title": "Reserve Bank announces leadership changes as Assistant Governor Karen Silk prepares to depart",
+      "link": "https://www.rbnz.govt.nz/news-and-events/news/2026/09/reserve-bank-announces-leadership-changes-as-assistant-governor-karen-silk-prepares-to-depart",
+      "date": "2026-09-15T12:00:00.000Z",
+      "summary": "Reserve Bank of New Zealand – Te Pūtea Matua Assistant Governor Money Karen Silk will leave the Bank in December, after more than four years with the organisation.",
+      "sourceId": "rbnz-news",
+      "sourceLabel": "Reserve Bank of New Zealand — News Releases",
+      "sourceUrl": "https://www.rbnz.govt.nz/news-and-events/news",
+      "kind": "guidance",
+      "jurisdiction": "New Zealand"
+    },
+    {
+      "title": "Uncertainty dampens the impact of monetary policy",
+      "link": "/en/general-news/news-2026/uncertainty-dampens-the-impact-of-monetary-policy/",
+      "date": "2026-09-14T16:58:04.000Z",
+      "summary": "In times of economic uncertainty, the impact of monetary policy on the economy may be weaker. Moreover, a new DNB Analysis shows that not all forms of uncertainty have the same effect. Financial and geopolitical uncertainty, in particular, appear to be dampening the impact of an ",
+      "sourceId": "dnb-general-news",
+      "sourceLabel": "De Nederlandsche Bank (DNB) — General News",
+      "sourceUrl": "https://www.dnb.nl/en/general-news/",
+      "kind": "guidance",
+      "jurisdiction": "Netherlands"
+    },
+    {
+      "title": "RBNZ to regulate and supervise the High Value Clearing System",
+      "link": "https://www.rbnz.govt.nz/news-and-events/news/2026/09/rbnz-to-regulate-and-supervise-the-high-value-clearing-system",
+      "date": "2026-09-14T12:00:00.000Z",
+      "summary": "The Reserve Bank of New Zealand – Te Pūtea Matua will now regulate and supervise the High Value Clearing System, under the Financial Market Infrastructures Act 2021. This follows the Minister of Finance’s decision to designate the system on the Reserve Bank’s recommendation.",
+      "sourceId": "rbnz-news",
+      "sourceLabel": "Reserve Bank of New Zealand — News Releases",
+      "sourceUrl": "https://www.rbnz.govt.nz/news-and-events/news",
+      "kind": "guidance",
+      "jurisdiction": "New Zealand"
+    },
+    {
+      "title": "Reserve Bank releases near-final DTA standards and licensing questions for regulated deposit takers",
+      "link": "https://www.rbnz.govt.nz/news-and-events/news/2026/09/rbnz-releases-near-final-dta-standards-and-licensing-questions",
+      "date": "2026-09-13T12:00:00.000Z",
+      "summary": "The Reserve Bank of New Zealand – Te Pūtea Matua has published near-final versions of four Deposit Takers Act 2023 (DTA) standards, consultation submissions, and the questions that existing banks and non-bank deposit takers will need to answer if they are applying for a DTA licen",
+      "sourceId": "rbnz-news",
+      "sourceLabel": "Reserve Bank of New Zealand — News Releases",
+      "sourceUrl": "https://www.rbnz.govt.nz/news-and-events/news",
+      "kind": "guidance",
+      "jurisdiction": "New Zealand"
+    },
+    {
+      "title": "Trust in financial sector increases",
+      "link": "/en/general-news/news-2026/trust-in-financial-sector-increases/",
+      "date": "2026-09-08T13:19:04.000Z",
+      "summary": "Trust in the financial sector among Dutch households increased over the past year. This has emerged from a survey of almost 2,100 households conducted by De Nederlandsche Bank (DNB). The share of respondents who have trust in financial institutions rose from 52% in 2025 to 57% in",
+      "sourceId": "dnb-general-news",
+      "sourceLabel": "De Nederlandsche Bank (DNB) — General News",
+      "sourceUrl": "https://www.dnb.nl/en/general-news/",
+      "kind": "guidance",
+      "jurisdiction": "Netherlands"
+    },
+    {
+      "title": "Securing the future: the role of the repo market",
+      "link": "https://www.rbnz.govt.nz/news-and-events/news/2026/09/securing-the-future-the-role-of-the-repo-market",
+      "date": "2026-09-08T12:00:00.000Z",
+      "summary": "In a speech delivered today at the KangaNews Debt Capital Markets Summit in Auckland, Reserve Bank Assistant Governor Money, Karen Silk, highlighted the growing importance of the repo market in supporting financial market liquidity, monetary policy implementation, and financial s",
+      "sourceId": "rbnz-news",
+      "sourceLabel": "Reserve Bank of New Zealand — News Releases",
+      "sourceUrl": "https://www.rbnz.govt.nz/news-and-events/news",
+      "kind": "guidance",
+      "jurisdiction": "New Zealand"
+    },
+    {
       "title": "Aktualisierte Sanktionsmeldung: ISIL (Da'esh) und Al-Kaida",
       "link": "https://www.finma.ch/en/news/2026/09/20260908-sr-946-231-08/",
       "date": "2026-09-08T09:47:23.000Z",
@@ -1136,6 +1367,28 @@
       "jurisdiction": "International"
     },
     {
+      "title": "Fine imposed on GMG Europe B.V. for repeated capital shortfalls",
+      "link": "/en/general-news/enforcement-measures-2026/fine-imposed-on-gmg-europe-b-v-for-repeated-capital-shortfalls/",
+      "date": "2026-09-07T13:15:16.000Z",
+      "summary": "On 22 June 2026, De Nederlandsche Bank (DNB) imposed an administrative fine of &#x20AC;59,770 on investment firm GMG Europe B.V. (GMG) for repeatedly failing to maintain sufficient own funds.",
+      "sourceId": "dnb-general-news",
+      "sourceLabel": "De Nederlandsche Bank (DNB) — General News",
+      "sourceUrl": "https://www.dnb.nl/en/general-news/",
+      "kind": "guidance",
+      "jurisdiction": "Netherlands"
+    },
+    {
+      "title": "RBNZ approves entry of first non-bank member to Exchange Settlement Account System (ESAS)",
+      "link": "https://www.rbnz.govt.nz/news-and-events/news/2026/09/rbnz-approves-entry-of-first-non-bank-member-to-exchange-settlement-account-system",
+      "date": "2026-09-07T12:00:00.000Z",
+      "summary": "This follows the completion of the ESAS Access Review which was conducted to assess whether the 30-year access criteria were still fit for purpose in a rapidly changing finance eco-system.",
+      "sourceId": "rbnz-news",
+      "sourceLabel": "Reserve Bank of New Zealand — News Releases",
+      "sourceUrl": "https://www.rbnz.govt.nz/news-and-events/news",
+      "kind": "guidance",
+      "jurisdiction": "New Zealand"
+    },
+    {
       "title": "FINMA’s supervision of small banks: proportionality as a guiding principle for effective supervision",
       "link": "https://www.finma.ch/en/documentation/finma-publications/addresses-and-specialist-articles/referate-folder/20260907-rede-stefan-walter-kbs-2026/",
       "date": "2026-09-07T08:42:00.000Z",
@@ -1145,6 +1398,17 @@
       "sourceUrl": "https://www.finma.ch/en/news/",
       "kind": "guidance",
       "jurisdiction": "Switzerland"
+    },
+    {
+      "title": "DNB improves tradability of gold reserves",
+      "link": "/en/general-news/press-release-2026/dnb-improves-tradability-of-gold-reserves/",
+      "date": "2026-09-02T13:00:34.000Z",
+      "summary": "De Nederlandsche Bank (DNB) has improved the tradability of its gold reserves by transferring part of the gold holdings from New York and Ottawa to London. This ensures that DNB is better prepared for severe crises.",
+      "sourceId": "dnb-general-news",
+      "sourceLabel": "De Nederlandsche Bank (DNB) — General News",
+      "sourceUrl": "https://www.dnb.nl/en/general-news/",
+      "kind": "guidance",
+      "jurisdiction": "Netherlands"
     },
     {
       "title": "Aktualisierte Sanktionsmeldung: Taliban",
@@ -1389,6 +1653,28 @@
       "jurisdiction": "UK"
     },
     {
+      "title": "Press Conferences,Press Conference by KATAYAMA Satsuki, Minister of Finance and Minister of State for Financial Services (September 15, 2026)",
+      "link": "https://www.fsa.go.jp/en/conference/minister/2026/20260915.html",
+      "date": null,
+      "summary": "",
+      "sourceId": "japan-fsa-news",
+      "sourceLabel": "Japan FSA — News",
+      "sourceUrl": "https://www.fsa.go.jp/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Japan"
+    },
+    {
+      "title": "Press Conferences,Press Conference by KATAYAMA Satsuki, Minister of Finance and Minister of State for Financial Services (September 18, 2026)",
+      "link": "https://www.fsa.go.jp/en/conference/minister/2026/20260918.html",
+      "date": null,
+      "summary": "",
+      "sourceId": "japan-fsa-news",
+      "sourceLabel": "Japan FSA — News",
+      "sourceUrl": "https://www.fsa.go.jp/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Japan"
+    },
+    {
       "title": "Others,Trends in High-Speed Trading (as of the end of June 2026)",
       "link": "https://www.fsa.go.jp/en/news/2026/20260930/20260930.html",
       "date": null,
@@ -1468,28 +1754,6 @@
     {
       "title": "Publication,FSA publishes English translation of monthly magazine, Access FSA No.273",
       "link": "https://www.fsa.go.jp/en/newsletter/accessfsa2026/273.pdf",
-      "date": null,
-      "summary": "",
-      "sourceId": "japan-fsa-news",
-      "sourceLabel": "Japan FSA — News",
-      "sourceUrl": "https://www.fsa.go.jp/en/news/",
-      "kind": "guidance",
-      "jurisdiction": "Japan"
-    },
-    {
-      "title": "Press Conferences,Press Conference by KATAYAMA Satsuki, Minister of Finance and Minister of State for Financial Services (August 28, 2026)",
-      "link": "https://www.fsa.go.jp/en/conference/minister/2026/20260828.html",
-      "date": null,
-      "summary": "",
-      "sourceId": "japan-fsa-news",
-      "sourceLabel": "Japan FSA — News",
-      "sourceUrl": "https://www.fsa.go.jp/en/news/",
-      "kind": "guidance",
-      "jurisdiction": "Japan"
-    },
-    {
-      "title": "Publication,FSA Weekly Review No.702 September 8, 2026",
-      "link": "https://www.fsa.go.jp/en/newsletter/weekly2026/702.html",
       "date": null,
       "summary": "",
       "sourceId": "japan-fsa-news",
