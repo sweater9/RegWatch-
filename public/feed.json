@@ -1,7 +1,40 @@
 {
-  "generatedAt": "2026-10-02T12:45:23.783Z",
-  "cachedAt": "2026-10-02T12:45:23.783Z",
+  "generatedAt": "2026-10-02T22:18:44.905Z",
+  "cachedAt": "2026-10-02T22:18:44.905Z",
   "items": [
+    {
+      "title": "David Reichman et al.",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26664",
+      "date": "2026-10-02T22:03:59.000Z",
+      "summary": "David Reichman et al.",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Bank of Canada Media Interview – The Missing Middle podcast",
+      "link": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-the-missing-middle-podcast-2026-10-01/",
+      "date": "2026-10-02T18:30:02.000Z",
+      "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers gave an interview to The Missing Middle podcast.",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
+    {
+      "title": "Central Bank of Ireland launches silver proof commemorative coin celebrating the late author Maeve Binchy",
+      "link": "https://www.centralbank.ie/news/article/press-release-central-bank-of-ireland-launches-silver-proof-commemorative-coin-celebrating-late-author-maeve-binchy-2-october-2026",
+      "date": "2026-10-02T11:00:25.000Z",
+      "summary": "Central Bank of Ireland today launched a &euro;15 silver proof commemorative coin celebrating the literary legacy of beloved Irish author Maeve Binchy. The coin honours Maeve Binchy's contribution to literature and her enduring impact on readers worldwide. The coin will go on sal",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
+    },
     {
       "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
       "link": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
@@ -34,17 +67,6 @@
       "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
       "kind": "rulebook",
       "jurisdiction": "US"
-    },
-    {
-      "title": "Bank of Canada Media Interview – The Missing Middle podcast",
-      "link": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-the-missing-middle-podcast-2026-10-01/",
-      "date": "2026-10-01T21:09:27.000Z",
-      "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers gave an interview to The Missing Middle podcast.",
-      "sourceId": "canada-boc-press",
-      "sourceLabel": "Bank of Canada — Press",
-      "sourceUrl": "https://www.bankofcanada.ca/press/",
-      "kind": "guidance",
-      "jurisdiction": "Canada"
     },
     {
       "title": "Thomas J. Moore, III",
@@ -546,17 +568,6 @@
       "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26653",
       "date": "2026-09-29T19:20:25.000Z",
       "summary": "Chris Farrant",
-      "sourceId": "sec-litigation",
-      "sourceLabel": "US SEC — Litigation Releases",
-      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
-      "title": "Cheryl R. Kramer",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26652",
-      "date": "2026-09-29T18:58:51.000Z",
-      "summary": "Cheryl R. Kramer",
       "sourceId": "sec-litigation",
       "sourceLabel": "US SEC — Litigation Releases",
       "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
@@ -1147,17 +1158,6 @@
       "jurisdiction": "Ireland"
     },
     {
-      "title": "Governor Gabriel Makhlouf says Europe must move faster to complete Single Market",
-      "link": "https://www.centralbank.ie/news/article/press-release-governor-gabriel-makhlouf-says-europe-must-move-faster-to-complete-single-market-17-september-2026",
-      "date": "2026-09-17T20:30:06.000Z",
-      "summary": "Central Bank of Ireland Governor Gabriel Makhlouf today (Thursday 17 September) spoke at the Eurofi Financial Forum held in Dublin, where he said Europe needs to move faster on the completion of the Single Market. Governor Makhlouf said:&nbsp;&ldquo;We need to create One Single M",
-      "sourceId": "ireland-cbi-news",
-      "sourceLabel": "Central Bank of Ireland — News & Media",
-      "sourceUrl": "https://www.centralbank.ie/news",
-      "kind": "guidance",
-      "jurisdiction": "Ireland"
-    },
-    {
       "title": "Order subject to penalty for trust office Erez Corporate Service B.V. for serious non-compliance with the Act on the Supervision of Trust Offices 2018",
       "link": "/en/general-news/enforcement-measures-2026/order-subject-to-penalty-for-trust-office-erez-corporate-service-b-v-for-serious-non-compliance-with-the-act-on-the-supervision-of-trust-offices-2018/",
       "date": "2026-09-17T17:05:51.000Z",
@@ -1224,10 +1224,10 @@
       "jurisdiction": "New Zealand"
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
-      "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
+      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
       "date": "2026-09-17T11:00:00.000Z",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
       "sourceUrl": "https://www.bankofengland.co.uk/news",
@@ -1235,8 +1235,8 @@
       "jurisdiction": "UK"
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding QT and the APF - September 2026",
-      "link": "https://www.bankofengland.co.uk/letter/2026/exchange-of-letters-between-the-governor-and-the-chancellor-regarding-qt-and-the-apf",
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
+      "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
       "date": "2026-09-17T11:00:00.000Z",
       "summary": "Exchange of letters between the Governor and the Chancellor",
       "sourceId": "boe-news",
