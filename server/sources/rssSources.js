@@ -114,6 +114,22 @@ const FEEDS = [
     feedUrl: "https://www.sfc.hk/en/RSS-Feeds/Press-releases",
     sourceUrl: "https://www.sfc.hk/en/News-and-announcements/News",
   },
+  {
+    id: "rbnz-news",
+    label: "Reserve Bank of New Zealand — News Releases",
+    kind: "guidance",
+    jurisdiction: "New Zealand",
+    feedUrl: "https://www.rbnz.govt.nz/feeds/news",
+    sourceUrl: "https://www.rbnz.govt.nz/news-and-events/news",
+  },
+  {
+    id: "dnb-general-news",
+    label: "De Nederlandsche Bank (DNB) — General News",
+    kind: "guidance",
+    jurisdiction: "Netherlands",
+    feedUrl: "https://www.dnb.nl/en/rss/16451/6882",
+    sourceUrl: "https://www.dnb.nl/en/general-news/",
+  },
 ];
 
 async function fetchFeed(source) {
