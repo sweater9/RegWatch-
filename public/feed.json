@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-03T16:27:03.486Z",
-  "cachedAt": "2026-10-03T16:27:03.486Z",
+  "generatedAt": "2026-10-03T21:23:21.382Z",
+  "cachedAt": "2026-10-03T21:23:21.382Z",
   "items": [
+    {
+      "title": "Bank of Canada Media Interview – The Missing Middle podcast",
+      "link": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-the-missing-middle-podcast-2026-10-01/",
+      "date": "2026-10-03T16:09:13.000Z",
+      "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers gave an interview to The Missing Middle podcast.",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
     {
       "title": "David Reichman et al.",
       "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26664",
@@ -12,17 +23,6 @@
       "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
       "kind": "guidance",
       "jurisdiction": "US"
-    },
-    {
-      "title": "Bank of Canada Media Interview – The Missing Middle podcast",
-      "link": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-the-missing-middle-podcast-2026-10-01/",
-      "date": "2026-10-02T18:30:23.000Z",
-      "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers gave an interview to The Missing Middle podcast.",
-      "sourceId": "canada-boc-press",
-      "sourceLabel": "Bank of Canada — Press",
-      "sourceUrl": "https://www.bankofcanada.ca/press/",
-      "kind": "guidance",
-      "jurisdiction": "Canada"
     },
     {
       "title": "RBI appoints Shri Sudhakar Malli as new Executive Director",
