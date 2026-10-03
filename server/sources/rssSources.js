@@ -130,6 +130,22 @@ const FEEDS = [
     feedUrl: "https://www.dnb.nl/en/rss/16451/6882",
     sourceUrl: "https://www.dnb.nl/en/general-news/",
   },
+  {
+    id: "amf-france-news",
+    label: "AMF (France) — Actualités",
+    kind: "guidance",
+    jurisdiction: "France",
+    feedUrl: "https://www.amf-france.org/en/flux-rss/display/30",
+    sourceUrl: "https://www.amf-france.org/en",
+  },
+  {
+    id: "rbi-press",
+    label: "Reserve Bank of India — Press Releases",
+    kind: "guidance",
+    jurisdiction: "India",
+    feedUrl: "https://rbi.org.in/pressreleases_rss.xml",
+    sourceUrl: "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+  },
 ];
 
 async function fetchFeed(source) {
