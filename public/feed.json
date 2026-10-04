@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-04T12:28:28.827Z",
-  "cachedAt": "2026-10-04T12:28:28.827Z",
+  "generatedAt": "2026-10-04T21:34:34.972Z",
+  "cachedAt": "2026-10-04T21:34:34.972Z",
   "items": [
     {
       "title": "Bank of Canada Media Interview – The Missing Middle podcast",
       "link": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-the-missing-middle-podcast-2026-10-01/",
-      "date": "2026-10-03T16:09:23.000Z",
+      "date": "2026-10-04T13:45:13.000Z",
       "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers gave an interview to The Missing Middle podcast.",
       "sourceId": "canada-boc-press",
       "sourceLabel": "Bank of Canada — Press",
@@ -432,10 +432,10 @@
       "jurisdiction": "South Africa"
     },
     {
-      "title": "Historical data: South African Benchmark Overnight Rate - September 2026",
-      "link": "/en/home/publications/publication-detail-pages/Financial-Markets/markets-data/SABOR-Historical-Data/2026/historical-data--south-african-benchmark-overnight-rate---februa",
+      "title": "Daily monetary operations: 2026-10-01",
+      "link": "/en/home/publications/publication-detail-pages/Financial-Markets/markets-auction-results/2026/daily-monetary-operations-2025",
       "date": "2026-10-01T08:00:00.000Z",
-      "summary": "Historical Data: South African Benchmark Overnight Rate (SABOR) and Overnight Foreign Exchange (FX) Rate.\nThe attached document contains the overnight benchmark rates, as published by the South African Reserve Bank, updated at the end of each month. Please note that there is gene",
+      "summary": "",
       "sourceId": "sarb-publications",
       "sourceLabel": "South African Reserve Bank — News & Publications",
       "sourceUrl": "https://www.resbank.co.za/en/home",
@@ -443,10 +443,10 @@
       "jurisdiction": "South Africa"
     },
     {
-      "title": "Daily monetary operations: 2026-10-01",
-      "link": "/en/home/publications/publication-detail-pages/Financial-Markets/markets-auction-results/2026/daily-monetary-operations-2025",
+      "title": "Historical data: South African Benchmark Overnight Rate - September 2026",
+      "link": "/en/home/publications/publication-detail-pages/Financial-Markets/markets-data/SABOR-Historical-Data/2026/historical-data--south-african-benchmark-overnight-rate---februa",
       "date": "2026-10-01T08:00:00.000Z",
-      "summary": "",
+      "summary": "Historical Data: South African Benchmark Overnight Rate (SABOR) and Overnight Foreign Exchange (FX) Rate.\nThe attached document contains the overnight benchmark rates, as published by the South African Reserve Bank, updated at the end of each month. Please note that there is gene",
       "sourceId": "sarb-publications",
       "sourceLabel": "South African Reserve Bank — News & Publications",
       "sourceUrl": "https://www.resbank.co.za/en/home",
@@ -507,17 +507,6 @@
       "sourceUrl": "https://www.cssf.lu/en/news/",
       "kind": "guidance",
       "jurisdiction": "Luxembourg"
-    },
-    {
-      "title": "Risk Free Rates - 2026",
-      "link": "/en/home/publications/publication-detail-pages/prudential-authority/pa-insurers/Insurance-Sector-Data/pa-risk-free-rates/2026/risk-free-rates-20262",
-      "date": "2026-10-01T00:00:00.000Z",
-      "summary": "This Excel sheet provides the government bond curve published by the Prudential Authority as the risk-free interest rate term structure to discount cash-flows for the purposes of valuing technical provisions in terms of Prudential Standard FSI 2.2 [Valuation of Technical Provisio",
-      "sourceId": "sarb-publications",
-      "sourceLabel": "South African Reserve Bank — News & Publications",
-      "sourceUrl": "https://www.resbank.co.za/en/home",
-      "kind": "guidance",
-      "jurisdiction": "South Africa"
     },
     {
       "title": "Equity symmetric adjustment - 2026",
@@ -1013,6 +1002,17 @@
       "sourceUrl": "https://www.centralbank.ie/news",
       "kind": "guidance",
       "jurisdiction": "Ireland"
+    },
+    {
+      "title": "List of descriptions of all available Quarterly Bulletin time series",
+      "link": "/en/home/publications/publication-detail-pages/quarterly-bulletins/QB-Time-Series-Descriptions/2026/ListofdescriptionsofallavailableQuarterlyBulletintimeseries1",
+      "date": "2026-09-29T10:00:00.000Z",
+      "summary": "List of descriptions of all available Quarterly Bulletin time series",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
     },
     {
       "title": "Purpose Mutual Funds Limited: Bafin warns consumers about websites promarketscfd(.)com, rormarkets(.)com and firstrade24(.)com",
@@ -1609,10 +1609,10 @@
       "jurisdiction": "New Zealand"
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
-      "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
+      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
       "date": "2026-09-17T11:00:00.000Z",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
       "sourceUrl": "https://www.bankofengland.co.uk/news",
@@ -1620,10 +1620,10 @@
       "jurisdiction": "UK"
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding QT and the APF - September 2026",
-      "link": "https://www.bankofengland.co.uk/letter/2026/exchange-of-letters-between-the-governor-and-the-chancellor-regarding-qt-and-the-apf",
+      "title": "Asset Purchase Facility: Gilt Sales – Market Notice 17 September 2026",
+      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/asset-purchase-facility-gilt-sales-market-notice-17-september-2026",
       "date": "2026-09-17T11:00:00.000Z",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "summary": "This Market Notice outlines the Bank Executive’s approach to implementing the Monetary Policy Committee’s (MPC) decision to unwind the gilts held for monetary policy purposes in the Asset Purchase Facility (APF). As part of this, Bank APF auctions will be paused while the Bank re",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
       "sourceUrl": "https://www.bankofengland.co.uk/news",
