@@ -146,6 +146,22 @@ const FEEDS = [
     feedUrl: "https://rbi.org.in/pressreleases_rss.xml",
     sourceUrl: "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
   },
+  {
+    id: "cssf-publications",
+    label: "CSSF (Luxembourg) — Latest Publications",
+    kind: "guidance",
+    jurisdiction: "Luxembourg",
+    feedUrl: "https://www.cssf.lu/en/feed/publications",
+    sourceUrl: "https://www.cssf.lu/en/news/",
+  },
+  {
+    id: "sarb-publications",
+    label: "South African Reserve Bank — News & Publications",
+    kind: "guidance",
+    jurisdiction: "South Africa",
+    feedUrl: "https://www.resbank.co.za/bin/sarb/solr/publications/rss",
+    sourceUrl: "https://www.resbank.co.za/en/home",
+  },
 ];
 
 async function fetchFeed(source) {
