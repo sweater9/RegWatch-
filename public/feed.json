@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-04T06:00:23.455Z",
-  "cachedAt": "2026-10-04T06:00:23.455Z",
+  "generatedAt": "2026-10-04T08:44:28.926Z",
+  "cachedAt": "2026-10-04T08:44:28.926Z",
   "items": [
     {
       "title": "Bank of Canada Media Interview – The Missing Middle podcast",
       "link": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-the-missing-middle-podcast-2026-10-01/",
-      "date": "2026-10-03T16:09:23.000Z",
+      "date": "2026-10-03T16:09:13.000Z",
       "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers gave an interview to The Missing Middle podcast.",
       "sourceId": "canada-boc-press",
       "sourceLabel": "Bank of Canada — Press",
@@ -67,6 +67,39 @@
       "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
       "kind": "guidance",
       "jurisdiction": "India"
+    },
+    {
+      "title": "Circular CSSF-CPDI 26/52",
+      "link": "https://www.cssf.lu/en/Document/circular-cssf-cpdi-26-52/",
+      "date": "2026-10-02T10:42:25.000Z",
+      "summary": "Survey on the amount of covered deposits held on 30 September 2026",
+      "sourceId": "cssf-publications",
+      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
+      "sourceUrl": "https://www.cssf.lu/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Luxembourg"
+    },
+    {
+      "title": "The CSSF’s professional secrecy and its legal exceptions (only in French)",
+      "link": "https://www.cssf.lu/en/2026/10/the-cssfs-professional-secrecy-and-its-legal-exceptions/",
+      "date": "2026-10-02T10:32:11.000Z",
+      "summary": "",
+      "sourceId": "cssf-publications",
+      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
+      "sourceUrl": "https://www.cssf.lu/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Luxembourg"
+    },
+    {
+      "title": "FAQ - Tokenisation",
+      "link": "https://www.cssf.lu/en/Document/faq-tokenisation/",
+      "date": "2026-10-02T10:16:43.000Z",
+      "summary": "",
+      "sourceId": "cssf-publications",
+      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
+      "sourceUrl": "https://www.cssf.lu/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Luxembourg"
     },
     {
       "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
@@ -256,6 +289,17 @@
       "jurisdiction": "US"
     },
     {
+      "title": "Download information from Zipped Eviews Files",
+      "link": "/en/home/publications/publication-detail-pages/quarterly-bulletins/download-information-from-zipped-eviews-files/2026/DownloadinformationfromZippedEviewsFiles1",
+      "date": "2026-10-01T14:59:00.000Z",
+      "summary": "Download information from Zipped Eviews Files",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
+    },
+    {
       "title": "One for all, all for one: building a stronger European economy",
       "link": "/en/general-news/speech-2026/one-for-all-all-for-one-building-a-stronger-european-economy/",
       "date": "2026-10-01T14:54:43.000Z",
@@ -267,6 +311,17 @@
       "jurisdiction": "Netherlands"
     },
     {
+      "title": "Global situation of undertakings for collective investment at the end of August 2026",
+      "link": "https://www.cssf.lu/en/2026/10/global-situation-of-undertakings-for-collective-investment-at-the-end-of-august-2026/",
+      "date": "2026-10-01T14:30:29.000Z",
+      "summary": "Press release 26/20",
+      "sourceId": "cssf-publications",
+      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
+      "sourceUrl": "https://www.cssf.lu/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Luxembourg"
+    },
+    {
       "title": "Climate Change: The Economic Reality We Can No Longer Ignore",
       "link": "/en/general-news/speech-2026/climate-change-the-economic-reality-we-can-no-longer-ignore/",
       "date": "2026-10-01T14:21:57.000Z",
@@ -276,6 +331,17 @@
       "sourceUrl": "https://www.dnb.nl/en/general-news/",
       "kind": "guidance",
       "jurisdiction": "Netherlands"
+    },
+    {
+      "title": "eRegister by eDesk – New functionality now available",
+      "link": "https://www.cssf.lu/en/2026/10/eregister-by-edesk-new-functionality-now-available/",
+      "date": "2026-10-01T13:21:25.000Z",
+      "summary": "Availability of approved prospectuses",
+      "sourceId": "cssf-publications",
+      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
+      "sourceUrl": "https://www.cssf.lu/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Luxembourg"
     },
     {
       "title": "Minutes of the Meeting of the Court of Directors held on 16 July 2026",
@@ -333,6 +399,72 @@
       "jurisdiction": "Ireland"
     },
     {
+      "title": "CSSF Regulation No 26-03 of 30 September 2026 (only in French)",
+      "link": "https://www.cssf.lu/en/Document/cssf-regulation-no-26-03-of-30-september-2026/",
+      "date": "2026-10-01T09:28:12.000Z",
+      "summary": "on the setting of the countercyclical buffer rate for the fourth quarter of 2026",
+      "sourceId": "cssf-publications",
+      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
+      "sourceUrl": "https://www.cssf.lu/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Luxembourg"
+    },
+    {
+      "title": "Fundi Tshazibana | Sustainable finance and the shifting risk landscape",
+      "link": "/en/home/publications/publication-detail-pages/speeches/speeches-by-governors/2026/tshazibana-sustainable-finance",
+      "date": "2026-10-01T09:24:00.000Z",
+      "summary": "An address by Fundi Tshazibana, \na Deputy Governor of the South African Reserve Bank,\nat the Bloomberg Sustainable Finance Conversations.",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
+    },
+    {
+      "title": "Franz Ruch appointed as Adviser to the Governors and member of the Monetary Policy Committee",
+      "link": "/en/home/publications/publication-detail-pages/media-releases/2026/franz-ruch-mpc-appointment",
+      "date": "2026-10-01T09:20:00.000Z",
+      "summary": "Ruch becomes the seventh member of the SARB’s Monetary Policy Committee.",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
+    },
+    {
+      "title": "Historical data: South African Benchmark Overnight Rate - September 2026",
+      "link": "/en/home/publications/publication-detail-pages/Financial-Markets/markets-data/SABOR-Historical-Data/2026/historical-data--south-african-benchmark-overnight-rate---februa",
+      "date": "2026-10-01T08:00:00.000Z",
+      "summary": "Historical Data: South African Benchmark Overnight Rate (SABOR) and Overnight Foreign Exchange (FX) Rate.\nThe attached document contains the overnight benchmark rates, as published by the South African Reserve Bank, updated at the end of each month. Please note that there is gene",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
+    },
+    {
+      "title": "Daily monetary operations: 2026-10-01",
+      "link": "/en/home/publications/publication-detail-pages/Financial-Markets/markets-auction-results/2026/daily-monetary-operations-2025",
+      "date": "2026-10-01T08:00:00.000Z",
+      "summary": "",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
+    },
+    {
+      "title": "Share Price and Availability",
+      "link": "/en/home/publications/publication-detail-pages/share-price-and-availability/2026/share-price-availability",
+      "date": "2026-10-01T06:00:00.000Z",
+      "summary": "This document shows the standing buy/sell offers, transactions for the past six months and the last five completed transactions.",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
+    },
+    {
       "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
       "link": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and",
       "date": "2026-10-01T00:00:00.000Z",
@@ -353,6 +485,39 @@
       "sourceUrl": "https://www.bis.org/press/index.htm",
       "kind": "paper",
       "jurisdiction": "International"
+    },
+    {
+      "title": "Template for insider list to be submitted by issuers of financial instruments admitted to trading on SME growth markets (Updated)",
+      "link": "https://www.cssf.lu/en/Document/template-for-insider-list-to-be-submitted-by-issuers-of-financial-instruments-admitted-to-trading-on-sme-growth-markets/",
+      "date": "2026-10-01T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "cssf-publications",
+      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
+      "sourceUrl": "https://www.cssf.lu/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Luxembourg"
+    },
+    {
+      "title": "Template for insider lists and updating insider lists (Updated)",
+      "link": "https://www.cssf.lu/en/Document/templatefor-insider-lists-and-updating-insider-lists/",
+      "date": "2026-10-01T00:00:00.000Z",
+      "summary": "",
+      "sourceId": "cssf-publications",
+      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
+      "sourceUrl": "https://www.cssf.lu/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Luxembourg"
+    },
+    {
+      "title": "Equity symmetric adjustment - 2026",
+      "link": "/en/home/publications/publication-detail-pages/prudential-authority/pa-insurers/Insurance-Sector-Data/pa-risk-free-rates/2026/equity-symmetric-adjustment-20263",
+      "date": "2026-10-01T00:00:00.000Z",
+      "summary": "This Excel sheet sets out the equity symmetric adjustment to be applied to the Equity Risk capital requirement calculation for insurers using the standardised formula to calculate the Solvency Capital Requirement.",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
     },
     {
       "title": "Mukesh Asudani",
@@ -487,6 +652,17 @@
       "jurisdiction": "Hong Kong"
     },
     {
+      "title": "Warning concerning fraudulent activities by persons misusing the name of 7GC GP II S.À R.L",
+      "link": "https://www.cssf.lu/en/2026/09/warning-concerning-fraudulent-activities-by-persons-misusing-the-name-of-7gc-gp-ii-s-a-r-l/",
+      "date": "2026-09-30T11:28:03.000Z",
+      "summary": "",
+      "sourceId": "cssf-publications",
+      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
+      "sourceUrl": "https://www.cssf.lu/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Luxembourg"
+    },
+    {
       "title": "Consultation finds strong support for access to cash services",
       "link": "https://www.rbnz.govt.nz/news-and-events/news/2026/10/consultation-finds-strong-support-for-access-to-cash",
       "date": "2026-09-30T11:00:00.000Z",
@@ -496,6 +672,28 @@
       "sourceUrl": "https://www.rbnz.govt.nz/news-and-events/news",
       "kind": "guidance",
       "jurisdiction": "New Zealand"
+    },
+    {
+      "title": "South Africa’s quarterly international investment position (IIP)",
+      "link": "/en/home/publications/publication-detail-pages/international-investment-position/2026/SouthAfricasquarterlyinternationalinvestmentpositionIIP",
+      "date": "2026-09-30T11:00:00.000Z",
+      "summary": "South Africa’s positive net international investment position (IIP) increased notably from a revised R1 939 billion at the end of March 2026 to R2 272 billion at the end of June as the market value of foreign assets increased while foreign liabilities decreased.",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
+    },
+    {
+      "title": "Gross External Debt – Second Quarter 2026",
+      "link": "/en/home/publications/publication-detail-pages/gross-external-debt/2026/-gross-external-debt---second-quarter-2026",
+      "date": "2026-09-30T11:00:00.000Z",
+      "summary": "Gross External Debt",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
     },
     {
       "title": "Financial Policy Committee Record – September 2026",
@@ -509,6 +707,17 @@
       "jurisdiction": "UK"
     },
     {
+      "title": "ESMA Data Day 2026 – “Data in the Savings and Investment Union – from burden to opportunity”",
+      "link": "https://www.cssf.lu/en/2026/09/esma-data-day-2026-data-in-the-savings-and-investment-union-from-burden-to-opportunity/",
+      "date": "2026-09-30T08:29:31.000Z",
+      "summary": "",
+      "sourceId": "cssf-publications",
+      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
+      "sourceUrl": "https://www.cssf.lu/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Luxembourg"
+    },
+    {
       "title": "FINMA launches consultation on the partially revised Circular 2017/6 “Direct transmission”",
       "link": "https://www.finma.ch/en/news/2026/09/20260930-mm-anhoerungseroeffnung/",
       "date": "2026-09-30T08:00:00.000Z",
@@ -518,6 +727,28 @@
       "sourceUrl": "https://www.finma.ch/en/news/",
       "kind": "guidance",
       "jurisdiction": "Switzerland"
+    },
+    {
+      "title": "Monthly Release of Selected Data",
+      "link": "/en/home/publications/publication-detail-pages/monthly-releases/monthly-release-of-selected-data/2020/4941",
+      "date": "2026-09-30T08:00:00.000Z",
+      "summary": "",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
+    },
+    {
+      "title": "International Reserves Template​ – August 2026",
+      "link": "/en/home/publications/publication-detail-pages/international-reserves-template/2026/-international-reserves-template---august-2026",
+      "date": "2026-09-30T07:45:00.000Z",
+      "summary": "International Reserves Template​",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
     },
     {
       "title": "fintresor.online (.)net: Bafin warns about website",
@@ -751,6 +982,17 @@
       "jurisdiction": "Canada"
     },
     {
+      "title": "Circular CSSF-CODERES 26/22",
+      "link": "https://www.cssf.lu/en/Document/circular-cssf-coderes-26-22/",
+      "date": "2026-09-29T11:33:35.000Z",
+      "summary": "Single Resolution Fund – Information request by the Single Resolution Board for the calculation of the 2026 contribution according to Articles 4 and 14 of Commission Delegated Regulation (EU) 2015/63",
+      "sourceId": "cssf-publications",
+      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
+      "sourceUrl": "https://www.cssf.lu/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Luxembourg"
+    },
+    {
       "title": "Central Bank of Ireland sets Insurance Compensation Fund Levy to 0%",
       "link": "https://www.centralbank.ie/news/article/press-release-central-bank-of-ireland-insurance-compensation-fund-levy-29-september-2026",
       "date": "2026-09-29T10:00:17.000Z",
@@ -760,6 +1002,17 @@
       "sourceUrl": "https://www.centralbank.ie/news",
       "kind": "guidance",
       "jurisdiction": "Ireland"
+    },
+    {
+      "title": "Download information from zipped data files",
+      "link": "/en/home/publications/publication-detail-pages/quarterly-bulletins/download-information-from-zipped-data-files/2026/Downloadinformationfromzippeddatafiles1",
+      "date": "2026-09-29T10:00:00.000Z",
+      "summary": "Download information from zipped data files",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
     },
     {
       "title": "Purpose Mutual Funds Limited: Bafin warns consumers about websites promarketscfd(.)com, rormarkets(.)com and firstrade24(.)com",
@@ -1761,6 +2014,17 @@
       "sourceUrl": "https://www.bis.org/press/index.htm",
       "kind": "paper",
       "jurisdiction": "International"
+    },
+    {
+      "title": "List of notifications received",
+      "link": "https://www.cssf.lu/en/Document/list-of-notifications-received/",
+      "date": "2020-07-24T06:44:23.000Z",
+      "summary": "",
+      "sourceId": "cssf-publications",
+      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
+      "sourceUrl": "https://www.cssf.lu/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Luxembourg"
     },
     {
       "title": "Firms’ confidence, satisfaction and trust in the FCA rise",
