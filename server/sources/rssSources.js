@@ -162,6 +162,22 @@ const FEEDS = [
     feedUrl: "https://www.resbank.co.za/bin/sarb/solr/publications/rss",
     sourceUrl: "https://www.resbank.co.za/en/home",
   },
+  {
+    id: "bde-news",
+    label: "Banco de España — News and Events",
+    kind: "guidance",
+    jurisdiction: "Spain",
+    feedUrl: "https://www.bde.es/wbe/en/inicio/rss/rss-noticias/",
+    sourceUrl: "https://www.bde.es/wbe/en/noticias-eventos/",
+  },
+  {
+    id: "mfsa-publications",
+    label: "Malta Financial Services Authority — Publications",
+    kind: "guidance",
+    jurisdiction: "Malta",
+    feedUrl: "https://www.mfsa.mt/feed/",
+    sourceUrl: "https://www.mfsa.mt/news/news-releases/",
+  },
 ];
 
 async function fetchFeed(source) {
