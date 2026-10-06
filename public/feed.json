@@ -1,7 +1,106 @@
 {
-  "generatedAt": "2026-10-06T06:28:29.142Z",
-  "cachedAt": "2026-10-06T06:28:29.142Z",
+  "generatedAt": "2026-10-06T18:26:48.697Z",
+  "cachedAt": "2026-10-06T18:26:48.697Z",
   "items": [
+    {
+      "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on October 07, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63740",
+      "date": "2026-10-06T19:20:00.000Z",
+      "summary": "On a review of current and evolving liquidity conditions, it has been decided to conduct a Variable Rate Reverse Repo (VRRR) auction on Wednesday, October 07, 2026, as under:                        Sl. No.          Notified Amount           (&#8377; crore)          Tenor (day)   ",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "Bank of Canada Media Interview – The Missing Middle podcast",
+      "link": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-the-missing-middle-podcast-2026-10-01/",
+      "date": "2026-10-06T18:26:37.000Z",
+      "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers gave an interview to The Missing Middle podcast.",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
+    {
+      "title": "Monetary Policy Review – October 2026",
+      "link": "/en/home/publications/publication-detail-pages/reviews/monetary-policy-review/2026/october",
+      "date": "2026-10-06T17:30:00.000Z",
+      "summary": "Global inflation rose in the first half of 2026 as the Middle East conflict disrupted energy supplies, widened refinery margins and lifted transport and production costs.",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
+    },
+    {
+      "title": "Sectoral Deployment of Credit by NBFC – August 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63739",
+      "date": "2026-10-06T17:00:00.000Z",
+      "summary": "Data on sectoral deployment of credit by non-banking financial companies (NBFCs) for the month of August 2026, collected from major NBFCs and housing finance companies (HFCs), are set out in the Statement1.    On a year-on-year (y-o-y) basis, NBFCs&rsquo; credit registered a grow",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "State Government Securities - Full Auction Result",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63738",
+      "date": "2026-10-06T16:35:00.000Z",
+      "summary": "The result of the auction of State Government Securities held on October 06, 2026 is as under:                        (Amount in &#8377; Crore)                          &nbsp;          ANDHRA PRADESH SGS 2035          ANDHRA PRADESH SGS 2042          DELHI SGS 2033*          DELH",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "Result of Yield/Price Based Auction of State Government Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63737",
+      "date": "2026-10-06T14:40:00.000Z",
+      "summary": "Sr. No        State/UT        Amount to be raised          (&#8377; Crore)        Amount Accepted          (&#8377; Crore)        Cut off Price (&#8377;)/Yield(%)        Tenor(Year)                    1.        Andhra Pradesh        1000        1000        97.10/7.9197        Re-",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "SEC to Host Virtual National Compliance Outreach Seminar for Investment Companies and Investment Advisers",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-102-sec-host-virtual-national-compliance-outreach-seminar-investment-companies-investment-advisers",
+      "date": "2026-10-06T14:37:55.000Z",
+      "summary": "The Securities and Exchange Commission’s Compliance Outreach Program announced today that it will host a virtual national seminar for investment companies and investment advisers on November 19, 2026. The purpose of the event is to help chief compliance…",
+      "sourceId": "sec-press",
+      "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Minutes of the UK Money Markets Code Sub-Committee – September 2026",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/september/uk-money-markets-committee-minutes-september-2026",
+      "date": "2026-10-06T13:07:03.000Z",
+      "summary": "The Money Markets Committee is a forum for market participants and authorities to discuss the UK unsecured deposits and funding market and securities lending and repo markets.",
+      "sourceId": "boe-news",
+      "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "Former TD Bank Employee Pleads Guilty to Accepting Bribes,  Laundering $4.8 Million to Colombia",
+      "link": "https://www.justice.gov/opa/pr/former-td-bank-employee-pleads-guilty-accepting-bribes-laundering-48-million-colombia",
+      "date": "2026-10-06T12:00:00.000Z",
+      "summary": "Gerardo Aquino, 40, of Hollywood, Florida, pleaded guilty to accepting bribes and laundering more than $4.8 million to Colombia while employed by TD Bank.",
+      "sourceId": "doj-press",
+      "sourceLabel": "US DOJ — Press Releases",
+      "sourceUrl": "https://www.justice.gov/news/press-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
     {
       "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on October 06, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63736",
@@ -36,6 +135,61 @@
       "jurisdiction": "India"
     },
     {
+      "title": "Consultation Document on Chapter 2 of the Financial Institutions Rulebook",
+      "link": "https://www.mfsa.mt/publication/consultation-document-on-chapter-2-of-the-financial-institutions-rulebook/",
+      "date": "2026-10-06T08:50:42.000Z",
+      "summary": "Reference Number: 05-2026 Expiry Date: 6 November 2026 Consultation DocumentDraft Chapter 2 of the Financial Institutions Rulebook\nThe post Consultation Document on Chapter 2 of the Financial Institutions Rulebook appeared first on MFSA.",
+      "sourceId": "mfsa-publications",
+      "sourceLabel": "Malta Financial Services Authority — Publications",
+      "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
+      "kind": "guidance",
+      "jurisdiction": "Malta"
+    },
+    {
+      "title": "Hong Kong’s securities brokers post strong earnings growth in first half of 2026",
+      "link": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR160",
+      "date": "2026-10-06T08:34:37.000Z",
+      "summary": "",
+      "sourceId": "hk-sfc-press",
+      "sourceLabel": "Hong Kong SFC — Press Releases",
+      "sourceUrl": "https://www.sfc.hk/en/News-and-announcements/News",
+      "kind": "guidance",
+      "jurisdiction": "Hong Kong"
+    },
+    {
+      "title": "Share Price and Availability",
+      "link": "/en/home/publications/publication-detail-pages/share-price-and-availability/2026/share-price-availability",
+      "date": "2026-10-06T06:00:00.000Z",
+      "summary": "This document shows the standing buy/sell offers, transactions for the past six months and the last five completed transactions.",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
+    },
+    {
+      "title": "Circular to Credit Institutions on the 2027 Single Resolution Fund (“SRF”) Ex-ante Contribution – Data Reporting Form (“DRF”)",
+      "link": "https://www.mfsa.mt/publication/circular-to-credit-institutions-on-the-2027-single-resolution-fund-srf-ex-ante-contribution-data-reporting-form-drf/",
+      "date": "2026-10-06T05:35:24.000Z",
+      "summary": "Circular\nThe post Circular to Credit Institutions on the 2027 Single Resolution Fund (“SRF”) Ex-ante Contribution – Data Reporting Form (“DRF”) appeared first on MFSA.",
+      "sourceId": "mfsa-publications",
+      "sourceLabel": "Malta Financial Services Authority — Publications",
+      "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
+      "kind": "guidance",
+      "jurisdiction": "Malta"
+    },
+    {
+      "title": "Adoption of Updated EDGAR Filer Manual",
+      "link": "https://www.federalregister.gov/documents/2026/10/06/2026-20461/adoption-of-updated-edgar-filer-manual",
+      "date": "2026-10-06T00:00:00.000Z",
+      "summary": "The Securities and Exchange Commission (\"Commission\") is adopting amendments to Volume II of the Electronic Data Gathering, Analysis, and Retrieval system Filer Manual (\"EDGAR Filer Manual\" or \"Filer Manual\") and related rules and forms. EDGAR Release 26.3 will be deployed in the",
+      "sourceId": "federal-register",
+      "sourceLabel": "US Federal Register",
+      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      "kind": "rulebook",
+      "jurisdiction": "US"
+    },
+    {
       "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on October 06, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63733",
       "date": "2026-10-05T19:15:00.000Z",
@@ -45,17 +199,6 @@
       "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
       "kind": "guidance",
       "jurisdiction": "India"
-    },
-    {
-      "title": "Bank of Canada Media Interview – The Missing Middle podcast",
-      "link": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-the-missing-middle-podcast-2026-10-01/",
-      "date": "2026-10-05T17:56:45.000Z",
-      "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers gave an interview to The Missing Middle podcast.",
-      "sourceId": "canada-boc-press",
-      "sourceLabel": "Bank of Canada — Press",
-      "sourceUrl": "https://www.bankofcanada.ca/press/",
-      "kind": "guidance",
-      "jurisdiction": "Canada"
     },
     {
       "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Motiram Agrawal Jalna Merchants Co-operative Bank Ltd, Jalna – Extension of Period",
@@ -80,30 +223,8 @@
       "jurisdiction": "India"
     },
     {
-      "title": "Auction of Government of India Dated Securities",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63730",
-      "date": "2026-10-05T17:30:00.000Z",
-      "summary": "Government of India (GoI) has announced the sale (re-issue) of two dated securities for a notified amount of &#8377;36,000 crore as per the following details:            Sr No      Security      Date of Repayment      Notified Amount         (&#8377; Crore)      GoI specific Noti",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
-    },
-    {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Samarth Sahakari Bank Ltd., Solapur – Extension of Period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63729",
-      "date": "2026-10-05T15:30:00.000Z",
-      "summary": "The Reserve Bank of India issued Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 to Samarth Sahakari Bank Ltd., Solapur, vide Directive No. NGP.DOS.SSM 2.No.S580/15-03-614/2025-2026 dated October 06, 2025, for a period of six months up to the",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
-    },
-    {
       "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-      "link": "https://www.ecb.europa.eu/press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
+      "link": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-bce/otras-decisiones-consejo-gobierno/decisiones-adoptadas-por-el-consejo-de-gobierno-del-bce-distintas-de-las-decisiones-por-las-que-se-establecen-los-tipos-de-interes-oct-26.html",
       "date": "2026-10-05T15:28:00.000Z",
       "summary": "",
       "sourceId": "bde-news",
@@ -111,28 +232,6 @@
       "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
       "kind": "guidance",
       "jurisdiction": "Spain"
-    },
-    {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – The Baghat Urban Co-operative Bank Limited, Solan- Extension of Period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63728",
-      "date": "2026-10-05T13:45:00.000Z",
-      "summary": "The Reserve Bank of India issued Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 to The Baghat Urban Co-operative Bank Limited, Solan vide Directive SML.DCBS.CRRB.No.S79/02-31-005/2025-2026 dated October 06, 2025, for a period of 06 months fr",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
-    },
-    {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Ramgarhia Co-operative Bank Limited, New Delhi – Extension of Period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63727",
-      "date": "2026-10-05T13:35:00.000Z",
-      "summary": "The Reserve Bank of India issued Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 to Ramgarhia Co-operative Bank Limited, New Delhi vide Directive No. DEL.DOS.EXG_SSM.No.S515/12-10-013/2022-2023 dated July 07, 2022 for a period of 06 months fr",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
     },
     {
       "title": "Communication on the CSSF Feedback Report - Circular CSSF 24/856",
@@ -212,6 +311,28 @@
       "jurisdiction": "Germany"
     },
     {
+      "title": "Currency and Exchanges Manuals",
+      "link": "/en/home/publications/publication-detail-pages/other-publications/2026/currency-and-exchanges-manuals1",
+      "date": "2026-10-05T09:38:00.000Z",
+      "summary": "Appointment of Wise Payments South Africa Pty Ltd as an ADLA",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
+    },
+    {
+      "title": "Exchange Control Circular No. 20-2026",
+      "link": "/en/home/publications/publication-detail-pages/circulars/exchange-control-circulars/2026/exchange-control-circular-no--20-2026",
+      "date": "2026-10-05T09:33:00.000Z",
+      "summary": "Appointment of Wise Payments South Africa Pty Ltd as an ADLA",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
+    },
+    {
       "title": "Día de la Educación Financiera 2026",
       "link": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-banco-espana/notas-banco-espana/dia-de-la-educacion-financiera-2026.html",
       "date": "2026-10-05T09:00:00.000Z",
@@ -276,17 +397,6 @@
       "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
       "kind": "guidance",
       "jurisdiction": "Malta"
-    },
-    {
-      "title": "Share Price and Availability",
-      "link": "/en/home/publications/publication-detail-pages/share-price-and-availability/2026/share-price-availability",
-      "date": "2026-10-05T06:00:00.000Z",
-      "summary": "This document shows the standing buy/sell offers, transactions for the past six months and the last five completed transactions.",
-      "sourceId": "sarb-publications",
-      "sourceLabel": "South African Reserve Bank — News & Publications",
-      "sourceUrl": "https://www.resbank.co.za/en/home",
-      "kind": "guidance",
-      "jurisdiction": "South Africa"
     },
     {
       "title": "Various Amendments to the Investment Services Rulebooks",
@@ -960,17 +1070,6 @@
       "jurisdiction": "South Africa"
     },
     {
-      "title": "Gross External Debt – Second Quarter 2026",
-      "link": "/en/home/publications/publication-detail-pages/gross-external-debt/2026/-gross-external-debt---second-quarter-2026",
-      "date": "2026-09-30T11:00:00.000Z",
-      "summary": "Gross External Debt",
-      "sourceId": "sarb-publications",
-      "sourceLabel": "South African Reserve Bank — News & Publications",
-      "sourceUrl": "https://www.resbank.co.za/en/home",
-      "kind": "guidance",
-      "jurisdiction": "South Africa"
-    },
-    {
       "title": "Financial Policy Committee Record – September 2026",
       "link": "https://www.bankofengland.co.uk/financial-policy-committee-record/2026/september-2026",
       "date": "2026-09-30T09:30:00.000Z",
@@ -1026,17 +1125,6 @@
       "jurisdiction": "Malta"
     },
     {
-      "title": "Douglas Technical Limited (“the Company”)",
-      "link": "https://www.mfsa.mt/publication/douglas-technical-limited-the-company/",
-      "date": "2026-09-30T08:26:22.000Z",
-      "summary": "The Malta Financial Services Authority (“MFSA” or the “Authority”) has been looking into certain matters related to the Company in relation to failings which resulted from the Authority’s supervisory engagement...\nThe post Douglas Technical Limited (“the Company”) appeared first ",
-      "sourceId": "mfsa-publications",
-      "sourceLabel": "Malta Financial Services Authority — Publications",
-      "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
-      "kind": "guidance",
-      "jurisdiction": "Malta"
-    },
-    {
       "title": "FINMA launches consultation on the partially revised Circular 2017/6 “Direct transmission”",
       "link": "https://www.finma.ch/en/news/2026/09/20260930-mm-anhoerungseroeffnung/",
       "date": "2026-09-30T08:00:00.000Z",
@@ -1048,17 +1136,6 @@
       "jurisdiction": "Switzerland"
     },
     {
-      "title": "Monthly Release of Selected Data",
-      "link": "/en/home/publications/publication-detail-pages/monthly-releases/monthly-release-of-selected-data/2020/4941",
-      "date": "2026-09-30T08:00:00.000Z",
-      "summary": "",
-      "sourceId": "sarb-publications",
-      "sourceLabel": "South African Reserve Bank — News & Publications",
-      "sourceUrl": "https://www.resbank.co.za/en/home",
-      "kind": "guidance",
-      "jurisdiction": "South Africa"
-    },
-    {
       "title": "General government debt (2026 Q2)",
       "link": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-banco-espana/deuda-aapp-2026t2.html",
       "date": "2026-09-30T08:00:00.000Z",
@@ -1068,28 +1145,6 @@
       "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
       "kind": "guidance",
       "jurisdiction": "Spain"
-    },
-    {
-      "title": "International Reserves Template​ – August 2026",
-      "link": "/en/home/publications/publication-detail-pages/international-reserves-template/2026/-international-reserves-template---august-2026",
-      "date": "2026-09-30T07:45:00.000Z",
-      "summary": "International Reserves Template​",
-      "sourceId": "sarb-publications",
-      "sourceLabel": "South African Reserve Bank — News & Publications",
-      "sourceUrl": "https://www.resbank.co.za/en/home",
-      "kind": "guidance",
-      "jurisdiction": "South Africa"
-    },
-    {
-      "title": "Cyber Reporting Updates",
-      "link": "https://www.mfsa.mt/publication/cyber-reporting-updates/",
-      "date": "2026-09-30T07:11:53.000Z",
-      "summary": "Circular\nThe post Cyber Reporting Updates appeared first on MFSA.",
-      "sourceId": "mfsa-publications",
-      "sourceLabel": "Malta Financial Services Authority — Publications",
-      "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
-      "kind": "guidance",
-      "jurisdiction": "Malta"
     },
     {
       "title": "fintresor.online (.)net: Bafin warns about website",
@@ -1532,17 +1587,6 @@
       "jurisdiction": "Germany"
     },
     {
-      "title": "SFC brings anti-scam investor education into a Cha Chaan Teng",
-      "link": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR153",
-      "date": "2026-09-25T07:52:35.000Z",
-      "summary": "",
-      "sourceId": "hk-sfc-press",
-      "sourceLabel": "Hong Kong SFC — Press Releases",
-      "sourceUrl": "https://www.sfc.hk/en/News-and-announcements/News",
-      "kind": "guidance",
-      "jurisdiction": "Hong Kong"
-    },
-    {
       "title": "\"Operation Heracles\": A blow against cybercriminals",
       "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Pressemitteilung/2026/pm_2026_09_25_operation_herakles_en.html",
       "date": "2026-09-25T07:30:00.000Z",
@@ -1684,17 +1728,6 @@
       "sourceUrl": "https://www.bis.org/press/index.htm",
       "kind": "paper",
       "jurisdiction": "International"
-    },
-    {
-      "title": "Publication of Iran-Related Web General Licenses Y and Z",
-      "link": "https://www.federalregister.gov/documents/2026/09/23/2026-19424/publication-of-iran-related-web-general-licenses-y-and-z",
-      "date": "2026-09-23T00:00:00.000Z",
-      "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing two Iran-related general licenses (GLs): GLs Y and Z. These GLs were previously made available on OFAC's website.",
-      "sourceId": "federal-register",
-      "sourceLabel": "US Federal Register",
-      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
-      "kind": "rulebook",
-      "jurisdiction": "US"
     },
     {
       "title": "SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI",
@@ -1895,17 +1928,6 @@
       "jurisdiction": "UK"
     },
     {
-      "title": "SEC Issues “Innovation Exemption” to Facilitate the Trading of Tokenized NMS Stock and Request for Comment",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
-      "date": "2026-09-17T12:55:00.000Z",
-      "summary": "The SEC is taking a significant step forward, within its statutory authority, to bring America’s capital markets into the digital age by facilitating onchain trading of certain tokenized stocks.",
-      "sourceId": "sec-press",
-      "sourceLabel": "US SEC — Press Releases",
-      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
       "title": "Māori access to capital (MA2K) snapshot 2026",
       "link": "https://www.rbnz.govt.nz/news-and-events/news/2026/09/maori-access-to-capital-ma2k-snapshot-2026",
       "date": "2026-09-17T12:00:00.000Z",
@@ -1915,17 +1937,6 @@
       "sourceUrl": "https://www.rbnz.govt.nz/news-and-events/news",
       "kind": "guidance",
       "jurisdiction": "New Zealand"
-    },
-    {
-      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
-      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
-      "date": "2026-09-17T11:00:00.000Z",
-      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
-      "sourceId": "boe-news",
-      "sourceLabel": "Bank of England — News",
-      "sourceUrl": "https://www.bankofengland.co.uk/news",
-      "kind": "guidance",
-      "jurisdiction": "UK"
     },
     {
       "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
@@ -2291,6 +2302,17 @@
       "jurisdiction": "Luxembourg"
     },
     {
+      "title": "Looking at how we interact with whistleblowers",
+      "link": "https://www.fca.org.uk/news/blogs/looking-how-we-interact-whistleblowers",
+      "date": null,
+      "summary": "Just over a week ago, we received the incredibly sad news that a whistleblower, Simon Andriesz, who we had been in contact with over many years, had died. We’ve shared our condolences, and our thoughts are with his family and loved ones.We’re often in contact with people in chall",
+      "sourceId": "fca-news",
+      "sourceLabel": "UK FCA — News & Publications",
+      "sourceUrl": "https://www.fca.org.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
       "title": "Reforming UK capital markets to ensure they work well for our economy",
       "link": "https://www.fca.org.uk/news/speeches/reforming-uk-capital-markets-ensure-they-work-well-our-economy",
       "date": null,
@@ -2412,15 +2434,15 @@
       "jurisdiction": "UK"
     },
     {
-      "title": "Debt advice warning: spot the red flags",
-      "link": "https://www.fca.org.uk/news/press-releases/debt-advice-warning-spot-red-flags",
+      "title": "Publication,FSA Weekly Review No.705 October 6, 2026",
+      "link": "https://www.fsa.go.jp/en/newsletter/weekly2026/705.html",
       "date": null,
-      "summary": "People seeking debt advice are being urged to watch out for red flags.\n\nFree debt advice is available to everyone. However, the FCA is concerned that some consumers are being steered towards fee-paying debt solutions that may not be suitable for their needs, sometimes through hig",
-      "sourceId": "fca-news",
-      "sourceLabel": "UK FCA — News & Publications",
-      "sourceUrl": "https://www.fca.org.uk/news",
+      "summary": "",
+      "sourceId": "japan-fsa-news",
+      "sourceLabel": "Japan FSA — News",
+      "sourceUrl": "https://www.fsa.go.jp/en/news/",
       "kind": "guidance",
-      "jurisdiction": "UK"
+      "jurisdiction": "Japan"
     },
     {
       "title": "Press Conferences,Press Conference by KATAYAMA Satsuki, Minister of Finance and Minister of State for Financial Services (September 15, 2026)",
@@ -2513,17 +2535,6 @@
     {
       "title": "Publication,FSA Weekly Review No.703 September 14, 2026",
       "link": "https://www.fsa.go.jp/en/newsletter/weekly2026/703.html",
-      "date": null,
-      "summary": "",
-      "sourceId": "japan-fsa-news",
-      "sourceLabel": "Japan FSA — News",
-      "sourceUrl": "https://www.fsa.go.jp/en/news/",
-      "kind": "guidance",
-      "jurisdiction": "Japan"
-    },
-    {
-      "title": "Publication,FSA publishes English translation of monthly magazine, Access FSA No.273",
-      "link": "https://www.fsa.go.jp/en/newsletter/accessfsa2026/273.pdf",
       "date": null,
       "summary": "",
       "sourceId": "japan-fsa-news",
