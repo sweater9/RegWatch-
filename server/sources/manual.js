@@ -106,6 +106,20 @@ const MANUAL_SOURCES = [
     jurisdiction: "International",
     url: "https://www.jdsupra.com/topics/anti-money-laundering/",
   },
+  {
+    id: "mayerbrown-aml",
+    label: "Mayer Brown — Anti-Money Laundering (law firm insights)",
+    kind: "commentary",
+    jurisdiction: "International",
+    url: "https://www.mayerbrown.com/en/services/key-issues/anti-money-laundering",
+  },
+  {
+    id: "korea-fsc-press",
+    label: "Financial Services Commission (South Korea) — Press Releases",
+    kind: "guidance",
+    jurisdiction: "South Korea",
+    url: "https://www.fsc.go.kr/eng/pr010101",
+  },
 ];
 
 function listManual() {
