@@ -1,7 +1,95 @@
 {
-  "generatedAt": "2026-10-06T18:26:48.697Z",
-  "cachedAt": "2026-10-06T18:26:48.697Z",
+  "generatedAt": "2026-10-07T06:07:31.059Z",
+  "cachedAt": "2026-10-07T06:07:31.059Z",
   "items": [
+    {
+      "title": "Governor’s Statement, October 7, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63744",
+      "date": "2026-10-07T10:35:00.000Z",
+      "summary": "Good morning and Namaskar. My greetings to all and best wishes for the forthcoming festive season.    2. The sudden reescalation of the West Asia conflict in September and the consequent hardening and volatility in global crude prices soured global economic sentiments and heighte",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "Statement on Developmental and Regulatory Policies October 7, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63743",
+      "date": "2026-10-07T10:30:00.000Z",
+      "summary": "Regulation  1. Measures to Enhance the Customer Convenience through the Account Aggregator Framework  With an objective to enhance customer convenience, it has been decided to implement interoperability among NBFC-Account Aggregators (NBFC-AA). This will enable customers to acces",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "Monetary Policy Statement, 2026-27 Resolution of the Monetary Policy Committee October 5 to 7, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+      "date": "2026-10-07T10:25:00.000Z",
+      "summary": "Monetary Policy Decisions    The Monetary Policy Committee (MPC) held its 63rd meeting from October 5 to 7, 2026, under the chairmanship of Shri Sanjay Malhotra, Governor, Reserve Bank of India. The MPC members Dr. Nagesh Kumar, Shri Saugata Bhattacharya, Prof. Ram Singh, Dr. Poo",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "Money Market Operations as on October 06, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63741",
+      "date": "2026-10-07T09:00:00.000Z",
+      "summary": "(Amount in ₹ crore, Rate in Per cent)                                                                                                                                                                                                                      MONEY MARKETS@ -->           ",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "Information notice on the official gold and foreign exchange reserves of the South African Reserve Bank as at 30 September 2026",
+      "link": "/en/home/publications/publication-detail-pages/Financial-Markets/Notices/Information-Notice/information-notice-on-the-official-gold-and-foreign-exchange-res",
+      "date": "2026-10-07T08:00:00.000Z",
+      "summary": "This notice provides detail of the US dollar equivalent of the level of the South African Reserve Bank’s (SARB) official gold and foreign exchange reserves, Special Drawing Rights (SDRs), and foreign currency deposits received from customers, published today in the SARB’s Stateme",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
+    },
+    {
+      "title": "Statement of assets and liabilities September 2026",
+      "link": "/en/home/publications/publication-detail-pages/statements/assets-and-liabilities/2026/statement-of-assets-and-liabilities-september-2026",
+      "date": "2026-10-07T08:00:00.000Z",
+      "summary": "Monthly statement of assets and liabilities as required by section 32 of the South African Reserve Bank Act 90 of 1989, as amended.",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
+    },
+    {
+      "title": "Stephen Kenneth Leech",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26666",
+      "date": "2026-10-06T23:12:45.000Z",
+      "summary": "Stephen Kenneth Leech",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "SEC Seeks Final Judgment Against Former Western Asset Co-CIO Ken Leech in Cherry Picking Case",
+      "link": "https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case",
+      "date": "2026-10-06T20:30:24.000Z",
+      "summary": "The Securities and Exchange Commission today moved for entry of a final judgment by consent against Stephen Kenneth Leech II, the former co-chief investment officer of registered investment adviser Western Asset Management Company LLC, whom the SEC…",
+      "sourceId": "sec-press",
+      "sourceLabel": "US SEC — Press Releases",
+      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
     {
       "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on October 07, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63740",
@@ -16,7 +104,7 @@
     {
       "title": "Bank of Canada Media Interview – The Missing Middle podcast",
       "link": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-the-missing-middle-podcast-2026-10-01/",
-      "date": "2026-10-06T18:26:37.000Z",
+      "date": "2026-10-06T18:20:20.000Z",
       "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers gave an interview to The Missing Middle podcast.",
       "sourceId": "canada-boc-press",
       "sourceLabel": "Bank of Canada — Press",
@@ -56,6 +144,28 @@
       "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
       "kind": "guidance",
       "jurisdiction": "India"
+    },
+    {
+      "title": "Prestige Credit Limited- Central Bank of Ireland Issues Warning on Unauthorised Firm",
+      "link": "https://www.centralbank.ie/news/article/prestige-credit-limited--central-bank-of-ireland-issues-warning-on-unauthorised-firm",
+      "date": "2026-10-06T15:14:15.000Z",
+      "summary": "Unauthorised Retail Credit Firm",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
+    },
+    {
+      "title": "Trust Line Fund - Central Bank of Ireland Issues Warning on Unauthorised Firm",
+      "link": "https://www.centralbank.ie/news/article/trust-line-fund---central-bank-of-ireland-issues-warning-on-unauthorised-firm",
+      "date": "2026-10-06T15:13:43.000Z",
+      "summary": "Trust Line Fund - Central Bank of Ireland Issues Warning on Unauthorised Firm",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
     },
     {
       "title": "Result of Yield/Price Based Auction of State Government Securities",
@@ -102,6 +212,17 @@
       "jurisdiction": "US"
     },
     {
+      "title": "A Letter to Students of Economics - 2026",
+      "link": "https://www.centralbank.ie/news/article/a-letter-to-students-of-economics-2026",
+      "date": "2026-10-06T10:48:42.000Z",
+      "summary": "In his latest blog, Governor Gabriel Makhlouf writes a letter addressing students of economics, sharing some of the knowledge he has acquired over his career to date.",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
+    },
+    {
       "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on October 06, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63736",
       "date": "2026-10-06T10:30:00.000Z",
@@ -117,17 +238,6 @@
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63735",
       "date": "2026-10-06T10:10:00.000Z",
       "summary": "The Reserve Bank of India issued Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 to Samarth Urban Co-operative Bank Ltd., Osmanabad, Maharashtra, vide Directive No. NGP.DOS.SSM1.No.S581/15-04-381/2025-2026 dated October 06, 2025, for a period",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
-    },
-    {
-      "title": "Money Market Operations as on October 05, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63734",
-      "date": "2026-10-06T09:00:00.000Z",
-      "summary": "(Amount in ₹ crore, Rate in Per cent)                                                                                                                                                                                                                      MONEY MARKETS@ -->           ",
       "sourceId": "rbi-press",
       "sourceLabel": "Reserve Bank of India — Press Releases",
       "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
@@ -188,39 +298,6 @@
       "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
       "kind": "rulebook",
       "jurisdiction": "US"
-    },
-    {
-      "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR) auction under LAF on October 06, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63733",
-      "date": "2026-10-05T19:15:00.000Z",
-      "summary": "On a review of current and evolving liquidity conditions, it has been decided to conduct a Variable Rate Reverse Repo (VRRR) auction on Tuesday, October 06, 2026, as under:                        Sl. No.          Notified Amount           (&#8377; crore)          Tenor (day)     ",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
-    },
-    {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Motiram Agrawal Jalna Merchants Co-operative Bank Ltd, Jalna – Extension of Period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63732",
-      "date": "2026-10-05T17:55:00.000Z",
-      "summary": "The Reserve Bank of India issued Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 to Motiram Agrawal Jalna Merchants Co-operative Bank Ltd, Jalna, vide Directive No. NGP.DOS.SED 2.No.S12/15-04-339/2026-2027 dated April 10, 2026, for a period o",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
-    },
-    {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Sadbhav Nagrik Sahakari Bank Maryadit, Chhatarpur, Madhya Pradesh – Extension of Period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63731",
-      "date": "2026-10-05T17:35:00.000Z",
-      "summary": "The Reserve Bank of India issued Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 to Sadbhav Nagrik Sahakari Bank Maryadit, Chhatarpur, Madhya Pradesh, vide Directive No. BPL.DOS. SED. No. S1638/ 12-07-054/2025-26 dated October 06, 2025, for a",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
     },
     {
       "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
@@ -817,10 +894,10 @@
       "jurisdiction": "South Africa"
     },
     {
-      "title": "Historical data: South African Benchmark Overnight Rate - September 2026",
-      "link": "/en/home/publications/publication-detail-pages/Financial-Markets/markets-data/SABOR-Historical-Data/2026/historical-data--south-african-benchmark-overnight-rate---februa",
+      "title": "Daily monetary operations: 2026-10-01",
+      "link": "/en/home/publications/publication-detail-pages/Financial-Markets/markets-auction-results/2026/daily-monetary-operations-2025",
       "date": "2026-10-01T08:00:00.000Z",
-      "summary": "Historical Data: South African Benchmark Overnight Rate (SABOR) and Overnight Foreign Exchange (FX) Rate.\nThe attached document contains the overnight benchmark rates, as published by the South African Reserve Bank, updated at the end of each month. Please note that there is gene",
+      "summary": "",
       "sourceId": "sarb-publications",
       "sourceLabel": "South African Reserve Bank — News & Publications",
       "sourceUrl": "https://www.resbank.co.za/en/home",
@@ -828,10 +905,10 @@
       "jurisdiction": "South Africa"
     },
     {
-      "title": "Daily monetary operations: 2026-10-01",
-      "link": "/en/home/publications/publication-detail-pages/Financial-Markets/markets-auction-results/2026/daily-monetary-operations-2025",
+      "title": "Historical data: South African Benchmark Overnight Rate - September 2026",
+      "link": "/en/home/publications/publication-detail-pages/Financial-Markets/markets-data/SABOR-Historical-Data/2026/historical-data--south-african-benchmark-overnight-rate---februa",
       "date": "2026-10-01T08:00:00.000Z",
-      "summary": "",
+      "summary": "Historical Data: South African Benchmark Overnight Rate (SABOR) and Overnight Foreign Exchange (FX) Rate.\nThe attached document contains the overnight benchmark rates, as published by the South African Reserve Bank, updated at the end of each month. Please note that there is gene",
       "sourceId": "sarb-publications",
       "sourceLabel": "South African Reserve Bank — News & Publications",
       "sourceUrl": "https://www.resbank.co.za/en/home",
@@ -892,17 +969,6 @@
       "sourceUrl": "https://www.cssf.lu/en/news/",
       "kind": "guidance",
       "jurisdiction": "Luxembourg"
-    },
-    {
-      "title": "Risk Free Rates - 2026",
-      "link": "/en/home/publications/publication-detail-pages/prudential-authority/pa-insurers/Insurance-Sector-Data/pa-risk-free-rates/2026/risk-free-rates-20262",
-      "date": "2026-10-01T00:00:00.000Z",
-      "summary": "This Excel sheet provides the government bond curve published by the Prudential Authority as the risk-free interest rate term structure to discount cash-flows for the purposes of valuing technical provisions in terms of Prudential Standard FSI 2.2 [Valuation of Technical Provisio",
-      "sourceId": "sarb-publications",
-      "sourceLabel": "South African Reserve Bank — News & Publications",
-      "sourceUrl": "https://www.resbank.co.za/en/home",
-      "kind": "guidance",
-      "jurisdiction": "South Africa"
     },
     {
       "title": "Equity symmetric adjustment - 2026",
@@ -1057,17 +1123,6 @@
       "sourceUrl": "https://www.rbnz.govt.nz/news-and-events/news",
       "kind": "guidance",
       "jurisdiction": "New Zealand"
-    },
-    {
-      "title": "South Africa’s quarterly international investment position (IIP)",
-      "link": "/en/home/publications/publication-detail-pages/international-investment-position/2026/SouthAfricasquarterlyinternationalinvestmentpositionIIP",
-      "date": "2026-09-30T11:00:00.000Z",
-      "summary": "South Africa’s positive net international investment position (IIP) increased notably from a revised R1 939 billion at the end of March 2026 to R2 272 billion at the end of June as the market value of foreign assets increased while foreign liabilities decreased.",
-      "sourceId": "sarb-publications",
-      "sourceLabel": "South African Reserve Bank — News & Publications",
-      "sourceUrl": "https://www.resbank.co.za/en/home",
-      "kind": "guidance",
-      "jurisdiction": "South Africa"
     },
     {
       "title": "Financial Policy Committee Record – September 2026",
@@ -1294,17 +1349,6 @@
       "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26654",
       "date": "2026-09-29T21:06:47.000Z",
       "summary": "Cryptoaiml Ltd.; Cryptoaiml Capital Foundation; TSAI Pro Ltd.; TSAI Capital Foundation",
-      "sourceId": "sec-litigation",
-      "sourceLabel": "US SEC — Litigation Releases",
-      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
-      "title": "Chris Farrant",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26653",
-      "date": "2026-09-29T19:20:25.000Z",
-      "summary": "Chris Farrant",
       "sourceId": "sec-litigation",
       "sourceLabel": "US SEC — Litigation Releases",
       "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
@@ -1730,17 +1774,6 @@
       "jurisdiction": "International"
     },
     {
-      "title": "SEC Censures OTC Link LLC for Repeated Compliance Failures Related to Regulation SCI",
-      "link": "https://www.sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci",
-      "date": "2026-09-22T16:41:11.000Z",
-      "summary": "The Securities and Exchange Commission today censured New York-based broker dealer OTC Link LLC and ordered it to pay a $575,000 civil penalty for longstanding violations of Regulation Systems Compliance and Integrity (SCI).According to the SEC’s settled…",
-      "sourceId": "sec-press",
-      "sourceLabel": "US SEC — Press Releases",
-      "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
       "title": "Foreign Currency Reserves 2026 – Market Notice 22 September 2026",
       "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-22-september-2026",
       "date": "2026-09-22T15:30:00.000Z",
@@ -1844,39 +1877,6 @@
       "link": "https://www.centralbank.ie/news/article/speech-governor-gabriel-makhlouf-remarks-informal-ecofin-dinner-18-september-2026",
       "date": "2026-09-18T09:47:37.000Z",
       "summary": "T&aacute;naiste, Ministers, Governors, Commissioners, Deputy Governors, colleagues and friends.It is a great pleasure to join the T&aacute;naiste in welcoming you to Dublin this evening. &nbsp;I am conscious that, at this point in the proceedings I am standing between you and the",
-      "sourceId": "ireland-cbi-news",
-      "sourceLabel": "Central Bank of Ireland — News & Media",
-      "sourceUrl": "https://www.centralbank.ie/news",
-      "kind": "guidance",
-      "jurisdiction": "Ireland"
-    },
-    {
-      "title": "Innovation must be built on public trust – Governor Gabriel Makhlouf",
-      "link": "https://www.centralbank.ie/news/article/press-release-innovation-must-be-built-on-public-trust-governor-gabriel-makhlouf-18-september-2026",
-      "date": "2026-09-18T07:57:01.000Z",
-      "summary": "Central Bank of Ireland Governor Gabriel Makhlouf today (Friday 18 September) spoke at The Future of Finance Conference held in Dublin. Governor Makhlouf opened the conference with a focus on trust &ldquo;At the Central Bank of Ireland, our work on the payments system is an impor",
-      "sourceId": "ireland-cbi-news",
-      "sourceLabel": "Central Bank of Ireland — News & Media",
-      "sourceUrl": "https://www.centralbank.ie/news",
-      "kind": "guidance",
-      "jurisdiction": "Ireland"
-    },
-    {
-      "title": "Opening remarks by Governor Gabriel Makhlouf at Central Bank of Ireland Conference on “Trust & Innovation: the Future of Finance\"",
-      "link": "https://www.centralbank.ie/news/article/speech-opening-remarks-governor-makhlouf-trust-innovation-18-september-2026",
-      "date": "2026-09-18T07:57:00.000Z",
-      "summary": "Good morning, and welcome to our conference on &ldquo;Trust and Innovation: The Future of Finance&rdquo;.This morning&rsquo;s event takes place on the sidelines of the Informal ECOFIN &ndash; an occasion that brings together many of Europe&rsquo;s most experienced economic policy",
-      "sourceId": "ireland-cbi-news",
-      "sourceLabel": "Central Bank of Ireland — News & Media",
-      "sourceUrl": "https://www.centralbank.ie/news",
-      "kind": "guidance",
-      "jurisdiction": "Ireland"
-    },
-    {
-      "title": "Finance for Europe's Future – Getting the Foundations Right – Speech by Governor Makhlouf at Eurofi Financial Forum Gala Dinner",
-      "link": "https://www.centralbank.ie/news/article/speech-governor-makhlouf-eurofi-gala-dinner-17-september-2026",
-      "date": "2026-09-17T20:30:51.000Z",
-      "summary": "Good evening.&nbsp; I know you&rsquo;ve already been here for a couple of days but it&rsquo;s a pleasure to extend my own &ndash; slightly delayed &ndash; welcome to all visitors to Dublin.Today you have covered Basel divergence, the Banking Union, the Savings and Investments Uni",
       "sourceId": "ireland-cbi-news",
       "sourceLabel": "Central Bank of Ireland — News & Media",
       "sourceUrl": "https://www.centralbank.ie/news",
@@ -2434,6 +2434,17 @@
       "jurisdiction": "UK"
     },
     {
+      "title": "International,Hosting Overseas Regulatory Officials at the Global Financial Partnership Center (29th Program: 15 Insurance Supervisory Authorities)",
+      "link": "https://www.fsa.go.jp/en/glopac/20260825_29th/20260825_29th.html",
+      "date": null,
+      "summary": "",
+      "sourceId": "japan-fsa-news",
+      "sourceLabel": "Japan FSA — News",
+      "sourceUrl": "https://www.fsa.go.jp/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Japan"
+    },
+    {
       "title": "Publication,FSA Weekly Review No.705 October 6, 2026",
       "link": "https://www.fsa.go.jp/en/newsletter/weekly2026/705.html",
       "date": null,
@@ -2524,17 +2535,6 @@
     {
       "title": "Policies,FSA publishes \"FSA Strategic Priorities: July 2026 - June 2027\"",
       "link": "https://www.fsa.go.jp/en/news/2026/20260915/20260915.html",
-      "date": null,
-      "summary": "",
-      "sourceId": "japan-fsa-news",
-      "sourceLabel": "Japan FSA — News",
-      "sourceUrl": "https://www.fsa.go.jp/en/news/",
-      "kind": "guidance",
-      "jurisdiction": "Japan"
-    },
-    {
-      "title": "Publication,FSA Weekly Review No.703 September 14, 2026",
-      "link": "https://www.fsa.go.jp/en/newsletter/weekly2026/703.html",
       "date": null,
       "summary": "",
       "sourceId": "japan-fsa-news",
