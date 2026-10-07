@@ -1,7 +1,40 @@
 {
-  "generatedAt": "2026-10-07T13:32:28.840Z",
-  "cachedAt": "2026-10-07T13:32:28.840Z",
+  "generatedAt": "2026-10-07T23:09:34.402Z",
+  "cachedAt": "2026-10-07T23:09:34.402Z",
   "items": [
+    {
+      "title": "Bank of England announces the four animals that will feature on our next series of banknotes",
+      "link": "https://www.bankofengland.co.uk/news/2026/october/boe-announces-the-four-animals-that-will-feature-on-next-series-of-banknotes",
+      "date": "2026-10-07T23:01:00.000Z",
+      "summary": "The Atlantic puffin, barn owl, buff-tailed bumblebee and European hedgehog will represent UK wildlife and feature as the central images on our next series of banknotes.",
+      "sourceId": "boe-news",
+      "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
+      "title": "Himanshu Jindal a/k/a Manish Jindal",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26665",
+      "date": "2026-10-07T21:40:02.000Z",
+      "summary": "Himanshu Jindal a/k/a Manish Jindal",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "RBI to conduct 29-day Variable Rate Reverse Repo (VRRR) auction under LAF",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63753",
+      "date": "2026-10-07T19:10:00.000Z",
+      "summary": "On a review of the current and evolving liquidity conditions, it has been decided to conduct a Variable Rate Reverse Repo (VRRR) auction on Thursday, October 08, 2026, as under:            Sl. No.      Notified Amount          (&#8377; crore)      Tenor          (day)      Window",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
     {
       "title": "Reserve Money for the fortnight ended on September 30, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63752",
@@ -58,6 +91,28 @@
       "jurisdiction": "India"
     },
     {
+      "title": "Robert D. Welsh and Caedrynn E. Conner",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26668",
+      "date": "2026-10-07T16:44:19.000Z",
+      "summary": "Robert D. Welsh and Caedrynn E. Conner",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Kalder Inc. and Gökçe Güven",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26667",
+      "date": "2026-10-07T16:35:29.000Z",
+      "summary": "Kalder Inc. and Gökçe Güven",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
       "title": "Treasury Bills: Full Auction Result",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63747",
       "date": "2026-10-07T16:25:00.000Z",
@@ -80,6 +135,39 @@
       "jurisdiction": "India"
     },
     {
+      "title": "Administrative sanction of 3 February 2026",
+      "link": "https://www.cssf.lu/en/Document/administrative-sanction-of-3-february-2026/",
+      "date": "2026-10-07T13:54:04.000Z",
+      "summary": "Administrative sanction on a réviseur d’entreprises agréé (“approved statutory auditor”)",
+      "sourceId": "cssf-publications",
+      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
+      "sourceUrl": "https://www.cssf.lu/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Luxembourg"
+    },
+    {
+      "title": "Webinar “Preparing your CSRD reporting: AMF insights on listed companies’ 2025 sustainability statements”",
+      "link": "https://www.amf-france.org/en/news-publications/news/webinar-preparing-your-csrd-reporting-amf-insights-listed-companies-2025-sustainability-statements#xts=607212&xtor=RSS-11&type=RSS",
+      "date": "2026-10-07T13:43:30.000Z",
+      "summary": "Periodic &amp; ongoing disclosures              Sustainable Finance        Webinar “Preparing your CSRD reporting: AMF insights on listed companies’ 2025 sustainability statements”",
+      "sourceId": "amf-france-news",
+      "sourceLabel": "AMF (France) — Actualités",
+      "sourceUrl": "https://www.amf-france.org/en",
+      "kind": "guidance",
+      "jurisdiction": "France"
+    },
+    {
+      "title": "Minutes of the London FXJSC Legal Sub Committee Meeting – 16 June 2026",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-legal-sub-committee-meeting-16-june-26",
+      "date": "2026-10-07T13:36:25.000Z",
+      "summary": "The Bank of England provides the Secretariat to the London Foreign Exchange Joint Standing Committee (FXJSC) Legal Sub-Committee. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+      "sourceId": "boe-news",
+      "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
       "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on October 07, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63745",
       "date": "2026-10-07T12:50:00.000Z",
@@ -91,6 +179,39 @@
       "jurisdiction": "India"
     },
     {
+      "title": "Bank of Canada Media Interview – The Missing Middle podcast",
+      "link": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-the-missing-middle-podcast-2026-10-01/",
+      "date": "2026-10-07T12:11:06.000Z",
+      "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers gave an interview to The Missing Middle podcast.",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
+    {
+      "title": "Known Cybersecurity Expert and Owner of Florida Ransomware Remediation Company Charged with Defrauding Clients",
+      "link": "https://www.justice.gov/opa/pr/known-cybersecurity-expert-and-owner-florida-ransomware-remediation-company-charged",
+      "date": "2026-10-07T12:00:00.000Z",
+      "summary": "Zohar Pinhasi, 50, also known as “Zack Silver” and “Zack Green,” a U.S. and Israeli national, was arraigned today in the Eastern District of New York on wire fraud charges relating to Pinhasi’s false representations that he could decrypt ransomware without paying cybercriminals.",
+      "sourceId": "doj-press",
+      "sourceLabel": "US DOJ — Press Releases",
+      "sourceUrl": "https://www.justice.gov/news/press-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Board Chairman and Co-Owner of Puerto Rican Bank Sentenced in Multimillion-Dollar Wire Fraud Conspiracy",
+      "link": "https://www.justice.gov/opa/pr/board-chairman-and-co-owner-puerto-rican-bank-sentenced-multimillion-dollar-wire-fraud",
+      "date": "2026-10-07T12:00:00.000Z",
+      "summary": "The former board chairman and co-owner of Nodus International Bank (Nodus Bank), a Puerto Rican International Banking Entity, was sentenced today to 62 months in prison, three years of supervised release, and to pay forfeiture of approximately $13.6 million, which represents the ",
+      "sourceId": "doj-press",
+      "sourceLabel": "US DOJ — Press Releases",
+      "sourceUrl": "https://www.justice.gov/news/press-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
       "title": "Consolidated financial statement of the Eurosystem as at 2 October 2026",
       "link": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-bce/notas-prensa-bce/estado-financiero-consolidado-del-eurosistema-a-2-de-octubre-de-2026.html",
       "date": "2026-10-07T11:08:50.000Z",
@@ -100,6 +221,17 @@
       "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
       "kind": "guidance",
       "jurisdiction": "Spain"
+    },
+    {
+      "title": "Recruitment for two new Assistant Governors and Chief of Staff underway",
+      "link": "https://www.rbnz.govt.nz/news-and-events/news/2026/10/recruitment-for-two-new-assistant-governors-and-chief-of-staff-underway",
+      "date": "2026-10-07T11:00:00.000Z",
+      "summary": "The Reserve Bank of New Zealand – Te Pūtea Matua (RBNZ) has commenced recruitment for the two new roles of Assistant Governor Monetary Policy and Assistant Governor Payments and Cash.",
+      "sourceId": "rbnz-news",
+      "sourceLabel": "Reserve Bank of New Zealand — News Releases",
+      "sourceUrl": "https://www.rbnz.govt.nz/news-and-events/news",
+      "kind": "guidance",
+      "jurisdiction": "New Zealand"
     },
     {
       "title": "Investment Services Supervision Regulatory Briefing",
@@ -124,15 +256,15 @@
       "jurisdiction": "India"
     },
     {
-      "title": "Statement on Developmental and Regulatory Policies October 7, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63743",
-      "date": "2026-10-07T10:30:00.000Z",
-      "summary": "Regulation  1. Measures to Enhance the Customer Convenience through the Account Aggregator Framework  With an objective to enhance customer convenience, it has been decided to implement interoperability among NBFC-Account Aggregators (NBFC-AA). This will enable customers to acces",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "title": "Minutes of the London FXJSC Operations Sub-Committee Meeting – 16 June 2026",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-operations-sub-committee-meeting-16-june-2026",
+      "date": "2026-10-07T09:49:25.000Z",
+      "summary": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Operations and Legal Sub-Committees. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+      "sourceId": "boe-news",
+      "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
-      "jurisdiction": "India"
+      "jurisdiction": "UK"
     },
     {
       "title": "SFC to proceed with enhancements to Hong Kong’s retail fund regime code",
@@ -155,6 +287,17 @@
       "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
       "kind": "guidance",
       "jurisdiction": "Germany"
+    },
+    {
+      "title": "Minutes of the London FXJSC Main Committee Meeting – 24 June 2026",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/june/fxjsc-main-committee-meeting-24-june-2026",
+      "date": "2026-10-07T09:08:40.000Z",
+      "summary": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC), which is a forum for discussion of the wholesale foreign exchange market. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+      "sourceId": "boe-news",
+      "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
     },
     {
       "title": "Regulatory thresholds set to shift to automatic increases",
@@ -254,17 +397,6 @@
       "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
       "kind": "guidance",
       "jurisdiction": "US"
-    },
-    {
-      "title": "Bank of Canada Media Interview – The Missing Middle podcast",
-      "link": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-the-missing-middle-podcast-2026-10-01/",
-      "date": "2026-10-06T18:20:18.000Z",
-      "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers gave an interview to The Missing Middle podcast.",
-      "sourceId": "canada-boc-press",
-      "sourceLabel": "Bank of Canada — Press",
-      "sourceUrl": "https://www.bankofcanada.ca/press/",
-      "kind": "guidance",
-      "jurisdiction": "Canada"
     },
     {
       "title": "Monetary Policy Review – October 2026",
@@ -1015,17 +1147,6 @@
       "jurisdiction": "International"
     },
     {
-      "title": "Template for insider list to be submitted by issuers of financial instruments admitted to trading on SME growth markets (Updated)",
-      "link": "https://www.cssf.lu/en/Document/template-for-insider-list-to-be-submitted-by-issuers-of-financial-instruments-admitted-to-trading-on-sme-growth-markets/",
-      "date": "2026-10-01T00:00:00.000Z",
-      "summary": "",
-      "sourceId": "cssf-publications",
-      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
-      "sourceUrl": "https://www.cssf.lu/en/news/",
-      "kind": "guidance",
-      "jurisdiction": "Luxembourg"
-    },
-    {
       "title": "Mukesh Asudani",
       "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26662",
       "date": "2026-09-30T22:26:36.000Z",
@@ -1096,17 +1217,6 @@
       "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26657",
       "date": "2026-09-30T17:10:26.000Z",
       "summary": "Travel + Leisure Co.",
-      "sourceId": "sec-litigation",
-      "sourceLabel": "US SEC — Litigation Releases",
-      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
-      "title": "Lamar D. Fletcher",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26656",
-      "date": "2026-09-30T16:43:30.000Z",
-      "summary": "Lamar D. Fletcher",
       "sourceId": "sec-litigation",
       "sourceLabel": "US SEC — Litigation Releases",
       "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
@@ -1353,28 +1463,6 @@
       "sourceLabel": "US Federal Register",
       "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
       "kind": "rulebook",
-      "jurisdiction": "US"
-    },
-    {
-      "title": "Timothy E. Alatorre, Rhonda D. Stevenson, and Above: Space Development Corporation f/k/a Orbital Assembly Corporation",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26655",
-      "date": "2026-09-29T21:45:00.000Z",
-      "summary": "Timothy E. Alatorre, Rhonda D. Stevenson, and Above: Space Development Corporation f/k/a Orbital Assembly Corporation",
-      "sourceId": "sec-litigation",
-      "sourceLabel": "US SEC — Litigation Releases",
-      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
-      "title": "Cryptoaiml Ltd.; Cryptoaiml Capital Foundation; TSAI Pro Ltd.; TSAI Capital Foundation",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26654",
-      "date": "2026-09-29T21:06:47.000Z",
-      "summary": "Cryptoaiml Ltd.; Cryptoaiml Capital Foundation; TSAI Pro Ltd.; TSAI Capital Foundation",
-      "sourceId": "sec-litigation",
-      "sourceLabel": "US SEC — Litigation Releases",
-      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
-      "kind": "guidance",
       "jurisdiction": "US"
     },
     {
@@ -1840,17 +1928,6 @@
       "jurisdiction": "New Zealand"
     },
     {
-      "title": "Foreign Currency Reserves 2026 – Market Notice 21 September 2026",
-      "link": "https://www.bankofengland.co.uk/markets/market-notices/2026/september/foreign-currency-reserves-2026-market-notice-21-september-2026",
-      "date": "2026-09-21T11:30:00.000Z",
-      "summary": "Not for distribution, directly or indirectly, in or into the United States, Canada, Australia, Japan or any other jurisdiction where it is unlawful to distribute this announcement",
-      "sourceId": "boe-news",
-      "sourceLabel": "Bank of England — News",
-      "sourceUrl": "https://www.bankofengland.co.uk/news",
-      "kind": "guidance",
-      "jurisdiction": "UK"
-    },
-    {
       "title": "Swiss Takeover Board: Joris Gröflin elected as new member",
       "link": "https://www.finma.ch/en/news/2026/09/20260921-mm-uebernahmekommission/",
       "date": "2026-09-21T08:00:00.000Z",
@@ -1860,17 +1937,6 @@
       "sourceUrl": "https://www.finma.ch/en/news/",
       "kind": "guidance",
       "jurisdiction": "Switzerland"
-    },
-    {
-      "title": "Minutes of the Transaction and Post-trade Reporting Harmonisation Taskforce - July 2026",
-      "link": "https://www.bankofengland.co.uk/minutes/2026/july/minutes-of-the-transaction-and-post-trade-reporting-harmonisation-taskforce-july-2026",
-      "date": "2026-09-18T11:00:00.000Z",
-      "summary": "The Transaction and Post-trade Reporting Harmonisation Taskforce, through its three working groups, will help inform the design of the Bank and FCA’s long-term approach to harmonising UK MiFIR, UK EMIR and UK SFTR reporting requirements",
-      "sourceId": "boe-news",
-      "sourceLabel": "Bank of England — News",
-      "sourceUrl": "https://www.bankofengland.co.uk/news",
-      "kind": "guidance",
-      "jurisdiction": "UK"
     },
     {
       "title": "Remarks by Director of Insurance, Seána Cunningham to the UN Environment Programme Global Sustainable Insurance Summit, Dublin",
@@ -1915,28 +1981,6 @@
       "sourceUrl": "https://www.dnb.nl/en/general-news/",
       "kind": "guidance",
       "jurisdiction": "Netherlands"
-    },
-    {
-      "title": "Transcript of the Governor's pooled broadcast interview given on 17 September 2026",
-      "link": "https://www.bankofengland.co.uk/news/2026/september/the-governor-interview-transcript-17-september-2026",
-      "date": "2026-09-17T13:30:00.000Z",
-      "summary": "Following the publication of the Monetary Policy Summary and minutes of the Monetary Policy Committee meeting",
-      "sourceId": "boe-news",
-      "sourceLabel": "Bank of England — News",
-      "sourceUrl": "https://www.bankofengland.co.uk/news",
-      "kind": "guidance",
-      "jurisdiction": "UK"
-    },
-    {
-      "title": "Monetary Policy Committee dates for 2027",
-      "link": "https://www.bankofengland.co.uk/news/2026/september/mpc-dates-for-2027",
-      "date": "2026-09-17T13:30:00.000Z",
-      "summary": "2027 confirmed dates",
-      "sourceId": "boe-news",
-      "sourceLabel": "Bank of England — News",
-      "sourceUrl": "https://www.bankofengland.co.uk/news",
-      "kind": "guidance",
-      "jurisdiction": "UK"
     },
     {
       "title": "Māori access to capital (MA2K) snapshot 2026",
@@ -2036,17 +2080,6 @@
       "sourceUrl": "https://www.dnb.nl/en/general-news/",
       "kind": "guidance",
       "jurisdiction": "Netherlands"
-    },
-    {
-      "title": "Securing the future: the role of the repo market",
-      "link": "https://www.rbnz.govt.nz/news-and-events/news/2026/09/securing-the-future-the-role-of-the-repo-market",
-      "date": "2026-09-08T12:00:00.000Z",
-      "summary": "In a speech delivered today at the KangaNews Debt Capital Markets Summit in Auckland, Reserve Bank Assistant Governor Money, Karen Silk, highlighted the growing importance of the repo market in supporting financial market liquidity, monetary policy implementation, and financial s",
-      "sourceId": "rbnz-news",
-      "sourceLabel": "Reserve Bank of New Zealand — News Releases",
-      "sourceUrl": "https://www.rbnz.govt.nz/news-and-events/news",
-      "kind": "guidance",
-      "jurisdiction": "New Zealand"
     },
     {
       "title": "Aktualisierte Sanktionsmeldung: ISIL (Da'esh) und Al-Kaida",
@@ -2218,17 +2251,6 @@
       "link": "https://www.amf-france.org/en/news-publications/news/amf-publishes-study-market-based-financing-paris-period-2007-2025#xts=607212&xtor=RSS-11&type=RSS",
       "date": "2026-07-16T07:58:13.000Z",
       "summary": "Financing the economy              Equity              Fixed income        The AMF publishes a study on market-based financing in Paris for the period 2007–2025",
-      "sourceId": "amf-france-news",
-      "sourceLabel": "AMF (France) — Actualités",
-      "sourceUrl": "https://www.amf-france.org/en",
-      "kind": "guidance",
-      "jurisdiction": "France"
-    },
-    {
-      "title": "The AMF publishes a study on the behaviour of retail investors in CAC 40 stocks in the age of social media",
-      "link": "https://www.amf-france.org/en/news-publications/news/amf-publishes-study-behaviour-retail-investors-cac-40-stocks-age-social-media#xts=607212&xtor=RSS-11&type=RSS",
-      "date": "2026-07-15T08:48:22.000Z",
-      "summary": "Investing wisely              Long term investment              Equity Savings Plan              Shares              Periodic &amp; ongoing disclosures        The AMF publishes a study on the behaviour of retail investors in CAC 40 stocks in the age of social media",
       "sourceId": "amf-france-news",
       "sourceLabel": "AMF (France) — Actualités",
       "sourceUrl": "https://www.amf-france.org/en",
