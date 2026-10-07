@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-07T06:07:31.059Z",
-  "cachedAt": "2026-10-07T06:07:31.059Z",
+  "generatedAt": "2026-10-07T08:43:45.011Z",
+  "cachedAt": "2026-10-07T08:43:45.011Z",
   "items": [
+    {
+      "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on October 07, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63745",
+      "date": "2026-10-07T12:50:00.000Z",
+      "summary": "Tenor        1-day                    Notified Amount (in &#8377; crore)        3,00,000                    Total amount of offers received (in &#8377; crore)        2,55,827                    Amount accepted (in &#8377; crore)        2,55,827                    Cut off Rate (%)",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
     {
       "title": "Governor’s Statement, October 7, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63744",
@@ -47,6 +58,17 @@
       "jurisdiction": "India"
     },
     {
+      "title": "Gold and Foreign Exchange Position - 30 September 2026",
+      "link": "/en/home/publications/publication-detail-pages/Financial-Markets/markets-data/Gold-and-Foreign-Exchange-Position/2026/gold-and-foreign-exchange-position---30-september-2026",
+      "date": "2026-10-07T08:15:00.000Z",
+      "summary": "The attached document represents the Gold and Foreign exchange Position over a period of time published by South African Reserve Bank and updated at the end of each month. Any enquiries can be directed to the FMD Treasury Accounting team at FMD-TAU-FOREX@resbank.co.za or on +27 1",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
+    },
+    {
       "title": "Information notice on the official gold and foreign exchange reserves of the South African Reserve Bank as at 30 September 2026",
       "link": "/en/home/publications/publication-detail-pages/Financial-Markets/Notices/Information-Notice/information-notice-on-the-official-gold-and-foreign-exchange-res",
       "date": "2026-10-07T08:00:00.000Z",
@@ -62,6 +84,17 @@
       "link": "/en/home/publications/publication-detail-pages/statements/assets-and-liabilities/2026/statement-of-assets-and-liabilities-september-2026",
       "date": "2026-10-07T08:00:00.000Z",
       "summary": "Monthly statement of assets and liabilities as required by section 32 of the South African Reserve Bank Act 90 of 1989, as amended.",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
+    },
+    {
+      "title": "Share Price and Availability",
+      "link": "/en/home/publications/publication-detail-pages/share-price-and-availability/2026/share-price-availability",
+      "date": "2026-10-07T06:00:00.000Z",
+      "summary": "This document shows the standing buy/sell offers, transactions for the past six months and the last five completed transactions.",
       "sourceId": "sarb-publications",
       "sourceLabel": "South African Reserve Bank — News & Publications",
       "sourceUrl": "https://www.resbank.co.za/en/home",
@@ -104,7 +137,7 @@
     {
       "title": "Bank of Canada Media Interview – The Missing Middle podcast",
       "link": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-the-missing-middle-podcast-2026-10-01/",
-      "date": "2026-10-06T18:20:20.000Z",
+      "date": "2026-10-06T18:30:44.000Z",
       "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers gave an interview to The Missing Middle podcast.",
       "sourceId": "canada-boc-press",
       "sourceLabel": "Bank of Canada — Press",
@@ -234,17 +267,6 @@
       "jurisdiction": "India"
     },
     {
-      "title": "Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 – Samarth Urban Co-operative Bank Ltd., Osmanabad (Maharashtra), – Extension of Period",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63735",
-      "date": "2026-10-06T10:10:00.000Z",
-      "summary": "The Reserve Bank of India issued Directions under Section 35A read with Section 56 of the Banking Regulation Act, 1949 to Samarth Urban Co-operative Bank Ltd., Osmanabad, Maharashtra, vide Directive No. NGP.DOS.SSM1.No.S581/15-04-381/2025-2026 dated October 06, 2025, for a period",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
-    },
-    {
       "title": "Consultation Document on Chapter 2 of the Financial Institutions Rulebook",
       "link": "https://www.mfsa.mt/publication/consultation-document-on-chapter-2-of-the-financial-institutions-rulebook/",
       "date": "2026-10-06T08:50:42.000Z",
@@ -265,17 +287,6 @@
       "sourceUrl": "https://www.sfc.hk/en/News-and-announcements/News",
       "kind": "guidance",
       "jurisdiction": "Hong Kong"
-    },
-    {
-      "title": "Share Price and Availability",
-      "link": "/en/home/publications/publication-detail-pages/share-price-and-availability/2026/share-price-availability",
-      "date": "2026-10-06T06:00:00.000Z",
-      "summary": "This document shows the standing buy/sell offers, transactions for the past six months and the last five completed transactions.",
-      "sourceId": "sarb-publications",
-      "sourceLabel": "South African Reserve Bank — News & Publications",
-      "sourceUrl": "https://www.resbank.co.za/en/home",
-      "kind": "guidance",
-      "jurisdiction": "South Africa"
     },
     {
       "title": "Circular to Credit Institutions on the 2027 Single Resolution Fund (“SRF”) Ex-ante Contribution – Data Reporting Form (“DRF”)",
@@ -375,17 +386,6 @@
       "sourceUrl": "https://www.dnb.nl/en/general-news/",
       "kind": "guidance",
       "jurisdiction": "Netherlands"
-    },
-    {
-      "title": "nova-c-solutions(.)com:&#160;Bafin warns consumers about website and suspected identity theft",
-      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_28_nova-c-solutions_com_en.html",
-      "date": "2026-10-05T10:02:00.000Z",
-      "summary": "The Federal Financial Supervisory Authority&#160;(Bafin)&#160;warns consumers about the services offered on the website nova-c-solutions(.)com. Bafin has information that the website is being used to offer financial, investment and cryptoasset services without the required author",
-      "sourceId": "bafin-press",
-      "sourceLabel": "Germany BaFin — Press Releases",
-      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
-      "kind": "guidance",
-      "jurisdiction": "Germany"
     },
     {
       "title": "Currency and Exchanges Manuals",
@@ -969,17 +969,6 @@
       "sourceUrl": "https://www.cssf.lu/en/news/",
       "kind": "guidance",
       "jurisdiction": "Luxembourg"
-    },
-    {
-      "title": "Equity symmetric adjustment - 2026",
-      "link": "/en/home/publications/publication-detail-pages/prudential-authority/pa-insurers/Insurance-Sector-Data/pa-risk-free-rates/2026/equity-symmetric-adjustment-20263",
-      "date": "2026-10-01T00:00:00.000Z",
-      "summary": "This Excel sheet sets out the equity symmetric adjustment to be applied to the Equity Risk capital requirement calculation for insurers using the standardised formula to calculate the Solvency Capital Requirement.",
-      "sourceId": "sarb-publications",
-      "sourceLabel": "South African Reserve Bank — News & Publications",
-      "sourceUrl": "https://www.resbank.co.za/en/home",
-      "kind": "guidance",
-      "jurisdiction": "South Africa"
     },
     {
       "title": "Mukesh Asudani",
@@ -1719,6 +1708,17 @@
       "jurisdiction": "New Zealand"
     },
     {
+      "title": "festzinskompass(.)com: Bafin warns about website",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_24_festzinskompass_en.html",
+      "date": "2026-09-24T09:47:00.000Z",
+      "summary": "The German Financial Supervisory Authority (Bafin) warns about offers on the website festzinskompass(.)com. It is suspected that the unknown operators are offering banking transactions and financial services without the required authorisation.",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
+    },
+    {
       "title": "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-93-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised",
       "date": "2026-09-23T18:27:00.000Z",
@@ -1939,10 +1939,10 @@
       "jurisdiction": "New Zealand"
     },
     {
-      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - September 2026",
-      "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-september-2026",
+      "title": "Bank rate maintained at 3.75% - September 2026 Monetary Policy Summary and Minutes",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026",
       "date": "2026-09-17T11:00:00.000Z",
-      "summary": "Exchange of letters between the Governor and the Chancellor",
+      "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
       "sourceId": "boe-news",
       "sourceLabel": "Bank of England — News",
       "sourceUrl": "https://www.bankofengland.co.uk/news",
@@ -2669,6 +2669,22 @@
       "kind": "commentary",
       "jurisdiction": "International",
       "url": "https://www.jdsupra.com/topics/anti-money-laundering/",
+      "method": "manual"
+    },
+    {
+      "id": "mayerbrown-aml",
+      "label": "Mayer Brown — Anti-Money Laundering (law firm insights)",
+      "kind": "commentary",
+      "jurisdiction": "International",
+      "url": "https://www.mayerbrown.com/en/services/key-issues/anti-money-laundering",
+      "method": "manual"
+    },
+    {
+      "id": "korea-fsc-press",
+      "label": "Financial Services Commission (South Korea) — Press Releases",
+      "kind": "guidance",
+      "jurisdiction": "South Korea",
+      "url": "https://www.fsc.go.kr/eng/pr010101",
       "method": "manual"
     }
   ]
