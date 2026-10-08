@@ -120,6 +120,20 @@ const MANUAL_SOURCES = [
     jurisdiction: "South Korea",
     url: "https://www.fsc.go.kr/eng/pr010101",
   },
+  {
+    id: "iomfsa-news",
+    label: "Isle of Man Financial Services Authority — FSA News",
+    kind: "guidance",
+    jurisdiction: "Isle of Man",
+    url: "https://www.iomfsa.im/fsa-news/",
+  },
+  {
+    id: "egmont-group-news",
+    label: "Egmont Group of Financial Intelligence Units — News",
+    kind: "guidance",
+    jurisdiction: "International",
+    url: "https://egmontgroup.org/news-and-events/",
+  },
 ];
 
 function listManual() {
