@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-08T06:13:23.336Z",
-  "cachedAt": "2026-10-08T06:13:23.336Z",
+  "generatedAt": "2026-10-08T08:43:55.991Z",
+  "cachedAt": "2026-10-08T08:43:55.991Z",
   "items": [
+    {
+      "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR)  auction held on October 08, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63758",
+      "date": "2026-10-08T11:50:00.000Z",
+      "summary": "Tenor        1-day                    Notified Amount (in &#8377; crore)        2,00,000                    Total amount of offers received (in &#8377; crore)        1,60,664                    Amount accepted (in &#8377; crore)        1,60,664                    Cut off Rate (%)",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
     {
       "title": "Underwriting Auction for sale of Government Securities for &#8377;36,000 crore on October 09, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63757",
@@ -36,6 +47,17 @@
       "jurisdiction": "India"
     },
     {
+      "title": "Data Story | China rises to the top: SA’s trading partner rankings",
+      "link": "/en/home/publications/publication-detail-pages/quarterly-bulletins/Stories/trade-partners",
+      "date": "2026-10-08T09:11:00.000Z",
+      "summary": "China has overtaken the euro area as South Africa’s largest trading partner in manufactured goods.",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
+    },
+    {
       "title": "Money Market Operations as on October 07, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63754",
       "date": "2026-10-08T09:00:00.000Z",
@@ -47,6 +69,61 @@
       "jurisdiction": "India"
     },
     {
+      "title": "SFC, AFRC and the Exchange join forces to address disclaimers of opinion solely relating to going concern",
+      "link": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR162",
+      "date": "2026-10-08T08:30:52.000Z",
+      "summary": "",
+      "sourceId": "hk-sfc-press",
+      "sourceLabel": "Hong Kong SFC — Press Releases",
+      "sourceUrl": "https://www.sfc.hk/en/News-and-announcements/News",
+      "kind": "guidance",
+      "jurisdiction": "Hong Kong"
+    },
+    {
+      "title": "Financial Accounts of the Spanish Economy (2026 Q2)",
+      "link": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-banco-espana/cuentas-financieras-2t2026.html",
+      "date": "2026-10-08T08:00:00.000Z",
+      "summary": "",
+      "sourceId": "bde-news",
+      "sourceLabel": "Banco de España — News and Events",
+      "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
+      "kind": "guidance",
+      "jurisdiction": "Spain"
+    },
+    {
+      "title": "FINMA adopts partially revised Circular 2016/7 “Video and online identification”",
+      "link": "https://www.finma.ch/en/news/2026/10/20261008-mm-video-und-onlineid/",
+      "date": "2026-10-08T07:37:00.000Z",
+      "summary": "The Swiss Financial Market Supervisory Authority FINMA has partially revised its practice in Circular 2016/7 “Video and online identification”. It has taken into account the latest technological developments, particularly with regard to the Federal Act on Electronic Identity Cred",
+      "sourceId": "finma-news",
+      "sourceLabel": "Switzerland FINMA — News",
+      "sourceUrl": "https://www.finma.ch/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Switzerland"
+    },
+    {
+      "title": "The Maastricht Question Revisited",
+      "link": "https://www.dnb.nl/en/general-news/speech-2026/the-maastricht-question-revisited/",
+      "date": "2026-10-08T07:03:18.000Z",
+      "summary": "&#x2018;More than three decades ago, the Maastricht Treaty helped create the framework for Europe's monetary union. The world has changed, but the interaction between monetary policy, fiscal policy and economic integration remains central to its success,&#x2019; said Bas ter Weel",
+      "sourceId": "dnb-general-news",
+      "sourceLabel": "De Nederlandsche Bank (DNB) — General News",
+      "sourceUrl": "https://www.dnb.nl/en/general-news/",
+      "kind": "guidance",
+      "jurisdiction": "Netherlands"
+    },
+    {
+      "title": "Share Price and Availability",
+      "link": "/en/home/publications/publication-detail-pages/share-price-and-availability/2026/share-price-availability",
+      "date": "2026-10-08T06:00:00.000Z",
+      "summary": "This document shows the standing buy/sell offers, transactions for the past six months and the last five completed transactions.",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
+    },
+    {
       "title": "New Regulations for Credit Institutions and Financial Institutions and also a Conduct of Business Rulebook for Credit Institutions offering Retail Products and Services &#8211; Applicable from 6 October 2026",
       "link": "https://www.mfsa.mt/publication/new-regulations-for-credit-institutions-financial-institutions-and-also-a-conduct-of-business-rulebook-for-credit-institutions-offering-retail-products-and-services-applicable-from-6-october-2026/",
       "date": "2026-10-08T05:34:13.000Z",
@@ -56,6 +133,17 @@
       "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
       "kind": "guidance",
       "jurisdiction": "Malta"
+    },
+    {
+      "title": "Selected SA Banking Sector Trends 2026 - Monthly",
+      "link": "/en/home/publications/publication-detail-pages/prudential-authority/pa-statistics-selected-trends---monthly/2026/Selected-SA-banking-sector-trends-January-2026",
+      "date": "2026-10-08T00:00:00.000Z",
+      "summary": "Selected SA banking sector trends - August 2026",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
     },
     {
       "title": "Bank of England announces the four animals that will feature on our next series of banknotes",
@@ -128,17 +216,6 @@
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63749",
       "date": "2026-10-07T17:05:00.000Z",
       "summary": "The Reserve Bank of India had issued draft Directions on the &lsquo;Credit Valuation Adjustment (CVA) Framework&rsquo; on August 7, 2026, inviting feedback from stakeholders until August 28, 2026.      2. The draft Directions proposed modifications to the instructions on capital ",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
-    },
-    {
-      "title": "RBI releases the results of Forward Looking Surveys",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63748",
-      "date": "2026-10-07T17:00:00.000Z",
-      "summary": "The Reserve Bank of India today released on its website the results of the following Surveys:                        Urban Consumer Confidence Survey (UCCS) &ndash; September 2026                          Inflation Expectations Survey of Households (IESH) &ndash; September 2026  ",
       "sourceId": "rbi-press",
       "sourceLabel": "Reserve Bank of India — Press Releases",
       "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
@@ -370,17 +447,6 @@
       "link": "/en/home/publications/publication-detail-pages/statements/assets-and-liabilities/2026/statement-of-assets-and-liabilities-september-2026",
       "date": "2026-10-07T08:00:00.000Z",
       "summary": "Monthly statement of assets and liabilities as required by section 32 of the South African Reserve Bank Act 90 of 1989, as amended.",
-      "sourceId": "sarb-publications",
-      "sourceLabel": "South African Reserve Bank — News & Publications",
-      "sourceUrl": "https://www.resbank.co.za/en/home",
-      "kind": "guidance",
-      "jurisdiction": "South Africa"
-    },
-    {
-      "title": "Share Price and Availability",
-      "link": "/en/home/publications/publication-detail-pages/share-price-and-availability/2026/share-price-availability",
-      "date": "2026-10-07T06:00:00.000Z",
-      "summary": "This document shows the standing buy/sell offers, transactions for the past six months and the last five completed transactions.",
       "sourceId": "sarb-publications",
       "sourceLabel": "South African Reserve Bank — News & Publications",
       "sourceUrl": "https://www.resbank.co.za/en/home",
@@ -1026,17 +1092,6 @@
       "jurisdiction": "UK"
     },
     {
-      "title": "The 12-month EURIBOR (official mortgage market reference rate) stood at 3.247% in September, 1.075 basis points higher than a year ago",
-      "link": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-banco-espana/notas-banco-espana/el-euribor-se-situa-en-el-3243-en-septiembre-1075-puntos-mas-que-hace-un-ano.html",
-      "date": "2026-10-01T13:00:00.000Z",
-      "summary": "",
-      "sourceId": "bde-news",
-      "sourceLabel": "Banco de España — News and Events",
-      "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
-      "kind": "guidance",
-      "jurisdiction": "Spain"
-    },
-    {
       "title": "bitbucks(.)space:&#160;Bafin&#160;warns consumers about website",
       "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_30_bitbucks_space_en.html",
       "date": "2026-10-01T12:32:00.000Z",
@@ -1096,28 +1151,6 @@
       "link": "/en/home/publications/publication-detail-pages/media-releases/2026/franz-ruch-mpc-appointment",
       "date": "2026-10-01T09:20:00.000Z",
       "summary": "Ruch becomes the seventh member of the SARB’s Monetary Policy Committee.",
-      "sourceId": "sarb-publications",
-      "sourceLabel": "South African Reserve Bank — News & Publications",
-      "sourceUrl": "https://www.resbank.co.za/en/home",
-      "kind": "guidance",
-      "jurisdiction": "South Africa"
-    },
-    {
-      "title": "Daily monetary operations: 2026-10-01",
-      "link": "/en/home/publications/publication-detail-pages/Financial-Markets/markets-auction-results/2026/daily-monetary-operations-2025",
-      "date": "2026-10-01T08:00:00.000Z",
-      "summary": "",
-      "sourceId": "sarb-publications",
-      "sourceLabel": "South African Reserve Bank — News & Publications",
-      "sourceUrl": "https://www.resbank.co.za/en/home",
-      "kind": "guidance",
-      "jurisdiction": "South Africa"
-    },
-    {
-      "title": "Historical data: South African Benchmark Overnight Rate - September 2026",
-      "link": "/en/home/publications/publication-detail-pages/Financial-Markets/markets-data/SABOR-Historical-Data/2026/historical-data--south-african-benchmark-overnight-rate---februa",
-      "date": "2026-10-01T08:00:00.000Z",
-      "summary": "Historical Data: South African Benchmark Overnight Rate (SABOR) and Overnight Foreign Exchange (FX) Rate.\nThe attached document contains the overnight benchmark rates, as published by the South African Reserve Bank, updated at the end of each month. Please note that there is gene",
       "sourceId": "sarb-publications",
       "sourceLabel": "South African Reserve Bank — News & Publications",
       "sourceUrl": "https://www.resbank.co.za/en/home",
@@ -1664,17 +1697,6 @@
       "jurisdiction": "Hong Kong"
     },
     {
-      "title": "SFC and AFRC extend regulatory cooperation to financial reporting of licensed firms and funds under new MoU",
-      "link": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR156",
-      "date": "2026-09-28T03:20:39.000Z",
-      "summary": "",
-      "sourceId": "hk-sfc-press",
-      "sourceLabel": "Hong Kong SFC — Press Releases",
-      "sourceUrl": "https://www.sfc.hk/en/News-and-announcements/News",
-      "kind": "guidance",
-      "jurisdiction": "Hong Kong"
-    },
-    {
       "title": "eberhart-dienstleistungen(.)de: Bafin warns consumers about website",
       "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_08_31_eberhart-dienstleistungen_en.html",
       "date": "2026-09-25T12:34:00.000Z",
@@ -2104,17 +2126,6 @@
       "jurisdiction": "International"
     },
     {
-      "title": "Fine imposed on GMG Europe B.V. for repeated capital shortfalls",
-      "link": "https://www.dnb.nl/en/general-news/enforcement-measures-2026/fine-imposed-on-gmg-europe-b-v-for-repeated-capital-shortfalls/",
-      "date": "2026-09-07T13:15:16.000Z",
-      "summary": "On 22 June 2026, De Nederlandsche Bank (DNB) imposed an administrative fine of &#x20AC;59,770 on investment firm GMG Europe B.V. (GMG) for repeatedly failing to maintain sufficient own funds.",
-      "sourceId": "dnb-general-news",
-      "sourceLabel": "De Nederlandsche Bank (DNB) — General News",
-      "sourceUrl": "https://www.dnb.nl/en/general-news/",
-      "kind": "guidance",
-      "jurisdiction": "Netherlands"
-    },
-    {
       "title": "FINMA’s supervision of small banks: proportionality as a guiding principle for effective supervision",
       "link": "https://www.finma.ch/en/documentation/finma-publications/addresses-and-specialist-articles/referate-folder/20260907-rede-stefan-walter-kbs-2026/",
       "date": "2026-09-07T08:42:00.000Z",
@@ -2152,17 +2163,6 @@
       "link": "https://www.finma.ch/en/news/2026/08/20260820-mm-versicherungsmarktbericht-2025/",
       "date": "2026-08-20T08:00:00.000Z",
       "summary": "The 2025 insurance market report, published today by the Swiss Financial Market Supervisory Authority FINMA, shows that the Swiss insurance sector is in a strong financial position overall. Insurance companies significantly increased their equity and continued to maintain a high ",
-      "sourceId": "finma-news",
-      "sourceLabel": "Switzerland FINMA — News",
-      "sourceUrl": "https://www.finma.ch/en/news/",
-      "kind": "guidance",
-      "jurisdiction": "Switzerland"
-    },
-    {
-      "title": "Aktualisierte Sanktionsmeldung: ISIL (Da'esh) und Al-Kaida",
-      "link": "https://www.finma.ch/en/news/2026/08/20260820-sr-946-231-08/",
-      "date": "2026-08-20T03:43:47.000Z",
-      "summary": "Das Staatssekretariat für Wirtschaft (SECO) hat eine Änderung der Liste der sanktionierten natürlichen Personen, Unternehmen und Organisationen der Verordnung vom 21. März 2025 über Massnahmen gegenüber Personen und Organisationen, die mit den Organisationen ISIL (Da'esh) und Al-",
       "sourceId": "finma-news",
       "sourceLabel": "Switzerland FINMA — News",
       "sourceUrl": "https://www.finma.ch/en/news/",
@@ -2456,6 +2456,17 @@
       "jurisdiction": "UK"
     },
     {
+      "title": "Banks,The FSA publishes the status of loans held by all banks as of the end of March 2026, based on the Financial Reconstruction Act",
+      "link": "https://www.fsa.go.jp/en/regulated/npl/20261008.html",
+      "date": null,
+      "summary": "",
+      "sourceId": "japan-fsa-news",
+      "sourceLabel": "Japan FSA — News",
+      "sourceUrl": "https://www.fsa.go.jp/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Japan"
+    },
+    {
       "title": "International,Hosting Overseas Regulatory Officials at the Global Financial Partnership Center (29th Program: 15 Insurance Supervisory Authorities)",
       "link": "https://www.fsa.go.jp/en/glopac/20260825_29th/20260825_29th.html",
       "date": null,
@@ -2546,17 +2557,6 @@
     {
       "title": "Press Conferences,Press Conference by KATAYAMA Satsuki, Minister of Finance and Minister of State for Financial Services (August 31, 2026)",
       "link": "https://www.fsa.go.jp/en/conference/minister/2026/20260831.html",
-      "date": null,
-      "summary": "",
-      "sourceId": "japan-fsa-news",
-      "sourceLabel": "Japan FSA — News",
-      "sourceUrl": "https://www.fsa.go.jp/en/news/",
-      "kind": "guidance",
-      "jurisdiction": "Japan"
-    },
-    {
-      "title": "Policies,FSA publishes \"FSA Strategic Priorities: July 2026 - June 2027\"",
-      "link": "https://www.fsa.go.jp/en/news/2026/20260915/20260915.html",
       "date": null,
       "summary": "",
       "sourceId": "japan-fsa-news",
@@ -2707,6 +2707,22 @@
       "kind": "guidance",
       "jurisdiction": "South Korea",
       "url": "https://www.fsc.go.kr/eng/pr010101",
+      "method": "manual"
+    },
+    {
+      "id": "iomfsa-news",
+      "label": "Isle of Man Financial Services Authority — FSA News",
+      "kind": "guidance",
+      "jurisdiction": "Isle of Man",
+      "url": "https://www.iomfsa.im/fsa-news/",
+      "method": "manual"
+    },
+    {
+      "id": "egmont-group-news",
+      "label": "Egmont Group of Financial Intelligence Units — News",
+      "kind": "guidance",
+      "jurisdiction": "International",
+      "url": "https://egmontgroup.org/news-and-events/",
       "method": "manual"
     }
   ]
