@@ -1,7 +1,62 @@
 {
-  "generatedAt": "2026-10-07T23:09:34.402Z",
-  "cachedAt": "2026-10-07T23:09:34.402Z",
+  "generatedAt": "2026-10-08T06:13:23.336Z",
+  "cachedAt": "2026-10-08T06:13:23.336Z",
   "items": [
+    {
+      "title": "Underwriting Auction for sale of Government Securities for &#8377;36,000 crore on October 09, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63757",
+      "date": "2026-10-08T11:30:00.000Z",
+      "summary": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on October 09, 2026 (Friday).    As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Co",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR)  auction under LAF on October 08, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63756",
+      "date": "2026-10-08T10:40:00.000Z",
+      "summary": "On a review of current and evolving liquidity conditions, it has been decided to conduct a second Variable Rate Reverse Repo (VRRR) auction on Thursday, October 08, 2026, as under:                        Sl. No.          Notified Amount            (&#8377; crore)          Tenor  ",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "Result of the 29-day Variable Rate Reverse Repo (VRRR) auction held on October 08, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63755",
+      "date": "2026-10-08T10:20:00.000Z",
+      "summary": "Tenor    29-day            Notified Amount (in &#8377; crore)    2,00,000            Total amount of offers received (in &#8377; crore)    79,655            Amount accepted (in &#8377; crore)    79,655            Cut off Rate (%)    5.49            Weighted Average Rate (%)    5.",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "Money Market Operations as on October 07, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63754",
+      "date": "2026-10-08T09:00:00.000Z",
+      "summary": "(Amount in ₹ crore, Rate in Per cent)                                                                                                                                                                                                                      MONEY MARKETS@ -->           ",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "New Regulations for Credit Institutions and Financial Institutions and also a Conduct of Business Rulebook for Credit Institutions offering Retail Products and Services &#8211; Applicable from 6 October 2026",
+      "link": "https://www.mfsa.mt/publication/new-regulations-for-credit-institutions-financial-institutions-and-also-a-conduct-of-business-rulebook-for-credit-institutions-offering-retail-products-and-services-applicable-from-6-october-2026/",
+      "date": "2026-10-08T05:34:13.000Z",
+      "summary": "Circular\nThe post New Regulations for Credit Institutions and Financial Institutions and also a Conduct of Business Rulebook for Credit Institutions offering Retail Products and Services &#8211; Applicable from 6 October 2026 appeared first on MFSA.",
+      "sourceId": "mfsa-publications",
+      "sourceLabel": "Malta Financial Services Authority — Publications",
+      "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
+      "kind": "guidance",
+      "jurisdiction": "Malta"
+    },
     {
       "title": "Bank of England announces the four animals that will feature on our next series of banknotes",
       "link": "https://www.bankofengland.co.uk/news/2026/october/boe-announces-the-four-animals-that-will-feature-on-next-series-of-banknotes",
@@ -91,6 +146,17 @@
       "jurisdiction": "India"
     },
     {
+      "title": "Bank of Canada Media Interview – The Missing Middle podcast",
+      "link": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-the-missing-middle-podcast-2026-10-01/",
+      "date": "2026-10-07T16:51:50.000Z",
+      "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers gave an interview to The Missing Middle podcast.",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
+    {
       "title": "Robert D. Welsh and Caedrynn E. Conner",
       "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26668",
       "date": "2026-10-07T16:44:19.000Z",
@@ -111,28 +177,6 @@
       "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
       "kind": "guidance",
       "jurisdiction": "US"
-    },
-    {
-      "title": "Treasury Bills: Full Auction Result",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63747",
-      "date": "2026-10-07T16:25:00.000Z",
-      "summary": "(Amount in &#8377; crore)                    Auction Results        91-Day        182-Day        364-Day                    I.        Notified Amount        8,000        8,000        7,000                    II.        Competitive Bids Received        &nbsp;        &nbsp;        ",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
-    },
-    {
-      "title": "91-Day, 182-Day and 364-Day T-Bill Auction Result: Cut-off",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63746",
-      "date": "2026-10-07T15:00:00.000Z",
-      "summary": "&nbsp;        T-Bill        91-Day        182-Day        364-Day                    I.        Total Face Value Notified        &#8377;8,000 Crore        &#8377;8,000 Crore        &#8377;7,000 Crore                    II.        Cut-off Price (&#8377;) and Implicit Yield at Cut-Of",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
     },
     {
       "title": "Administrative sanction of 3 February 2026",
@@ -166,28 +210,6 @@
       "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
-    },
-    {
-      "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR) auction held on October 07, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63745",
-      "date": "2026-10-07T12:50:00.000Z",
-      "summary": "Tenor        1-day                    Notified Amount (in &#8377; crore)        3,00,000                    Total amount of offers received (in &#8377; crore)        2,55,827                    Amount accepted (in &#8377; crore)        2,55,827                    Cut off Rate (%)",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
-    },
-    {
-      "title": "Bank of Canada Media Interview – The Missing Middle podcast",
-      "link": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-the-missing-middle-podcast-2026-10-01/",
-      "date": "2026-10-07T12:11:06.000Z",
-      "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers gave an interview to The Missing Middle podcast.",
-      "sourceId": "canada-boc-press",
-      "sourceLabel": "Bank of Canada — Press",
-      "sourceUrl": "https://www.bankofcanada.ca/press/",
-      "kind": "guidance",
-      "jurisdiction": "Canada"
     },
     {
       "title": "Known Cybersecurity Expert and Owner of Florida Ransomware Remediation Company Charged with Defrauding Clients",
@@ -243,17 +265,6 @@
       "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
       "kind": "guidance",
       "jurisdiction": "Malta"
-    },
-    {
-      "title": "Governor’s Statement, October 7, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63744",
-      "date": "2026-10-07T10:35:00.000Z",
-      "summary": "Good morning and Namaskar. My greetings to all and best wishes for the forthcoming festive season.    2. The sudden reescalation of the West Asia conflict in September and the consequent hardening and volatility in global crude prices soured global economic sentiments and heighte",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
     },
     {
       "title": "Minutes of the London FXJSC Operations Sub-Committee Meeting – 16 June 2026",
@@ -587,7 +598,7 @@
     },
     {
       "title": "Administrative fine imposed on Modulr Finance B.V. for inadequate customer due diligence",
-      "link": "/en/general-news/enforcement-measures-2026/administrative-fine-imposed-on-modulr-finance-b-v-for-inadequate-customer-due-diligence/",
+      "link": "https://www.dnb.nl/en/general-news/enforcement-measures-2026/administrative-fine-imposed-on-modulr-finance-b-v-for-inadequate-customer-due-diligence/",
       "date": "2026-10-05T10:11:05.000Z",
       "summary": "De Nederlandsche Bank (DNB) imposed an administrative fine of &#x20AC;722.160 on Modulr Finance B.V. (MFBV) on 30 September 2026 due to serious shortcomings in its anti-money laundering (AML) controls during the period from 1 January 2023 until 16 July 2024.",
       "sourceId": "dnb-general-news",
@@ -950,7 +961,7 @@
     },
     {
       "title": "One for all, all for one: building a stronger European economy",
-      "link": "/en/general-news/speech-2026/one-for-all-all-for-one-building-a-stronger-european-economy/",
+      "link": "https://www.dnb.nl/en/general-news/speech-2026/one-for-all-all-for-one-building-a-stronger-european-economy/",
       "date": "2026-10-01T14:54:43.000Z",
       "summary": "&#x2018;Europe is no longer a profit centre, it is our lifeline&#x2019;, said Bas ter Weel in his opening keynote for the European Competitiveness Forum, in Maastricht today. He spoke about how to make the European economy more competitive and resilient.",
       "sourceId": "dnb-general-news",
@@ -983,7 +994,7 @@
     },
     {
       "title": "Climate Change: The Economic Reality We Can No Longer Ignore",
-      "link": "/en/general-news/speech-2026/climate-change-the-economic-reality-we-can-no-longer-ignore/",
+      "link": "https://www.dnb.nl/en/general-news/speech-2026/climate-change-the-economic-reality-we-can-no-longer-ignore/",
       "date": "2026-10-01T14:21:57.000Z",
       "summary": "&#x2018;It is no longer possible to deny the economic impact of climate change. We can see it, we can feel it, we can measure it. That has nothing to do with ideology, that is reality.&#x2019; This is what Olaf Sleijpen said in his speech at the Sustainable Finance Gipfel in Fran",
       "sourceId": "dnb-general-news",
@@ -1247,7 +1258,7 @@
     },
     {
       "title": "Direct investment via the Netherlands rises again after years of decline",
-      "link": "/en/general-news/statistical-news/2026/direct-investment-via-the-netherlands-rises-again-after-years-of-decline/",
+      "link": "https://www.dnb.nl/en/general-news/statistical-news/2026/direct-investment-via-the-netherlands-rises-again-after-years-of-decline/",
       "date": "2026-09-30T13:59:41.000Z",
       "summary": "Foreign direct investment in the Netherlands has rebounded, outstripping capital repatriations. In the first half of 2026, foreign companies and investors invested &#x20AC;72 billion in the Netherlands, mainly from the United States and from Germany.",
       "sourceId": "dnb-general-news",
@@ -1305,17 +1316,6 @@
       "link": "https://www.mfsa.mt/publication/lignum-technologies-ltd-the-company/",
       "date": "2026-09-30T08:57:53.000Z",
       "summary": "The Malta Financial Services Authority (“MFSA” or the “Authority”) has been looking into certain matters related to the Company in relation to failings which resulted from the Authority’s supervisory engagement...\nThe post Lignum Technologies Ltd (“the Company”) appeared first on",
-      "sourceId": "mfsa-publications",
-      "sourceLabel": "Malta Financial Services Authority — Publications",
-      "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
-      "kind": "guidance",
-      "jurisdiction": "Malta"
-    },
-    {
-      "title": "Hillwood International Insurance Brokers Limited (“the Company”)",
-      "link": "https://www.mfsa.mt/publication/hillwood-international-insurance-brokers-limited-the-company/",
-      "date": "2026-09-30T08:52:31.000Z",
-      "summary": "The Malta Financial Services Authority (“MFSA” or the “Authority”) has been looking into certain matters related to the Company in relation to failings which resulted from the Authority’s supervisory engagement...\nThe post Hillwood International Insurance Brokers Limited (“the Co",
       "sourceId": "mfsa-publications",
       "sourceLabel": "Malta Financial Services Authority — Publications",
       "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
@@ -1478,7 +1478,7 @@
     },
     {
       "title": "What impact do geopolitical tensions have on inflation?",
-      "link": "/en/general-news/background-2026/what-impact-do-geopolitical-tensions-have-on-inflation/",
+      "link": "https://www.dnb.nl/en/general-news/background-2026/what-impact-do-geopolitical-tensions-have-on-inflation/",
       "date": "2026-09-29T14:44:51.000Z",
       "summary": "Geopolitical tensions, such as armed conflicts and trade disputes, have increased significantly in recent years. Not only do they affect today&#x2019;s economy, but they also increase the likelihood of tomorrow&#x2019;s inflation.",
       "sourceId": "dnb-general-news",
@@ -1599,7 +1599,7 @@
     },
     {
       "title": "Dutch motorists filled up more often across the border in the first half of this year",
-      "link": "/en/general-news/statistical-news/2026/dutch-motorists-filled-up-more-often-across-the-border-in-the-first-half-of-this-year/",
+      "link": "https://www.dnb.nl/en/general-news/statistical-news/2026/dutch-motorists-filled-up-more-often-across-the-border-in-the-first-half-of-this-year/",
       "date": "2026-09-28T16:28:52.000Z",
       "summary": "Dutch motorists filled up their cars more often in Belgium and Germany in the first half of 2026 than in the same period last year. This is revealed by card payment data, which DNB is publishing in this format for the first time. &#xA;&#xA;",
       "sourceId": "dnb-general-news",
@@ -1962,7 +1962,7 @@
     },
     {
       "title": "Order subject to penalty for trust office Erez Corporate Service B.V. for serious non-compliance with the Act on the Supervision of Trust Offices 2018",
-      "link": "/en/general-news/enforcement-measures-2026/order-subject-to-penalty-for-trust-office-erez-corporate-service-b-v-for-serious-non-compliance-with-the-act-on-the-supervision-of-trust-offices-2018/",
+      "link": "https://www.dnb.nl/en/general-news/enforcement-measures-2026/order-subject-to-penalty-for-trust-office-erez-corporate-service-b-v-for-serious-non-compliance-with-the-act-on-the-supervision-of-trust-offices-2018/",
       "date": "2026-09-17T17:05:51.000Z",
       "summary": "On 25 April 2024, DNB imposed an order subject to penalty on Erez Corporate Service B.V. (Erez). Erez was in non-compliance with various provisions of the Act on the Supervision of Trust Offices 2018 (Wet toezicht trustkantoren 2018 - Wtt 2018). T",
       "sourceId": "dnb-general-news",
@@ -1973,7 +1973,7 @@
     },
     {
       "title": "Fine for trust office Erez Corporate Service B.V. for failing to commission an audit",
-      "link": "/en/general-news/enforcement-measures-2026/fine-for-trust-office-erez-corporate-service-b-v-for-failing-to-commission-an-audit/",
+      "link": "https://www.dnb.nl/en/general-news/enforcement-measures-2026/fine-for-trust-office-erez-corporate-service-b-v-for-failing-to-commission-an-audit/",
       "date": "2026-09-17T16:48:13.000Z",
       "summary": "De Nederlandsche Bank (DNB) imposed a fine of &#x20AC;95,000 on Erez Corporate Service B.V. (Erez) on 20 January 2022. The fine was imposed because Erez failed to commission an audit concerning the period from January to December 2019.",
       "sourceId": "dnb-general-news",
@@ -2006,7 +2006,7 @@
     },
     {
       "title": "The future of money: What does tokenised finance mean for FX markets, liquidity and financial stability?",
-      "link": "/en/general-news/speech-2026/the-future-of-money-what-does-tokenised-finance-mean-for-fx-markets-liquidity-and-financial-stability/",
+      "link": "https://www.dnb.nl/en/general-news/speech-2026/the-future-of-money-what-does-tokenised-finance-mean-for-fx-markets-liquidity-and-financial-stability/",
       "date": "2026-09-16T08:41:34.000Z",
       "summary": "&#x2018;Distributed Ledger Technology and tokenisation could fundamentally change financial markets, including FX markets&#x2019;, said Bas ter Weel today at TradeTech FX in Amsterdam. He talked about ways to keep a tokenised financial system safe and stable, and how central bank",
       "sourceId": "dnb-general-news",
@@ -2039,7 +2039,7 @@
     },
     {
       "title": "Uncertainty dampens the impact of monetary policy",
-      "link": "/en/general-news/news-2026/uncertainty-dampens-the-impact-of-monetary-policy/",
+      "link": "https://www.dnb.nl/en/general-news/news-2026/uncertainty-dampens-the-impact-of-monetary-policy/",
       "date": "2026-09-14T16:58:04.000Z",
       "summary": "In times of economic uncertainty, the impact of monetary policy on the economy may be weaker. Moreover, a new DNB Analysis shows that not all forms of uncertainty have the same effect. Financial and geopolitical uncertainty, in particular, appear to be dampening the impact of an ",
       "sourceId": "dnb-general-news",
@@ -2072,7 +2072,7 @@
     },
     {
       "title": "Trust in financial sector increases",
-      "link": "/en/general-news/news-2026/trust-in-financial-sector-increases/",
+      "link": "https://www.dnb.nl/en/general-news/news-2026/trust-in-financial-sector-increases/",
       "date": "2026-09-08T13:19:04.000Z",
       "summary": "Trust in the financial sector among Dutch households increased over the past year. This has emerged from a survey of almost 2,100 households conducted by De Nederlandsche Bank (DNB). The share of respondents who have trust in financial institutions rose from 52% in 2025 to 57% in",
       "sourceId": "dnb-general-news",
@@ -2105,7 +2105,7 @@
     },
     {
       "title": "Fine imposed on GMG Europe B.V. for repeated capital shortfalls",
-      "link": "/en/general-news/enforcement-measures-2026/fine-imposed-on-gmg-europe-b-v-for-repeated-capital-shortfalls/",
+      "link": "https://www.dnb.nl/en/general-news/enforcement-measures-2026/fine-imposed-on-gmg-europe-b-v-for-repeated-capital-shortfalls/",
       "date": "2026-09-07T13:15:16.000Z",
       "summary": "On 22 June 2026, De Nederlandsche Bank (DNB) imposed an administrative fine of &#x20AC;59,770 on investment firm GMG Europe B.V. (GMG) for repeatedly failing to maintain sufficient own funds.",
       "sourceId": "dnb-general-news",
