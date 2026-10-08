@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-10-08T13:40:07.458Z",
-  "cachedAt": "2026-10-08T13:40:07.458Z",
+  "generatedAt": "2026-10-08T23:25:13.023Z",
+  "cachedAt": "2026-10-08T23:25:13.023Z",
   "items": [
+    {
+      "title": "Fireside Chat with Tiff Macklem, Governor of the Bank of Canada",
+      "link": "https://www.bankofcanada.ca/2026/10/fireside-chat-with-tiff-macklem-governor-of-the-bank-of-canada-2026-10-14/",
+      "date": "2026-10-08T20:34:13.000Z",
+      "summary": "On Wednesday, October 14, 2026, Tiff Macklem, Governor of the Bank of Canada, will speak at the Institute of International Finance (IIF) Annual Membership Meeting.",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
+    {
+      "title": "RBI to conduct 10-day Variable Rate Reverse Repo (VRRR) auction under LAF on October 09, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63766",
+      "date": "2026-10-08T19:05:00.000Z",
+      "summary": "On a review of current and evolving liquidity conditions, it has been decided to conduct a Variable Rate Reverse Repo (VRRR) auction on Friday, October 09, 2026, as under:                        Sl. No.          Notified Amount             (&#8377; crore)          Tenor          ",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
     {
       "title": "RBI imposes monetary penalty on The Monghyr-Jamui Central Co-operative Bank Limited, Bihar",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63765",
@@ -80,15 +102,59 @@
       "jurisdiction": "India"
     },
     {
-      "title": "Bank of Canada Media Interview – The Missing Middle podcast",
-      "link": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-the-missing-middle-podcast-2026-10-01/",
-      "date": "2026-10-08T13:34:44.000Z",
-      "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers gave an interview to The Missing Middle podcast.",
-      "sourceId": "canada-boc-press",
-      "sourceLabel": "Bank of Canada — Press",
-      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "title": "Francis Biller; Raymond Dove; Chester Alvarez; Troy Gran-Brooks; Justin Plaizier; Shredderz International Corp.; Edward Clarke; Lia Patricia Sepulveda Salazar; and Edward Lopez Giraldo",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26670",
+      "date": "2026-10-08T15:51:15.000Z",
+      "summary": "Francis Biller; Raymond Dove; Chester Alvarez; Troy Gran-Brooks; Justin Plaizier; Shredderz International Corp.; Edward Clarke; Lia Patricia Sepulveda Salazar; and Edward Lopez Giraldo",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
       "kind": "guidance",
-      "jurisdiction": "Canada"
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Darren J. Caris and Caris Investment Partners, Inc.",
+      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26669",
+      "date": "2026-10-08T15:38:04.000Z",
+      "summary": "Darren J. Caris and Caris Investment Partners, Inc.",
+      "sourceId": "sec-litigation",
+      "sourceLabel": "US SEC — Litigation Releases",
+      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Communication to the investment fund industry in relation to the information to be provided to the CSSF by a Luxembourg-based IFM intending to perform white-label business",
+      "link": "https://www.cssf.lu/en/2026/10/communication-to-the-investment-fund-industry-in-relation-to-the-information-to-be-provided-to-the-cssf-by-a-luxembourg-based-ifm-intending-to-perform-white-label-business/",
+      "date": "2026-10-08T13:47:25.000Z",
+      "summary": "under Article 13(2a) of the Law of 2013 and/or Article 111(2) of the Law of 2010",
+      "sourceId": "cssf-publications",
+      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
+      "sourceUrl": "https://www.cssf.lu/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Luxembourg"
+    },
+    {
+      "title": "Account of the monetary policy meeting of the Governing Council of the European Central Bank held in Berlin on Wednesday and Thursday, 9-10 September 2026",
+      "link": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-bce/resenas-las-reuniones-politica-monetaria/account-of-the-monetary-policy-meeting-of-the-governing-council-of-the-european-central-bank-held-in-berlin-on-wednesday-and-thursday-9-10-september-2026.html",
+      "date": "2026-10-08T13:44:57.000Z",
+      "summary": "",
+      "sourceId": "bde-news",
+      "sourceLabel": "Banco de España — News and Events",
+      "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
+      "kind": "guidance",
+      "jurisdiction": "Spain"
+    },
+    {
+      "title": "Information to be provided to the CSSF by a Luxembourg-based IFM intending to perform white-label business under Article 13(2a) of the Law of 2013 and/or Article 111(2) of the Law of 2010",
+      "link": "https://www.cssf.lu/en/Document/information-to-be-provided-to-the-cssf-by-a-luxembourg-based-ifm-intending-to-perform-white-label-business-under-article-132a-of-the-law-of-2013-and-or-article-1112-of-the-law-of-2010/",
+      "date": "2026-10-08T13:40:44.000Z",
+      "summary": "",
+      "sourceId": "cssf-publications",
+      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
+      "sourceUrl": "https://www.cssf.lu/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Luxembourg"
     },
     {
       "title": "Uniox Gold LLC: evidence indicates no prospectus published",
@@ -111,6 +177,17 @@
       "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
       "kind": "guidance",
       "jurisdiction": "Spain"
+    },
+    {
+      "title": "Ukrainian-Russian Dual Citizen Pleads Guilty to Running International Money Laundering Organization for Cybercriminals",
+      "link": "https://www.justice.gov/opa/pr/ukrainian-russian-dual-citizen-pleads-guilty-running-international-money-laundering",
+      "date": "2026-10-08T12:00:00.000Z",
+      "summary": "Oleg Korniev, 42, a dual citizen of Ukraine and Russia, pleaded guilty today to running a sophisticated international money laundering organization that laundered millions of dollars stolen from United States victims by cybercriminals around the world.",
+      "sourceId": "doj-press",
+      "sourceLabel": "US DOJ — Press Releases",
+      "sourceUrl": "https://www.justice.gov/news/press-releases",
+      "kind": "guidance",
+      "jurisdiction": "US"
     },
     {
       "title": "algocorefx(.)com: Bafin warns consumers about website",
@@ -177,17 +254,6 @@
       "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
       "kind": "guidance",
       "jurisdiction": "Germany"
-    },
-    {
-      "title": "RBI to conduct Overnight Variable Rate Reverse Repo (VRRR)  auction under LAF on October 08, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63756",
-      "date": "2026-10-08T10:40:00.000Z",
-      "summary": "On a review of current and evolving liquidity conditions, it has been decided to conduct a second Variable Rate Reverse Repo (VRRR) auction on Thursday, October 08, 2026, as under:                        Sl. No.          Notified Amount            (&#8377; crore)          Tenor  ",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
     },
     {
       "title": "Finding the anchor: an assessment of the anchoring of inflation expectations in South Africa",
@@ -320,6 +386,39 @@
       "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
       "kind": "guidance",
       "jurisdiction": "Malta"
+    },
+    {
+      "title": "List of fund units subject to Regulation 2013/346 on European Social Entrepreneurship Funds (EuSEF)",
+      "link": "https://www.cssf.lu/en/Document/list-of-fund-units-subject-to-regulation-2013-346-on-european-social-entrepreneurship-funds-eusef/",
+      "date": "2026-10-08T04:00:45.000Z",
+      "summary": "",
+      "sourceId": "cssf-publications",
+      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
+      "sourceUrl": "https://www.cssf.lu/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Luxembourg"
+    },
+    {
+      "title": "List of fund units subject to Regulation 2013/345 on European Venture Capital funds (EuVECA)",
+      "link": "https://www.cssf.lu/en/Document/list-of-fund-units-subject-to-regulation-2013-345-on-european-venture-capital-funds-euveca/",
+      "date": "2026-10-08T04:00:39.000Z",
+      "summary": "",
+      "sourceId": "cssf-publications",
+      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
+      "sourceUrl": "https://www.cssf.lu/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Luxembourg"
+    },
+    {
+      "title": "List of fund units subject to Regulation 2015/760 on European Long-Term Investment Funds (ELTIFs) as amended by Regulation 2023/606",
+      "link": "https://www.cssf.lu/en/Document/list-of-fund-units-subject-to-regulation-2015-760-on-european-long-term-investment-funds-eltifs-as-amended-by-regulation-2023-606/",
+      "date": "2026-10-08T04:00:26.000Z",
+      "summary": "",
+      "sourceId": "cssf-publications",
+      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
+      "sourceUrl": "https://www.cssf.lu/en/news/",
+      "kind": "guidance",
+      "jurisdiction": "Luxembourg"
     },
     {
       "title": "Selected SA Banking Sector Trends 2026 - Monthly",
@@ -916,17 +1015,6 @@
       "jurisdiction": "US"
     },
     {
-      "title": "Households and non-financial corporations in the euro area: second quarter of 2026",
-      "link": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-bce/hogares-y-sociedades-no-financieras-de-la-zona-del-euro-segundo-trimestre-de-2026.html",
-      "date": "2026-10-02T11:44:42.000Z",
-      "summary": "",
-      "sourceId": "bde-news",
-      "sourceLabel": "Banco de España — News and Events",
-      "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
-      "kind": "guidance",
-      "jurisdiction": "Spain"
-    },
-    {
       "title": "Mr Kasim Garipoglu",
       "link": "https://www.mfsa.mt/publication/mr-kasim-garipoglu/",
       "date": "2026-10-02T11:34:54.000Z",
@@ -960,39 +1048,6 @@
       "jurisdiction": "Ireland"
     },
     {
-      "title": "Circular CSSF-CPDI 26/52",
-      "link": "https://www.cssf.lu/en/Document/circular-cssf-cpdi-26-52/",
-      "date": "2026-10-02T10:42:25.000Z",
-      "summary": "Survey on the amount of covered deposits held on 30 September 2026",
-      "sourceId": "cssf-publications",
-      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
-      "sourceUrl": "https://www.cssf.lu/en/news/",
-      "kind": "guidance",
-      "jurisdiction": "Luxembourg"
-    },
-    {
-      "title": "The CSSF’s professional secrecy and its legal exceptions (only in French)",
-      "link": "https://www.cssf.lu/en/2026/10/the-cssfs-professional-secrecy-and-its-legal-exceptions/",
-      "date": "2026-10-02T10:32:11.000Z",
-      "summary": "",
-      "sourceId": "cssf-publications",
-      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
-      "sourceUrl": "https://www.cssf.lu/en/news/",
-      "kind": "guidance",
-      "jurisdiction": "Luxembourg"
-    },
-    {
-      "title": "FAQ - Tokenisation",
-      "link": "https://www.cssf.lu/en/Document/faq-tokenisation/",
-      "date": "2026-10-02T10:16:43.000Z",
-      "summary": "",
-      "sourceId": "cssf-publications",
-      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
-      "sourceUrl": "https://www.cssf.lu/en/news/",
-      "kind": "guidance",
-      "jurisdiction": "Luxembourg"
-    },
-    {
       "title": "Appointment of members of the Enforcement Decision Making Committee (EDMC)",
       "link": "https://www.bankofengland.co.uk/news/2026/october/appointment-of-members-of-the-edmc",
       "date": "2026-10-02T08:00:00.000Z",
@@ -1024,6 +1079,17 @@
       "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
       "kind": "rulebook",
       "jurisdiction": "US"
+    },
+    {
+      "title": "Bank of Canada Media Interview – The Missing Middle podcast",
+      "link": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-the-missing-middle-podcast-2026-10-01/",
+      "date": "2026-10-01T17:00:33.000Z",
+      "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers gave an interview to The Missing Middle podcast.",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
     },
     {
       "title": "Thomas J. Moore, III",
@@ -1125,17 +1191,6 @@
       "jurisdiction": "Netherlands"
     },
     {
-      "title": "Global situation of undertakings for collective investment at the end of August 2026",
-      "link": "https://www.cssf.lu/en/2026/10/global-situation-of-undertakings-for-collective-investment-at-the-end-of-august-2026/",
-      "date": "2026-10-01T14:30:29.000Z",
-      "summary": "Press release 26/20",
-      "sourceId": "cssf-publications",
-      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
-      "sourceUrl": "https://www.cssf.lu/en/news/",
-      "kind": "guidance",
-      "jurisdiction": "Luxembourg"
-    },
-    {
       "title": "Climate Change: The Economic Reality We Can No Longer Ignore",
       "link": "https://www.dnb.nl/en/general-news/speech-2026/climate-change-the-economic-reality-we-can-no-longer-ignore/",
       "date": "2026-10-01T14:21:57.000Z",
@@ -1145,17 +1200,6 @@
       "sourceUrl": "https://www.dnb.nl/en/general-news/",
       "kind": "guidance",
       "jurisdiction": "Netherlands"
-    },
-    {
-      "title": "eRegister by eDesk – New functionality now available",
-      "link": "https://www.cssf.lu/en/2026/10/eregister-by-edesk-new-functionality-now-available/",
-      "date": "2026-10-01T13:21:25.000Z",
-      "summary": "Availability of approved prospectuses",
-      "sourceId": "cssf-publications",
-      "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
-      "sourceUrl": "https://www.cssf.lu/en/news/",
-      "kind": "guidance",
-      "jurisdiction": "Luxembourg"
     },
     {
       "title": "Minutes of the Meeting of the Court of Directors held on 16 July 2026",
@@ -1290,17 +1334,6 @@
       "jurisdiction": "US"
     },
     {
-      "title": "Christopher Kenji Dinelli a/k/a Kenji Dinelli and Jacob David Frankel a/k/a Kobi Frankel",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26658",
-      "date": "2026-09-30T18:36:52.000Z",
-      "summary": "Christopher Kenji Dinelli a/k/a Kenji Dinelli and Jacob David Frankel a/k/a Kobi Frankel",
-      "sourceId": "sec-litigation",
-      "sourceLabel": "US SEC — Litigation Releases",
-      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
       "title": "SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities",
       "link": "https://www.sec.gov/newsroom/press-releases/2026-98-sec-charges-meyer-global-management-its-ceo-defrauding-retail-investors-private-funds-held-interests",
       "date": "2026-09-30T18:30:01.000Z",
@@ -1308,17 +1341,6 @@
       "sourceId": "sec-press",
       "sourceLabel": "US SEC — Press Releases",
       "sourceUrl": "https://www.sec.gov/newsroom/press-releases",
-      "kind": "guidance",
-      "jurisdiction": "US"
-    },
-    {
-      "title": "Travel + Leisure Co.",
-      "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26657",
-      "date": "2026-09-30T17:10:26.000Z",
-      "summary": "Travel + Leisure Co.",
-      "sourceId": "sec-litigation",
-      "sourceLabel": "US SEC — Litigation Releases",
-      "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
       "kind": "guidance",
       "jurisdiction": "US"
     },
@@ -1915,17 +1937,6 @@
       "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
-    },
-    {
-      "title": "Bank of Canada Media Interview – The Chronicle Herald",
-      "link": "https://www.bankofcanada.ca/2026/09/bank-of-canada-media-interview-the-chronicle-herald-2026-09-21/",
-      "date": "2026-09-21T14:00:34.000Z",
-      "summary": "Tiff Macklem, Governor of the Bank of Canada, gave an interview to The Chronicle Herald.",
-      "sourceId": "canada-boc-press",
-      "sourceLabel": "Bank of Canada — Press",
-      "sourceUrl": "https://www.bankofcanada.ca/press/",
-      "kind": "guidance",
-      "jurisdiction": "Canada"
     },
     {
       "title": "Bank of England announces new office space in Leeds",
