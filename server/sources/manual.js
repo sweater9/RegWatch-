@@ -134,6 +134,13 @@ const MANUAL_SOURCES = [
     jurisdiction: "International",
     url: "https://egmontgroup.org/news-and-events/",
   },
+  {
+    id: "fsb-press",
+    label: "Financial Stability Board — Press & Publications",
+    kind: "guidance",
+    jurisdiction: "International",
+    url: "https://www.fsb.org/press",
+  },
 ];
 
 function listManual() {

@@ -178,6 +178,14 @@ const FEEDS = [
     feedUrl: "https://www.mfsa.mt/feed/",
     sourceUrl: "https://www.mfsa.mt/news/news-releases/",
   },
+  {
+    id: "gfsc-guernsey-news",
+    label: "Guernsey Financial Services Commission — All News",
+    kind: "guidance",
+    jurisdiction: "Guernsey",
+    feedUrl: "https://www.gfsc.gg/article.xml",
+    sourceUrl: "https://www.gfsc.gg/news",
+  },
 ];
 
 async function fetchFeed(source) {
