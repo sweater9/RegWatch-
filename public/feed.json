@@ -1,7 +1,51 @@
 {
-  "generatedAt": "2026-10-09T06:16:39.030Z",
-  "cachedAt": "2026-10-09T06:16:39.030Z",
+  "generatedAt": "2026-10-09T08:44:42.261Z",
+  "cachedAt": "2026-10-09T08:44:42.261Z",
   "items": [
+    {
+      "title": "Government Stock - Auction Results: Cut-off",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63774",
+      "date": "2026-10-09T13:50:00.000Z",
+      "summary": "&nbsp;        &nbsp;        7.06% GS 2041        7.43% GS 2076                    I.        Notified Amount        &#8377;23,000 crore        &#8377;13,000 crore                    II.        Cut off Price (&#8377;) / Implicit Yield at cut-off        96.18/7.4898%        95.33/7.",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "RBI cancels Certificate of Registration of 13 NBFCs",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63773",
+      "date": "2026-10-09T12:25:00.000Z",
+      "summary": "The Reserve Bank of India, in exercise of powers conferred on it under Section 45-IA (6) of the Reserve Bank of India Act, 1934, has cancelled the Certificate of Registration of the following companies.                        Sr. No.          Name of the Company          Register",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "10 NBFCs surrender their Certificates of Registration to the RBI",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63772",
+      "date": "2026-10-09T12:20:00.000Z",
+      "summary": "The following ten Non-Banking Financial Companies (NBFCs) have surrendered their Certificates of Registration (CoRs) granted to them by the Reserve Bank of India (RBI). The RBI, in exercise of powers conferred on it under Section 45-IA (6) of the Reserve Bank of India Act, 1934 (",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "Result of the 3-day Variable Rate Reverse Repo (VRRR) auction held on October 09, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63771",
+      "date": "2026-10-09T11:45:00.000Z",
+      "summary": "Tenor    3-day            Notified Amount (in &#8377; crore)    1,50,000            Total amount of offers received (in &#8377; crore)    1,39,847            Amount accepted (in &#8377; crore)    1,39,847            Cut off Rate (%)    5.49            Weighted Average Rate (%)   ",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
     {
       "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on October 09, 2026",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63770",
@@ -47,6 +91,17 @@
       "jurisdiction": "India"
     },
     {
+      "title": "Fake bank: Bafin warns against offers on the websites vantex-bank(.)com and vantex-bank(.)net.",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_10_09_vantex_bank_en.html",
+      "date": "2026-10-09T08:12:00.000Z",
+      "summary": "The Federal Financial Supervisory Authority (Bafin) warns against offers on the websites vantex-bank(.)com and vantex-bank(.)net. Contrary to what is stated on the websites, there is no credit institution operating under the name Vantex Bank in either Germany or France.",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
+    },
+    {
       "title": "Deutsche Bank&#160;AG: Bafin sets new deadlines for remedying shortcomings",
       "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Massnahmen/60b_KWG_84_WpIG_und_57_GwG/meldung_2026_10_09_deutsche_bank_ag_en.html",
       "date": "2026-10-09T04:00:00.000Z",
@@ -82,7 +137,7 @@
     {
       "title": "Fireside Chat with Tiff Macklem, Governor of the Bank of Canada",
       "link": "https://www.bankofcanada.ca/2026/10/fireside-chat-with-tiff-macklem-governor-of-the-bank-of-canada-2026-10-14/",
-      "date": "2026-10-08T20:27:51.000Z",
+      "date": "2026-10-08T20:27:19.000Z",
       "summary": "On Wednesday, October 14, 2026, Tiff Macklem, Governor of the Bank of Canada, will speak at the Institute of International Finance (IIF) Annual Membership Meeting.",
       "sourceId": "canada-boc-press",
       "sourceLabel": "Bank of Canada — Press",
@@ -113,48 +168,15 @@
       "jurisdiction": "India"
     },
     {
-      "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – Sri Mahatma Basaveshwar Co-operative Bank Ltd., Afzalpur",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63764",
-      "date": "2026-10-08T17:20:00.000Z",
-      "summary": "It is hereby notified for information of the public that in exercise of powers vested in it under sub section (1) of Section 35 A read with Section 56 of the Banking Regulation Act, 1949, the Reserve Bank of India (RBI) vide Directive Ref. No. BLR.DOS.SSMS.No.S1220/09-01-243/2026",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "title": "Sanctions Notice - Russia (Amendment)",
+      "link": "https://www.gfsc.gg/news/sanctions-notice-russia-amendment-0",
+      "date": "2026-10-08T15:51:23.000Z",
+      "summary": "Please be advised that details in respect of the following individuals and entity which are&nbsp;designated under The Russia (Sanctions) (EU Exit) Regulations 2019, have been varied on the UK Sanctions List.Viktor Leonidovich BEDRIK (Unique ID: RUS3726)Mamuka PIPIA (Unique ID: RU",
+      "sourceId": "gfsc-guernsey-news",
+      "sourceLabel": "Guernsey Financial Services Commission — All News",
+      "sourceUrl": "https://www.gfsc.gg/news",
       "kind": "guidance",
-      "jurisdiction": "India"
-    },
-    {
-      "title": "Directions under Section 35 A read with Section 56 of the Banking Regulation Act, 1949 – The Tiruvalla Urban Co-operative Bank Ltd., Tiruvalla, Pathanamthitta",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63763",
-      "date": "2026-10-08T17:05:00.000Z",
-      "summary": "It is hereby notified for information of the public that in exercise of powers vested in it under sub section (1) of Section 35 A read with Section 56 of the Banking Regulation Act, 1949, the Reserve Bank of India (RBI) vide Directive Ref. No. TVM.DOS.SED.No.S485/12-04-221/2026-2",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
-    },
-    {
-      "title": "Foreign Exchange Turnover Data: September 21, 2026 – September 25, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63762",
-      "date": "2026-10-08T16:45:00.000Z",
-      "summary": "The Reserve Bank of India today released the data showing daily merchant and Inter-Bank transactions in foreign exchange for the period September 21, 2026 &ndash; September 25, 2026.                        All Figures are in USD Millions                          Position Date    ",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
-    },
-    {
-      "title": "Foreign Exchange Turnover Data: September 15, 2026 – September 18, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63761",
-      "date": "2026-10-08T16:40:00.000Z",
-      "summary": "The Reserve Bank of India today released the data showing daily merchant and Inter-Bank transactions in foreign exchange for the period September 15, 2026 &ndash; September 18, 2026.                        All Figures are in USD Millions                          Position Date    ",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
+      "jurisdiction": "Guernsey"
     },
     {
       "title": "Francis Biller; Raymond Dove; Chester Alvarez; Troy Gran-Brooks; Justin Plaizier; Shredderz International Corp.; Edward Clarke; Lia Patricia Sepulveda Salazar; and Edward Lopez Giraldo",
@@ -168,6 +190,17 @@
       "jurisdiction": "US"
     },
     {
+      "title": "Sanctions Notice - Libya (Amendment)",
+      "link": "https://www.gfsc.gg/news/sanctions-notice-libya-amendment",
+      "date": "2026-10-08T15:47:01.000Z",
+      "summary": "Please be advised that details in respect of the following entity which are&nbsp;designated under&nbsp;Libya (Sanctions) (EU Exit) Regulations 2020 (the UK regulations), have been varied on the UK Sanctions List.Kinloss Property Limited (UNIQUE ID: LIB0016)The above entity remain",
+      "sourceId": "gfsc-guernsey-news",
+      "sourceLabel": "Guernsey Financial Services Commission — All News",
+      "sourceUrl": "https://www.gfsc.gg/news",
+      "kind": "guidance",
+      "jurisdiction": "Guernsey"
+    },
+    {
       "title": "Darren J. Caris and Caris Investment Partners, Inc.",
       "link": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26669",
       "date": "2026-10-08T15:38:04.000Z",
@@ -177,6 +210,39 @@
       "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
       "kind": "guidance",
       "jurisdiction": "US"
+    },
+    {
+      "title": "Sanctions Notice - Russia",
+      "link": "https://www.gfsc.gg/news/sanctions-notice-russia-136",
+      "date": "2026-10-08T14:08:31.000Z",
+      "summary": "Please be advised that the following individuals/entities:&nbsp;Name:Unique ID:Ulan Arymbaevich BUKABAEVRUS3757Alexander Jan Hendrik TATTERSALLRUS3761Egor Andreevich ISAEVRUS3780LIMITED LIABILITY COMPANY COMMERCIAL BANK \"STOLICHNY KREDIT\"RUS3753JOINT STOCK COMPANY PLANETARUS3754X",
+      "sourceId": "gfsc-guernsey-news",
+      "sourceLabel": "Guernsey Financial Services Commission — All News",
+      "sourceUrl": "https://www.gfsc.gg/news",
+      "kind": "guidance",
+      "jurisdiction": "Guernsey"
+    },
+    {
+      "title": "Sanctions Notice - Russia (Ships)",
+      "link": "https://www.gfsc.gg/news/sanctions-notice-russia-ships-4",
+      "date": "2026-10-08T14:04:48.000Z",
+      "summary": "Please be advised that the following ships have been specified under the Russia (Sanctions) (EU Exit) Regulations 2019 (the UK regulations):Name:Unique ID:IMO 9332614 (\"BELLARIS\")RUS3775IMO 9251743 (\"DAKAR\")RUS3776IMO 9321677 (\"DAPHNE V\")RUS3777IMO 9314179 (\"FLINT WIND\")RUS3778IM",
+      "sourceId": "gfsc-guernsey-news",
+      "sourceLabel": "Guernsey Financial Services Commission — All News",
+      "sourceUrl": "https://www.gfsc.gg/news",
+      "kind": "guidance",
+      "jurisdiction": "Guernsey"
+    },
+    {
+      "title": "Sanctions Notice - Russia (Amendment)",
+      "link": "https://www.gfsc.gg/news/sanctions-notice-russia-amendment",
+      "date": "2026-10-08T13:52:07.000Z",
+      "summary": "Please be advised that details in respect of the following entities, which have been designated under The Russia (Sanctions) (EU Exit) Regulations 2019, have been amended/varied:Name:Unique ID:STATE CORPORATION FOR THE PROMOTION OF THE DEVELOPMENT, MANUFACTURE AND EXPORT OF HIGH ",
+      "sourceId": "gfsc-guernsey-news",
+      "sourceLabel": "Guernsey Financial Services Commission — All News",
+      "sourceUrl": "https://www.gfsc.gg/news",
+      "kind": "guidance",
+      "jurisdiction": "Guernsey"
     },
     {
       "title": "Communication to the investment fund industry in relation to the information to be provided to the CSSF by a Luxembourg-based IFM intending to perform white-label business",
@@ -287,6 +353,17 @@
       "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
       "kind": "guidance",
       "jurisdiction": "Germany"
+    },
+    {
+      "title": "Sanctions Notice - Russia - General License (Variation)",
+      "link": "https://www.gfsc.gg/news/sanctions-notice-russia-general-license-variation",
+      "date": "2026-10-08T09:59:44.000Z",
+      "summary": "Please be advised that the Policy & Resources Committee (the Committee) has varied the attached general licence under regulation 64 of the Russia (Sanctions) (EU Exit) Regulations, 2019, as implemented in the Bailiwick by the Sanctions (Implementation of UK Regimes) (Bailiwick of",
+      "sourceId": "gfsc-guernsey-news",
+      "sourceLabel": "Guernsey Financial Services Commission — All News",
+      "sourceUrl": "https://www.gfsc.gg/news",
+      "kind": "guidance",
+      "jurisdiction": "Guernsey"
     },
     {
       "title": "Finding the anchor: an assessment of the anchoring of inflation expectations in South Africa",
@@ -542,6 +619,28 @@
       "jurisdiction": "UK"
     },
     {
+      "title": "The Commission supports AI Sprint",
+      "link": "https://www.gfsc.gg/news/commission-supports-ai-sprint",
+      "date": "2026-10-07T12:57:09.000Z",
+      "summary": "The Guernsey Financial Services Commission is supporting Guernsey’s first island-wide AI Sprint by contributing to two events examining the effective use of artificial intelligence in financial services.The six-week Sprint, which runs from 1 October to 12 November, brings togethe",
+      "sourceId": "gfsc-guernsey-news",
+      "sourceLabel": "Guernsey Financial Services Commission — All News",
+      "sourceUrl": "https://www.gfsc.gg/news",
+      "kind": "guidance",
+      "jurisdiction": "Guernsey"
+    },
+    {
+      "title": "Sanctions Notice - Iraq (UN Resolution 1518)",
+      "link": "https://www.gfsc.gg/news/sanctions-notice-iraq-un-resolution-1518-0",
+      "date": "2026-10-07T12:05:14.000Z",
+      "summary": "Please be advised that the Security Council Committee pursuant to Resolution&nbsp;1518 (2003) concerning Iraq has&nbsp;removed the following entry from its sanctions list:LOGARCHEO S.A.&nbsp;(IQi.200)The United Nations Security Council Consolidated List has been updated and is ac",
+      "sourceId": "gfsc-guernsey-news",
+      "sourceLabel": "Guernsey Financial Services Commission — All News",
+      "sourceUrl": "https://www.gfsc.gg/news",
+      "kind": "guidance",
+      "jurisdiction": "Guernsey"
+    },
+    {
       "title": "Known Cybersecurity Expert and Owner of Florida Ransomware Remediation Company Charged with Defrauding Clients",
       "link": "https://www.justice.gov/opa/pr/known-cybersecurity-expert-and-owner-florida-ransomware-remediation-company-charged",
       "date": "2026-10-07T12:00:00.000Z",
@@ -784,6 +883,17 @@
       "jurisdiction": "UK"
     },
     {
+      "title": "Sanctions Notice - Syria",
+      "link": "https://www.gfsc.gg/news/sanctions-notice-syria-34",
+      "date": "2026-10-06T12:06:40.000Z",
+      "summary": "Please be advised that the following entry has been removed from the UK Syria financial sanctions regime and is no longer subject to an asset freeze, travel ban or director disqualification:Houmam Jazai’iri (Unique ID: SYR0090)The UK sanctions list has been updated and can be fou",
+      "sourceId": "gfsc-guernsey-news",
+      "sourceLabel": "Guernsey Financial Services Commission — All News",
+      "sourceUrl": "https://www.gfsc.gg/news",
+      "kind": "guidance",
+      "jurisdiction": "Guernsey"
+    },
+    {
       "title": "Former TD Bank Employee Pleads Guilty to Accepting Bribes,  Laundering $4.8 Million to Colombia",
       "link": "https://www.justice.gov/opa/pr/former-td-bank-employee-pleads-guilty-accepting-bribes-laundering-48-million-colombia",
       "date": "2026-10-06T12:00:00.000Z",
@@ -897,7 +1007,7 @@
       "title": "Warning concerning fraudulent activities performed under the name of the Luxembourg company Eurobank Private Bank Luxembourg S.A.",
       "link": "https://www.cssf.lu/en/2026/10/warning-concerning-fraudulent-activities-performed-under-the-name-of-the-luxembourg-company-eurobank-private-bank-luxembourg-s-a/",
       "date": "2026-10-05T12:22:24.000Z",
-      "summary": "",
+      "summary": "(published on 5 October 2026, updated on 9 October 2026)",
       "sourceId": "cssf-publications",
       "sourceLabel": "CSSF (Luxembourg) — Latest Publications",
       "sourceUrl": "https://www.cssf.lu/en/news/",
@@ -1046,6 +1156,17 @@
       "sourceUrl": "https://www.sec.gov/enforcement-litigation/litigation-releases",
       "kind": "guidance",
       "jurisdiction": "US"
+    },
+    {
+      "title": "Sanctions Notice - Russia (Ships)",
+      "link": "https://www.gfsc.gg/news/sanctions-notice-russia-ships-3",
+      "date": "2026-10-02T12:22:19.000Z",
+      "summary": "Please be advised the following specifications:&nbsp;Name:Previous Unique ID:New Unique ID:IMO 7808401 (BEBEK-E)RUS3739RUS3752IMO 9344411 (GALLE ENERGY)RUS3747RUS3751have been revoked and remade under the Russia (Sanctions) (EU Exit) Regulations 2019 (the UK regulations)&nbsp;and",
+      "sourceId": "gfsc-guernsey-news",
+      "sourceLabel": "Guernsey Financial Services Commission — All News",
+      "sourceUrl": "https://www.gfsc.gg/news",
+      "kind": "guidance",
+      "jurisdiction": "Guernsey"
     },
     {
       "title": "Mr Kasim Garipoglu",
@@ -1750,17 +1871,6 @@
       "sourceUrl": "https://www.dnb.nl/en/general-news/",
       "kind": "guidance",
       "jurisdiction": "Netherlands"
-    },
-    {
-      "title": "horizoninvestmentsa(.)com: Bafin warns about website and identity fraud",
-      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_28_horizoninvestmentsa_en.html",
-      "date": "2026-09-28T09:45:00.000Z",
-      "summary": "The German Financial Supervisory Authority (Bafin) warns about offers from the website horizoninvestmentsa(.)com. According to information available to Bafin, the unknown operators of the website are offering financial services without the required authorisation.",
-      "sourceId": "bafin-press",
-      "sourceLabel": "Germany BaFin — Press Releases",
-      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
-      "kind": "guidance",
-      "jurisdiction": "Germany"
     },
     {
       "title": "Opening Remarks by Governor Makhlouf at the Civil Society Roundtable",
@@ -2734,6 +2844,14 @@
       "kind": "guidance",
       "jurisdiction": "International",
       "url": "https://egmontgroup.org/news-and-events/",
+      "method": "manual"
+    },
+    {
+      "id": "fsb-press",
+      "label": "Financial Stability Board — Press & Publications",
+      "kind": "guidance",
+      "jurisdiction": "International",
+      "url": "https://www.fsb.org/press",
       "method": "manual"
     }
   ]
