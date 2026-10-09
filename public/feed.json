@@ -1,11 +1,88 @@
 {
-  "generatedAt": "2026-10-08T23:25:13.023Z",
-  "cachedAt": "2026-10-08T23:25:13.023Z",
+  "generatedAt": "2026-10-09T06:16:39.030Z",
+  "cachedAt": "2026-10-09T06:16:39.030Z",
   "items": [
+    {
+      "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on October 09, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63770",
+      "date": "2026-10-09T10:45:00.000Z",
+      "summary": "On a review of current and evolving liquidity conditions, it has been decided to conduct a second Variable Rate Reverse Repo (VRRR) auction on Friday, October 09, 2026, as under:                        Sl. No.          Notified Amount           (&#8377; crore)          Tenor(day)",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "Result of the 10-day Variable Rate Reverse Repo (VRRR) auction held on October 09, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63769",
+      "date": "2026-10-09T10:15:00.000Z",
+      "summary": "Tenor        10-day                    Notified Amount (in &#8377; crore)        1,50,000                    Total amount of offers received (in &#8377; crore)        18,170                    Amount accepted (in &#8377; crore)        18,170                    Cut off Rate (%)   ",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "Result of Underwriting Auction conducted on October 09, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63768",
+      "date": "2026-10-09T09:55:00.000Z",
+      "summary": "In the underwriting auction conducted on October 09, 2026, for Additional Competitive Underwriting (ACU) of the undernoted Government securities, the Reserve Bank of India has set the cut-off rate for underwriting commission payable to Primary Dealers as given below:             ",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "Money Market Operations as on October 08, 2026",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63767",
+      "date": "2026-10-09T09:00:00.000Z",
+      "summary": "(Amount in ₹ crore, Rate in Per cent)                                                                                                                                                                                                                      MONEY MARKETS@ -->           ",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "Deutsche Bank&#160;AG: Bafin sets new deadlines for remedying shortcomings",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Massnahmen/60b_KWG_84_WpIG_und_57_GwG/meldung_2026_10_09_deutsche_bank_ag_en.html",
+      "date": "2026-10-09T04:00:00.000Z",
+      "summary": "On 15&#160;September 2026, Bafin set new deadlines for Deutsche Bank&#160;AG to remedy shortcomings in its data processing systems. These systems are used to monitor transactions for the purpose of preventing money laundering and terrorist financing.",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
+    },
+    {
+      "title": "VW AG: Bafin imposes administrative fine",
+      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Massnahmen/40c_neu_124_WpHG/meldung_2026_10_09_vw_ag_en.html?cms_expanded=true",
+      "date": "2026-10-09T04:00:00.000Z",
+      "summary": "On 1 October 2026, Bafin imposed an administrative fine amounting to &#8364;1.2 million on VW&#160;AG on the grounds that the company had violated the Market Abuse Regulation (MAR).",
+      "sourceId": "bafin-press",
+      "sourceLabel": "Germany BaFin — Press Releases",
+      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
+      "kind": "guidance",
+      "jurisdiction": "Germany"
+    },
+    {
+      "title": "New speech by Julia Leung: Keynote address at ASIFMA’s Future of Liquidity in Asia Pacific Capital Markets Conference",
+      "link": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR164",
+      "date": "2026-10-09T01:48:57.000Z",
+      "summary": "",
+      "sourceId": "hk-sfc-press",
+      "sourceLabel": "Hong Kong SFC — Press Releases",
+      "sourceUrl": "https://www.sfc.hk/en/News-and-announcements/News",
+      "kind": "guidance",
+      "jurisdiction": "Hong Kong"
+    },
     {
       "title": "Fireside Chat with Tiff Macklem, Governor of the Bank of Canada",
       "link": "https://www.bankofcanada.ca/2026/10/fireside-chat-with-tiff-macklem-governor-of-the-bank-of-canada-2026-10-14/",
-      "date": "2026-10-08T20:34:13.000Z",
+      "date": "2026-10-08T20:27:51.000Z",
       "summary": "On Wednesday, October 14, 2026, Tiff Macklem, Governor of the Bank of Canada, will speak at the Institute of International Finance (IIF) Annual Membership Meeting.",
       "sourceId": "canada-boc-press",
       "sourceLabel": "Bank of Canada — Press",
@@ -73,28 +150,6 @@
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63761",
       "date": "2026-10-08T16:40:00.000Z",
       "summary": "The Reserve Bank of India today released the data showing daily merchant and Inter-Bank transactions in foreign exchange for the period September 15, 2026 &ndash; September 18, 2026.                        All Figures are in USD Millions                          Position Date    ",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
-    },
-    {
-      "title": "Foreign Exchange Turnover Data: September 07, 2026 – September 11, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63760",
-      "date": "2026-10-08T16:35:00.000Z",
-      "summary": "The Reserve Bank of India today released the data showing daily merchant and Inter-Bank transactions in foreign exchange for the period September 07, 2026 &ndash; September 11, 2026.                        All Figures are in USD Millions                          Position Date    ",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
-    },
-    {
-      "title": "Foreign Exchange Turnover Data: August 31, 2026 – September 04, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63759",
-      "date": "2026-10-08T16:30:00.000Z",
-      "summary": "The Reserve Bank of India today released the data showing daily merchant and Inter-Bank transactions in foreign exchange for the period August 31, 2026 &ndash; September 04, 2026.                        All Figures are in USD Millions                           Position Date      ",
       "sourceId": "rbi-press",
       "sourceLabel": "Reserve Bank of India — Press Releases",
       "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
@@ -201,17 +256,6 @@
       "jurisdiction": "Germany"
     },
     {
-      "title": "Result of the Overnight Variable Rate Reverse Repo (VRRR)  auction held on October 08, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63758",
-      "date": "2026-10-08T11:50:00.000Z",
-      "summary": "Tenor        1-day                    Notified Amount (in &#8377; crore)        2,00,000                    Total amount of offers received (in &#8377; crore)        1,60,664                    Amount accepted (in &#8377; crore)        1,60,664                    Cut off Rate (%)",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
-    },
-    {
       "title": "Aktualisierte Sanktionsmeldung: Republik Irak",
       "link": "https://www.finma.ch/en/news/2026/10/20261008-sr-946-206/",
       "date": "2026-10-08T11:38:00.000Z",
@@ -221,17 +265,6 @@
       "sourceUrl": "https://www.finma.ch/en/news/",
       "kind": "guidance",
       "jurisdiction": "Switzerland"
-    },
-    {
-      "title": "Underwriting Auction for sale of Government Securities for &#8377;36,000 crore on October 09, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63757",
-      "date": "2026-10-08T11:30:00.000Z",
-      "summary": "Government of India has announced the sale (re-issue) of Government Securities, as detailed below, through auction to be held on October 09, 2026 (Friday).    As per the extant scheme of underwriting commitment notified on November 14, 2007, the amounts of Minimum Underwriting Co",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
     },
     {
       "title": "Ricardo Caballero, galardonado con el Premio de Economía Rey de España",
@@ -422,9 +455,9 @@
     },
     {
       "title": "Selected SA Banking Sector Trends 2026 - Monthly",
-      "link": "/en/home/publications/publication-detail-pages/prudential-authority/pa-statistics-selected-trends---monthly/2026/Selected-SA-banking-sector-trends-January-2026",
+      "link": "/en/home/publications/publication-detail-pages/prudential-authority/pa-statistics-selected-trends---monthly/2026/selected-sa-banking-sector-trends-2026",
       "date": "2026-10-08T00:00:00.000Z",
-      "summary": "Selected SA banking sector trends - August 2026",
+      "summary": "Selected South African banking sector trends: This brochure includes key statistics and trends relating to the total banking sector balance sheet, profitability, liquidity, credit risk and capital adequacy ratios.",
       "sourceId": "sarb-publications",
       "sourceLabel": "South African Reserve Bank — News & Publications",
       "sourceUrl": "https://www.resbank.co.za/en/home",
@@ -1719,17 +1752,6 @@
       "jurisdiction": "Netherlands"
     },
     {
-      "title": "SFC shares updates with securities industry on scam prevention and cybersecurity",
-      "link": "https://apps.sfc.hk/edistributionWeb/gateway/EN/news-and-announcements/news/doc?refNo=26PR157",
-      "date": "2026-09-28T11:27:31.000Z",
-      "summary": "",
-      "sourceId": "hk-sfc-press",
-      "sourceLabel": "Hong Kong SFC — Press Releases",
-      "sourceUrl": "https://www.sfc.hk/en/News-and-announcements/News",
-      "kind": "guidance",
-      "jurisdiction": "Hong Kong"
-    },
-    {
       "title": "horizoninvestmentsa(.)com: Bafin warns about website and identity fraud",
       "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_28_horizoninvestmentsa_en.html",
       "date": "2026-09-28T09:45:00.000Z",
@@ -1750,28 +1772,6 @@
       "sourceUrl": "https://www.centralbank.ie/news",
       "kind": "guidance",
       "jurisdiction": "Ireland"
-    },
-    {
-      "title": "spacexfy(.)ai:&#160;Bafin&#160;warns consumers about website&#160;",
-      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_09_23_spacexfy_ai_en.html",
-      "date": "2026-09-28T07:39:00.000Z",
-      "summary": "The Federal Financial Supervisory Authority&#160;(Bafin)&#160;warns consumers about the services offered on the website spacexfy(.)ai. Bafin has information that the website is being used to offer financial, investment and cryptoasset services without the required authorisation.",
-      "sourceId": "bafin-press",
-      "sourceLabel": "Germany BaFin — Press Releases",
-      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
-      "kind": "guidance",
-      "jurisdiction": "Germany"
-    },
-    {
-      "title": "eberhart-dienstleistungen(.)de: Bafin warns consumers about website",
-      "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/EN/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_08_31_eberhart-dienstleistungen_en.html",
-      "date": "2026-09-25T12:34:00.000Z",
-      "summary": "The Federal Financial Supervisory Authority (Bafin) warns consumers about the services offered by Eberhart Dienstleistungen. Bafin suspects the unknown operators, who purportedly have their registered office in Hamburg, of using the website eberhart-dienstleistungen(.)de to offer",
-      "sourceId": "bafin-press",
-      "sourceLabel": "Germany BaFin — Press Releases",
-      "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
-      "kind": "guidance",
-      "jurisdiction": "Germany"
     },
     {
       "title": "Infinity Insurance & Assistance / Infinity European Assistance - Central Bank of Ireland Issues Warning on Unauthorised Firm",
