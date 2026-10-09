@@ -1,7 +1,95 @@
 {
-  "generatedAt": "2026-10-09T08:44:42.261Z",
-  "cachedAt": "2026-10-09T08:44:42.261Z",
+  "generatedAt": "2026-10-09T13:29:18.112Z",
+  "cachedAt": "2026-10-09T13:29:18.112Z",
   "items": [
+    {
+      "title": "RBI launches Quarterly Order Books, Inventories and Capacity Utilisation Survey: July – September 2026 (Round 75)",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63781",
+      "date": "2026-10-09T18:00:00.000Z",
+      "summary": "The Reserve Bank of India has launched the 75th round of its Order Books, Inventories and Capacity Utilisation Survey (OBICUS). The survey is for the reference period July &ndash; September 2026 (Q2:2026-27).    The Reserve Bank has been conducting the Order Books, Inventories an",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "Auction of State Government Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63780",
+      "date": "2026-10-09T17:55:00.000Z",
+      "summary": "The following State Governments have offered to sell stock by way of auction, for an aggregate amount of &#8377;31,200 Crore (Face Value).            Sr. No.      State      Amount to be raised        (&#8377; Crore)      Tenor        (Year)      Type of Auction                  ",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "RBI announces OMO Sale of Government of India Securities",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63779",
+      "date": "2026-10-09T17:25:00.000Z",
+      "summary": "On a review of current and evolving liquidity conditions, the Reserve Bank has decided to conduct an OMO sale auction of Government of India securities for an aggregate amount of &#8377;25,000 crore on October 13, 2026, through multi-security auction using the multiple price meth",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "Auction of 91-Day, 182-Day and 364-Day Treasury Bills",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63778",
+      "date": "2026-10-09T17:15:00.000Z",
+      "summary": "Reserve Bank of India announces the auction of Government of India Treasury Bills as per the following details:            Sr. No.      Treasury Bill      Notified Amount        (&#8377; crore)      Auction Date      Settlement Date                  1      91-Day      8,000      ",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "Reserve Bank of India – Bulletin Weekly Statistical Supplement – Extract",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63777",
+      "date": "2026-10-09T17:00:00.000Z",
+      "summary": "1. Reserve Bank of India - Liabilities and Assets*        (&#8377; Crore)        Item    2025    2026    Variation        Oct. 3    Sep. 25    Oct. 2    Week    Year        1    2    3    4    5        4 Loans and Advances    &nbsp;    &nbsp;    &nbsp;    &nbsp;    &nbsp;        ",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "RBI Working Paper No. 01/2026: Data Gaps in State-Level Inflation: An Assessment for the Covid Period",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63776",
+      "date": "2026-10-09T16:30:00.000Z",
+      "summary": "Today the Reserve Bank of India placed on its website a Working Paper titled, &ldquo;Data Gaps in State-Level Inflation: An Assessment for the Covid Period&rdquo; under the Reserve Bank of India Working Paper Series1. The paper is co-authored by Purnima Shaw and R. K. Sinha.    T",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
+    {
+      "title": "Institutional investors list",
+      "link": "/en/home/publications/publication-detail-pages/other-publications/other-publications/Institutional-investors-list/institutional-investors-list0",
+      "date": "2026-10-09T15:09:00.000Z",
+      "summary": "Monthly list of registered and active institutional investors downloaded from the Portfolio Investment Reporting System for use by industry",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
+      "kind": "guidance",
+      "jurisdiction": "South Africa"
+    },
+    {
+      "title": "Government Stock - Full Auction Results",
+      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63775",
+      "date": "2026-10-09T14:30:00.000Z",
+      "summary": "(Amount in &#8377; Crore)                    Auction Results        7.06% GS 2041        7.43% GS 2076                    I.        Notified Amount         23,000        13,000                    II.        Competitive Bids Received        &nbsp;        &nbsp;                    ",
+      "sourceId": "rbi-press",
+      "sourceLabel": "Reserve Bank of India — Press Releases",
+      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "kind": "guidance",
+      "jurisdiction": "India"
+    },
     {
       "title": "Government Stock - Auction Results: Cut-off",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63774",
@@ -36,59 +124,37 @@
       "jurisdiction": "India"
     },
     {
-      "title": "Result of the 3-day Variable Rate Reverse Repo (VRRR) auction held on October 09, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63771",
-      "date": "2026-10-09T11:45:00.000Z",
-      "summary": "Tenor    3-day            Notified Amount (in &#8377; crore)    1,50,000            Total amount of offers received (in &#8377; crore)    1,39,847            Amount accepted (in &#8377; crore)    1,39,847            Cut off Rate (%)    5.49            Weighted Average Rate (%)   ",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "title": "The South African Reserve Bank and South African Foreign Exchange Committee launch the FX Global Code Public Register",
+      "link": "/en/home/publications/publication-detail-pages/media-releases/2026/fx-global-code",
+      "date": "2026-10-09T11:58:00.000Z",
+      "summary": "The register provides a central, publicly accessible repository that promotes transparency and broader adoption of the FX Global Code in South Africa and the South African Development Community (SADC) region.",
+      "sourceId": "sarb-publications",
+      "sourceLabel": "South African Reserve Bank — News & Publications",
+      "sourceUrl": "https://www.resbank.co.za/en/home",
       "kind": "guidance",
-      "jurisdiction": "India"
+      "jurisdiction": "South Africa"
     },
     {
-      "title": "RBI to conduct 3-day Variable Rate Reverse Repo (VRRR) auction under LAF on October 09, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63770",
-      "date": "2026-10-09T10:45:00.000Z",
-      "summary": "On a review of current and evolving liquidity conditions, it has been decided to conduct a second Variable Rate Reverse Repo (VRRR) auction on Friday, October 09, 2026, as under:                        Sl. No.          Notified Amount           (&#8377; crore)          Tenor(day)",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "title": "D.G. Economía. Proyecciones macroeconómicas de la económicas de España. Tercer trimestre de 2026",
+      "link": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-banco-espana/dg-economia-proyecciones-macroeconomicas-de-la-economicas-de-espana-tercer-trimestre-de-2026.html",
+      "date": "2026-10-09T11:00:00.000Z",
+      "summary": "",
+      "sourceId": "bde-news",
+      "sourceLabel": "Banco de España — News and Events",
+      "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
       "kind": "guidance",
-      "jurisdiction": "India"
+      "jurisdiction": "Spain"
     },
     {
-      "title": "Result of the 10-day Variable Rate Reverse Repo (VRRR) auction held on October 09, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63769",
-      "date": "2026-10-09T10:15:00.000Z",
-      "summary": "Tenor        10-day                    Notified Amount (in &#8377; crore)        1,50,000                    Total amount of offers received (in &#8377; crore)        18,170                    Amount accepted (in &#8377; crore)        18,170                    Cut off Rate (%)   ",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
-    },
-    {
-      "title": "Result of Underwriting Auction conducted on October 09, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63768",
-      "date": "2026-10-09T09:55:00.000Z",
-      "summary": "In the underwriting auction conducted on October 09, 2026, for Additional Competitive Underwriting (ACU) of the undernoted Government securities, the Reserve Bank of India has set the cut-off rate for underwriting commission payable to Primary Dealers as given below:             ",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
-    },
-    {
-      "title": "Money Market Operations as on October 08, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63767",
+      "title": "CMORG holds sector-wide cloud outage simulation exercise",
+      "link": "https://www.bankofengland.co.uk/news/2026/october/cmorg-holds-sector-wide-cloud-outage-simulation-exercise",
       "date": "2026-10-09T09:00:00.000Z",
-      "summary": "(Amount in ₹ crore, Rate in Per cent)                                                                                                                                                                                                                      MONEY MARKETS@ -->           ",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
+      "summary": "The Cross-Market Operational Resilience Group (CMORG) yesterday (8 October 2026) completed its biennial simulation exercise, known as SIMEX26, focused this year on a global cloud services disruption.",
+      "sourceId": "boe-news",
+      "sourceLabel": "Bank of England — News",
+      "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
-      "jurisdiction": "India"
+      "jurisdiction": "UK"
     },
     {
       "title": "Fake bank: Bafin warns against offers on the websites vantex-bank(.)com and vantex-bank(.)net.",
@@ -100,6 +166,50 @@
       "sourceUrl": "https://www.bafin.de/EN/die-bafin/aktuelles-presse/aktuelles-presse_node_en.html",
       "kind": "guidance",
       "jurisdiction": "Germany"
+    },
+    {
+      "title": "David López Salido. Macroeconomic projections and quarterly report on the Spanish economy",
+      "link": "https://www.bde.es/wbe/en/noticias-eventos/eventos/agenda/david-lopez-salido-proyecciones-macroeconomicas-e-informe-trimestral-de-la-economia-espanola.html",
+      "date": "2026-10-09T08:02:00.000Z",
+      "summary": "Date of event: 15 of October 2026",
+      "sourceId": "bde-news",
+      "sourceLabel": "Banco de España — News and Events",
+      "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
+      "kind": "guidance",
+      "jurisdiction": "Spain"
+    },
+    {
+      "title": "David López Salido. CREO 2026",
+      "link": "https://www.bde.es/wbe/en/noticias-eventos/eventos/agenda/david-lopez-salido-creo-2026.html",
+      "date": "2026-10-09T07:49:00.000Z",
+      "summary": "Date of event: 14 of October 2026",
+      "sourceId": "bde-news",
+      "sourceLabel": "Banco de España — News and Events",
+      "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
+      "kind": "guidance",
+      "jurisdiction": "Spain"
+    },
+    {
+      "title": "Juan Ayuso. Conference: \"El euro digital\"",
+      "link": "https://www.bde.es/wbe/en/noticias-eventos/eventos/agenda/juan-ayuso-conferencia-el-euro-digital.html",
+      "date": "2026-10-09T07:16:00.000Z",
+      "summary": "Date of event: 13 of October 2026",
+      "sourceId": "bde-news",
+      "sourceLabel": "Banco de España — News and Events",
+      "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
+      "kind": "guidance",
+      "jurisdiction": "Spain"
+    },
+    {
+      "title": "Circular to Credit Institutions and Other Entities on the Closure of the Banking Offsite Mailbox",
+      "link": "https://www.mfsa.mt/publication/circular-to-credit-institutions-and-other-entities-on-the-closure-of-the-banking-offsite-mailbox/",
+      "date": "2026-10-09T06:46:30.000Z",
+      "summary": "Circular\nThe post Circular to Credit Institutions and Other Entities on the Closure of the Banking Offsite Mailbox appeared first on MFSA.",
+      "sourceId": "mfsa-publications",
+      "sourceLabel": "Malta Financial Services Authority — Publications",
+      "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
+      "kind": "guidance",
+      "jurisdiction": "Malta"
     },
     {
       "title": "Deutsche Bank&#160;AG: Bafin sets new deadlines for remedying shortcomings",
@@ -137,35 +247,13 @@
     {
       "title": "Fireside Chat with Tiff Macklem, Governor of the Bank of Canada",
       "link": "https://www.bankofcanada.ca/2026/10/fireside-chat-with-tiff-macklem-governor-of-the-bank-of-canada-2026-10-14/",
-      "date": "2026-10-08T20:27:19.000Z",
+      "date": "2026-10-08T20:27:41.000Z",
       "summary": "On Wednesday, October 14, 2026, Tiff Macklem, Governor of the Bank of Canada, will speak at the Institute of International Finance (IIF) Annual Membership Meeting.",
       "sourceId": "canada-boc-press",
       "sourceLabel": "Bank of Canada — Press",
       "sourceUrl": "https://www.bankofcanada.ca/press/",
       "kind": "guidance",
       "jurisdiction": "Canada"
-    },
-    {
-      "title": "RBI to conduct 10-day Variable Rate Reverse Repo (VRRR) auction under LAF on October 09, 2026",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63766",
-      "date": "2026-10-08T19:05:00.000Z",
-      "summary": "On a review of current and evolving liquidity conditions, it has been decided to conduct a Variable Rate Reverse Repo (VRRR) auction on Friday, October 09, 2026, as under:                        Sl. No.          Notified Amount             (&#8377; crore)          Tenor          ",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
-    },
-    {
-      "title": "RBI imposes monetary penalty on The Monghyr-Jamui Central Co-operative Bank Limited, Bihar",
-      "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63765",
-      "date": "2026-10-08T17:25:00.000Z",
-      "summary": "The Reserve Bank of India (RBI) has, by an order dated September 25, 2026, imposed a monetary penalty of &#8377;5 lakh (Rupees Five Lakh only) on The Monghyr-Jamui Central Co-operative Bank Limited, Bihar (the bank) for non-compliance with certain directions issued by RBI on &lsq",
-      "sourceId": "rbi-press",
-      "sourceLabel": "Reserve Bank of India — Press Releases",
-      "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
-      "kind": "guidance",
-      "jurisdiction": "India"
     },
     {
       "title": "Sanctions Notice - Russia (Amendment)",
@@ -276,6 +364,61 @@
       "sourceUrl": "https://www.cssf.lu/en/news/",
       "kind": "guidance",
       "jurisdiction": "Luxembourg"
+    },
+    {
+      "title": "Regulatory Action against Collective Investment Scheme &#8211; Ref: 2026-35",
+      "link": "https://www.mfsa.mt/publication/regulatory-action-against-collective-investment-scheme-ref-2026-35/",
+      "date": "2026-10-08T13:40:37.000Z",
+      "summary": "The Malta Financial Services Authority (“MFSA”) decided to proceed with imposing an administrative penalty of five thousand and seven hundred Euro (€5,700) on the Alternative Investment Fund (“AIF”). BREACHES The...\nThe post Regulatory Action against Collective Investment Scheme ",
+      "sourceId": "mfsa-publications",
+      "sourceLabel": "Malta Financial Services Authority — Publications",
+      "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
+      "kind": "guidance",
+      "jurisdiction": "Malta"
+    },
+    {
+      "title": "Collective Investment Scheme &#8211; Ref: 2026-35",
+      "link": "https://www.mfsa.mt/publication/collective-investment-scheme-ref-2026-35/",
+      "date": "2026-10-08T13:40:30.000Z",
+      "summary": "The Malta Financial Services Authority (“MFSA”) decided to proceed with imposing an administrative penalty of five thousand and seven hundred Euro (€5,700) on the Alternative Investment Fund (“AIF”). BREACHES The...\nThe post Collective Investment Scheme &#8211; Ref: 2026-35 appea",
+      "sourceId": "mfsa-publications",
+      "sourceLabel": "Malta Financial Services Authority — Publications",
+      "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
+      "kind": "guidance",
+      "jurisdiction": "Malta"
+    },
+    {
+      "title": "Recognised Fund Administrator &#8211; Ref: 2026-40",
+      "link": "https://www.mfsa.mt/publication/recognised-fund-administrator-ref-2026-40/",
+      "date": "2026-10-08T13:38:33.000Z",
+      "summary": "The Malta Financial Services Authority (“MFSA” or the “Authority”) has been looking into certain matters related to a Recognised Fund Administrator in relation to the late submission of regulatory information...\nThe post Recognised Fund Administrator &#8211; Ref: 2026-40 appeared",
+      "sourceId": "mfsa-publications",
+      "sourceLabel": "Malta Financial Services Authority — Publications",
+      "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
+      "kind": "guidance",
+      "jurisdiction": "Malta"
+    },
+    {
+      "title": "José Luis Escrivá. IIF Annual Membership Meeting",
+      "link": "https://www.bde.es/wbe/en/noticias-eventos/eventos/agenda/jose-luis-escriva-iif-annual-membership-meeting.html",
+      "date": "2026-10-08T13:32:00.000Z",
+      "summary": "Date of event: 14 of October 2026",
+      "sourceId": "bde-news",
+      "sourceLabel": "Banco de España — News and Events",
+      "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
+      "kind": "guidance",
+      "jurisdiction": "Spain"
+    },
+    {
+      "title": "José Luis Escrivá. CXXI CEMLA Board of Governors Meeting",
+      "link": "https://www.bde.es/wbe/en/noticias-eventos/eventos/agenda/cxxi-reunion-de-gobernadores-de-bancos-centrales-miembros-del-cemla.html",
+      "date": "2026-10-08T13:23:00.000Z",
+      "summary": "Date of event: 13 of October 2026",
+      "sourceId": "bde-news",
+      "sourceLabel": "Banco de España — News and Events",
+      "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
+      "kind": "guidance",
+      "jurisdiction": "Spain"
     },
     {
       "title": "Uniox Gold LLC: evidence indicates no prospectus published",
@@ -663,17 +806,6 @@
       "jurisdiction": "US"
     },
     {
-      "title": "Consolidated financial statement of the Eurosystem as at 2 October 2026",
-      "link": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-bce/notas-prensa-bce/estado-financiero-consolidado-del-eurosistema-a-2-de-octubre-de-2026.html",
-      "date": "2026-10-07T11:08:50.000Z",
-      "summary": "",
-      "sourceId": "bde-news",
-      "sourceLabel": "Banco de España — News and Events",
-      "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
-      "kind": "guidance",
-      "jurisdiction": "Spain"
-    },
-    {
       "title": "Recruitment for two new Assistant Governors and Chief of Staff underway",
       "link": "https://www.rbnz.govt.nz/news-and-events/news/2026/10/recruitment-for-two-new-assistant-governors-and-chief-of-staff-underway",
       "date": "2026-10-07T11:00:00.000Z",
@@ -771,17 +903,6 @@
       "sourceUrl": "https://www.resbank.co.za/en/home",
       "kind": "guidance",
       "jurisdiction": "South Africa"
-    },
-    {
-      "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
-      "link": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-bce/results-of-the-september-2026-survey-on-credit-terms-and-conditions-in-euro-denominated-securities-financing-and-otc-derivatives-markets-sesfod.html",
-      "date": "2026-10-07T08:09:00.000Z",
-      "summary": "",
-      "sourceId": "bde-news",
-      "sourceLabel": "Banco de España — News and Events",
-      "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
-      "kind": "guidance",
-      "jurisdiction": "Spain"
     },
     {
       "title": "Information notice on the official gold and foreign exchange reserves of the South African Reserve Bank as at 30 September 2026",
@@ -960,17 +1081,6 @@
       "jurisdiction": "US"
     },
     {
-      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-      "link": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-bce/otras-decisiones-consejo-gobierno/decisiones-adoptadas-por-el-consejo-de-gobierno-del-bce-distintas-de-las-decisiones-por-las-que-se-establecen-los-tipos-de-interes-oct-26.html",
-      "date": "2026-10-05T15:28:00.000Z",
-      "summary": "",
-      "sourceId": "bde-news",
-      "sourceLabel": "Banco de España — News and Events",
-      "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
-      "kind": "guidance",
-      "jurisdiction": "Spain"
-    },
-    {
       "title": "Communication on the CSSF Feedback Report - Circular CSSF 24/856",
       "link": "https://www.cssf.lu/en/2026/10/communication-on-the-cssf-feedback-report-circular-cssf-24-856/",
       "date": "2026-10-05T13:04:17.000Z",
@@ -1046,50 +1156,6 @@
       "sourceUrl": "https://www.resbank.co.za/en/home",
       "kind": "guidance",
       "jurisdiction": "South Africa"
-    },
-    {
-      "title": "Exchange Control Circular No. 20-2026",
-      "link": "/en/home/publications/publication-detail-pages/circulars/exchange-control-circulars/2026/exchange-control-circular-no--20-2026",
-      "date": "2026-10-05T09:33:00.000Z",
-      "summary": "Appointment of Wise Payments South Africa Pty Ltd as an ADLA",
-      "sourceId": "sarb-publications",
-      "sourceLabel": "South African Reserve Bank — News & Publications",
-      "sourceUrl": "https://www.resbank.co.za/en/home",
-      "kind": "guidance",
-      "jurisdiction": "South Africa"
-    },
-    {
-      "title": "Día de la Educación Financiera 2026",
-      "link": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-banco-espana/notas-banco-espana/dia-de-la-educacion-financiera-2026.html",
-      "date": "2026-10-05T09:00:00.000Z",
-      "summary": "",
-      "sourceId": "bde-news",
-      "sourceLabel": "Banco de España — News and Events",
-      "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
-      "kind": "guidance",
-      "jurisdiction": "Spain"
-    },
-    {
-      "title": "La educación financiera; cuanto antes mejor",
-      "link": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-banco-espana/la-educacion-financiera-cuanto-antes-mejor.html",
-      "date": "2026-10-05T08:01:00.000Z",
-      "summary": "Tribuna del gobernador publicada en La Tribuna de Albacete",
-      "sourceId": "bde-news",
-      "sourceLabel": "Banco de España — News and Events",
-      "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
-      "kind": "guidance",
-      "jurisdiction": "Spain"
-    },
-    {
-      "title": "Supervisory statistics on credit institutions (2026 Q2)",
-      "link": "https://www.bde.es/wbe/en/noticias-eventos/actualidad-banco-espana/notas-banco-espana/las-entidades-de-credito-que-operan-en-espana-mantuvieron-una-posicion-favorable-en-solvencia-rentabilidad-y-calidad-de-activos-.html",
-      "date": "2026-10-05T08:00:00.000Z",
-      "summary": "",
-      "sourceId": "bde-news",
-      "sourceLabel": "Banco de España — News and Events",
-      "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
-      "kind": "guidance",
-      "jurisdiction": "Spain"
     },
     {
       "title": "Administrative sanction of 9 July 2026",
@@ -1173,17 +1239,6 @@
       "link": "https://www.mfsa.mt/publication/mr-kasim-garipoglu/",
       "date": "2026-10-02T11:34:54.000Z",
       "summary": "The Malta Financial Services Authority (“MFSA” or the “Authority”) decided that Mr Garipoglu can no longer be deemed as being fit and proper to hold any approved positions by the...\nThe post Mr Kasim Garipoglu appeared first on MFSA.",
-      "sourceId": "mfsa-publications",
-      "sourceLabel": "Malta Financial Services Authority — Publications",
-      "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
-      "kind": "guidance",
-      "jurisdiction": "Malta"
-    },
-    {
-      "title": "Regulatory Action against Mr Kasim Garipoglu",
-      "link": "https://www.mfsa.mt/publication/regulatory-action-against-mr-kasim-garipoglu/",
-      "date": "2026-10-02T11:34:47.000Z",
-      "summary": "The Malta Financial Services Authority (“MFSA” or the “Authority”) decided that Mr Garipoglu can no longer be deemed as being fit and proper to hold any approved positions by the...\nThe post Regulatory Action against Mr Kasim Garipoglu appeared first on MFSA.",
       "sourceId": "mfsa-publications",
       "sourceLabel": "Malta Financial Services Authority — Publications",
       "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
@@ -1323,17 +1378,6 @@
       "jurisdiction": "US"
     },
     {
-      "title": "Download information from Zipped Eviews Files",
-      "link": "/en/home/publications/publication-detail-pages/quarterly-bulletins/download-information-from-zipped-eviews-files/2026/DownloadinformationfromZippedEviewsFiles1",
-      "date": "2026-10-01T14:59:00.000Z",
-      "summary": "Download information from Zipped Eviews Files",
-      "sourceId": "sarb-publications",
-      "sourceLabel": "South African Reserve Bank — News & Publications",
-      "sourceUrl": "https://www.resbank.co.za/en/home",
-      "kind": "guidance",
-      "jurisdiction": "South Africa"
-    },
-    {
       "title": "One for all, all for one: building a stronger European economy",
       "link": "https://www.dnb.nl/en/general-news/speech-2026/one-for-all-all-for-one-building-a-stronger-european-economy/",
       "date": "2026-10-01T14:54:43.000Z",
@@ -1409,17 +1453,6 @@
       "sourceUrl": "https://www.centralbank.ie/news",
       "kind": "guidance",
       "jurisdiction": "Ireland"
-    },
-    {
-      "title": "The Supervisory ICT Risk and Cybersecurity (‘SIRC’) Function’s Webpage and Key Updates",
-      "link": "https://www.mfsa.mt/publication/the-supervisory-ict-risk-and-cybersecurity-sirc-functions-webpage-and-key-updates/",
-      "date": "2026-10-01T06:31:21.000Z",
-      "summary": "Circular\nThe post The Supervisory ICT Risk and Cybersecurity (‘SIRC’) Function’s Webpage and Key Updates appeared first on MFSA.",
-      "sourceId": "mfsa-publications",
-      "sourceLabel": "Malta Financial Services Authority — Publications",
-      "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
-      "kind": "guidance",
-      "jurisdiction": "Malta"
     },
     {
       "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
@@ -1563,28 +1596,6 @@
       "sourceUrl": "https://www.bankofengland.co.uk/news",
       "kind": "guidance",
       "jurisdiction": "UK"
-    },
-    {
-      "title": "Hillwood Limited (“the Company”)",
-      "link": "https://www.mfsa.mt/publication/hillwood-limited-the-company/",
-      "date": "2026-09-30T09:05:24.000Z",
-      "summary": "The Malta Financial Services Authority (“MFSA” or the “Authority”) has been looking into certain matters related to the Company in relation to failings which resulted from the Authority’s supervisory engagement...\nThe post Hillwood Limited (“the Company”) appeared first on MFSA.",
-      "sourceId": "mfsa-publications",
-      "sourceLabel": "Malta Financial Services Authority — Publications",
-      "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
-      "kind": "guidance",
-      "jurisdiction": "Malta"
-    },
-    {
-      "title": "Lignum Technologies Ltd (“the Company”)",
-      "link": "https://www.mfsa.mt/publication/lignum-technologies-ltd-the-company/",
-      "date": "2026-09-30T08:57:53.000Z",
-      "summary": "The Malta Financial Services Authority (“MFSA” or the “Authority”) has been looking into certain matters related to the Company in relation to failings which resulted from the Authority’s supervisory engagement...\nThe post Lignum Technologies Ltd (“the Company”) appeared first on",
-      "sourceId": "mfsa-publications",
-      "sourceLabel": "Malta Financial Services Authority — Publications",
-      "sourceUrl": "https://www.mfsa.mt/news/news-releases/",
-      "kind": "guidance",
-      "jurisdiction": "Malta"
     },
     {
       "title": "FINMA launches consultation on the partially revised Circular 2017/6 “Direct transmission”",
@@ -2049,17 +2060,6 @@
       "jurisdiction": "UK"
     },
     {
-      "title": "Bank of England announces new office space in Leeds",
-      "link": "https://www.bankofengland.co.uk/news/2026/september/bank-of-england-announces-new-office-space-in-leeds",
-      "date": "2026-09-21T12:00:00.000Z",
-      "summary": "The Bank of England has secured a new long-term premises in Leeds, marking a major milestone in its commitment to build its presence in the region.",
-      "sourceId": "boe-news",
-      "sourceLabel": "Bank of England — News",
-      "sourceUrl": "https://www.bankofengland.co.uk/news",
-      "kind": "guidance",
-      "jurisdiction": "UK"
-    },
-    {
       "title": "RBNZ leaders visit Dunedin to understand how the local economy is evolving",
       "link": "https://www.rbnz.govt.nz/news-and-events/news/2026/09/rbnz-leaders-visit-dunedin-to-understand-how-the-local-economy-is-evolving",
       "date": "2026-09-21T12:00:00.000Z",
@@ -2445,6 +2445,17 @@
       "jurisdiction": "Luxembourg"
     },
     {
+      "title": "Liam Coleman appointed as chair of the Financial Ombudsman Service",
+      "link": "https://www.fca.org.uk/news/press-releases/liam-coleman-appointed-chair-financial-ombudsman-service",
+      "date": null,
+      "summary": "The FCA Board has appointed Liam Coleman as chair of the Financial Ombudsman Service, with the approval of the Treasury.\n\nLiam will take up the permanent role on 10 October 2026 for a 3-year term, having served as interim chair for the last year.Ashley Alder, chair of the FCA, co",
+      "sourceId": "fca-news",
+      "sourceLabel": "UK FCA — News & Publications",
+      "sourceUrl": "https://www.fca.org.uk/news",
+      "kind": "guidance",
+      "jurisdiction": "UK"
+    },
+    {
       "title": "Strong compliance functions support trusted corporate finance markets",
       "link": "https://www.fca.org.uk/news/blogs/strong-compliance-functions-support-trusted-corporate-finance-markets",
       "date": null,
@@ -2566,15 +2577,15 @@
       "jurisdiction": "UK"
     },
     {
-      "title": "Twenty-four CFD firms closing in crackdown on misuse of UK authorisation",
-      "link": "https://www.fca.org.uk/news/press-releases/twenty-four-cfd-firms-closing-crackdown-misuse-uk-authorisation",
+      "title": "Others,Twenty-fifth Meeting of the \"Council for Cooperation on Financial Stability\"",
+      "link": "https://www.fsa.go.jp/en/news/2026/20261009nichiginrenrakukai.html",
       "date": null,
-      "summary": "Twenty-one Contracts for Differences (CFD) firms have closed since 2025, following a FCA crackdown.\n\nThe FCA was concerned the firms were misusing their authorised status to mislead consumers. Three other firms are currently cancelling their permissions.The FCA has been challengi",
-      "sourceId": "fca-news",
-      "sourceLabel": "UK FCA — News & Publications",
-      "sourceUrl": "https://www.fca.org.uk/news",
+      "summary": "",
+      "sourceId": "japan-fsa-news",
+      "sourceLabel": "Japan FSA — News",
+      "sourceUrl": "https://www.fsa.go.jp/en/news/",
       "kind": "guidance",
-      "jurisdiction": "UK"
+      "jurisdiction": "Japan"
     },
     {
       "title": "Banks,The FSA publishes the status of loans held by all banks as of the end of March 2026, based on the Financial Reconstruction Act",
@@ -2667,17 +2678,6 @@
     {
       "title": "Press Conferences,Summary of the Joint Press Conference by Minister Katayama, Minister of Finance and Minister of State for Financial Services, and Governor Ueda of the Bank of Japan (September 1, 2026)",
       "link": "https://www.fsa.go.jp/en/conference/minister/2026/20260901.html",
-      "date": null,
-      "summary": "",
-      "sourceId": "japan-fsa-news",
-      "sourceLabel": "Japan FSA — News",
-      "sourceUrl": "https://www.fsa.go.jp/en/news/",
-      "kind": "guidance",
-      "jurisdiction": "Japan"
-    },
-    {
-      "title": "Press Conferences,Press Conference by KATAYAMA Satsuki, Minister of Finance and Minister of State for Financial Services (August 31, 2026)",
-      "link": "https://www.fsa.go.jp/en/conference/minister/2026/20260831.html",
       "date": null,
       "summary": "",
       "sourceId": "japan-fsa-news",
