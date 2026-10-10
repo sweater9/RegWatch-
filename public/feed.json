@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-10T05:59:46.767Z",
-  "cachedAt": "2026-10-10T05:59:46.767Z",
+  "generatedAt": "2026-10-10T08:44:11.888Z",
+  "cachedAt": "2026-10-10T08:44:11.888Z",
   "items": [
     {
       "title": "Fireside Chat with Tiff Macklem, Governor of the Bank of Canada",
@@ -12,6 +12,28 @@
       "sourceUrl": "https://www.bankofcanada.ca/press/",
       "kind": "guidance",
       "jurisdiction": "Canada"
+    },
+    {
+      "title": "Publication of an Iran-Related Determination",
+      "link": "https://www.federalregister.gov/documents/2026/10/13/2026-20839/publication-of-an-iran-related-determination",
+      "date": "2026-10-13T00:00:00.000Z",
+      "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing a sector determination pursuant to a January 10, 2020 Executive Order. The determination was previously issued on OFAC's website.",
+      "sourceId": "federal-register",
+      "sourceLabel": "US Federal Register",
+      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      "kind": "rulebook",
+      "jurisdiction": "US"
+    },
+    {
+      "title": "Publication of Venezuela Sanctions Regulations Web General License 60",
+      "link": "https://www.federalregister.gov/documents/2026/10/13/2026-20831/publication-of-venezuela-sanctions-regulations-web-general-license-60",
+      "date": "2026-10-13T00:00:00.000Z",
+      "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is publishing a general license (GL) issued pursuant to the Venezuela Sanctions Regulations: GL 60, which was previously made available on OFAC's website.",
+      "sourceId": "federal-register",
+      "sourceLabel": "US Federal Register",
+      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
+      "kind": "rulebook",
+      "jurisdiction": "US"
     },
     {
       "title": "RBI announces special window for Public Sector Oil Marketing Companies to meet dollar requirements",
@@ -1972,28 +1994,6 @@
       "jurisdiction": "UK"
     },
     {
-      "title": "Sanctions Penalties Regulations",
-      "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19678/sanctions-penalties-regulations",
-      "date": "2026-09-25T00:00:00.000Z",
-      "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is adding the Sanctions Penalties Regulations. These new regulations consolidate previously existing information regarding penalties applicable to multiple sanctions programs implemented by OFAC.",
-      "sourceId": "federal-register",
-      "sourceLabel": "US Federal Register",
-      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
-      "kind": "rulebook",
-      "jurisdiction": "US"
-    },
-    {
-      "title": "Terrorism List Governments Sanctions Regulations",
-      "link": "https://www.federalregister.gov/documents/2026/09/25/2026-19657/terrorism-list-governments-sanctions-regulations",
-      "date": "2026-09-25T00:00:00.000Z",
-      "summary": "The Department of the Treasury's Office of Foreign Assets Control (OFAC) is amending the Terrorism List Governments Sanctions Regulations to implement changes resulting from the rescission of the designation of Syria as a State Sponsor of Terrorism. Specifically, OFAC is removing",
-      "sourceId": "federal-register",
-      "sourceLabel": "US Federal Register",
-      "sourceUrl": "https://www.federalregister.gov/agencies/financial-crimes-enforcement-network",
-      "kind": "rulebook",
-      "jurisdiction": "US"
-    },
-    {
       "title": "The AMF updates its doctrine applicable to UCITS and AIF depositaries",
       "link": "https://www.amf-france.org/en/news-publications/news/amf-updates-its-doctrine-applicable-ucits-and-aif-depositaries#xts=607212&xtor=RSS-11&type=RSS",
       "date": "2026-09-24T13:12:13.000Z",
@@ -2841,6 +2841,22 @@
       "kind": "guidance",
       "jurisdiction": "International",
       "url": "https://www.fsb.org/press",
+      "method": "manual"
+    },
+    {
+      "id": "cima-cayman-news",
+      "label": "Cayman Islands Monetary Authority — News and Updates",
+      "kind": "guidance",
+      "jurisdiction": "Cayman Islands",
+      "url": "https://www.cima.ky/",
+      "method": "manual"
+    },
+    {
+      "id": "bma-bermuda-news",
+      "label": "Bermuda Monetary Authority — News and Press Releases",
+      "kind": "guidance",
+      "jurisdiction": "Bermuda",
+      "url": "https://www.bma.bm/documents-centre/documents-news-and-press-releases",
       "method": "manual"
     }
   ]
