@@ -141,6 +141,20 @@ const MANUAL_SOURCES = [
     jurisdiction: "International",
     url: "https://www.fsb.org/press",
   },
+  {
+    id: "cima-cayman-news",
+    label: "Cayman Islands Monetary Authority — News and Updates",
+    kind: "guidance",
+    jurisdiction: "Cayman Islands",
+    url: "https://www.cima.ky/",
+  },
+  {
+    id: "bma-bermuda-news",
+    label: "Bermuda Monetary Authority — News and Press Releases",
+    kind: "guidance",
+    jurisdiction: "Bermuda",
+    url: "https://www.bma.bm/documents-centre/documents-news-and-press-releases",
+  },
 ];
 
 function listManual() {
