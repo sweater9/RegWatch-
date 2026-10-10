@@ -1,7 +1,18 @@
 {
-  "generatedAt": "2026-10-09T22:43:06.635Z",
-  "cachedAt": "2026-10-09T22:43:06.635Z",
+  "generatedAt": "2026-10-10T05:59:46.767Z",
+  "cachedAt": "2026-10-10T05:59:46.767Z",
   "items": [
+    {
+      "title": "Fireside Chat with Tiff Macklem, Governor of the Bank of Canada",
+      "link": "https://www.bankofcanada.ca/2026/10/fireside-chat-with-tiff-macklem-governor-of-the-bank-of-canada-2026-10-14/",
+      "date": "2026-10-14T02:05:41.000Z",
+      "summary": "On Wednesday, October 14, 2026, Tiff Macklem, Governor of the Bank of Canada, will speak at the Institute of International Finance (IIF) Annual Membership Meeting.",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
+    },
     {
       "title": "RBI announces special window for Public Sector Oil Marketing Companies to meet dollar requirements",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63784",
@@ -23,6 +34,17 @@
       "sourceUrl": "https://rbi.org.in/Scripts/BS_PressreleaseDisplay.aspx",
       "kind": "guidance",
       "jurisdiction": "India"
+    },
+    {
+      "title": "Panel with Carolyn Rogers, Senior Deputy Governor of the Bank of Canada",
+      "link": "https://www.bankofcanada.ca/2026/10/panel-with-carolyn-rogers-senior-deputy-governor-of-the-bank-of-canada-2026-10-15/",
+      "date": "2026-10-09T22:47:24.000Z",
+      "summary": "On Thursday, October 15, 2026, Carolyn Rogers, Senior Deputy Governor of the Bank of Canada, will participate in a panel at the Atlantic Council at the IMF – World Bank Week.",
+      "sourceId": "canada-boc-press",
+      "sourceLabel": "Bank of Canada — Press",
+      "sourceUrl": "https://www.bankofcanada.ca/press/",
+      "kind": "guidance",
+      "jurisdiction": "Canada"
     },
     {
       "title": "William Sarris and Joseph Endoso",
@@ -113,17 +135,6 @@
       "jurisdiction": "India"
     },
     {
-      "title": "Fireside Chat with Tiff Macklem, Governor of the Bank of Canada",
-      "link": "https://www.bankofcanada.ca/2026/10/fireside-chat-with-tiff-macklem-governor-of-the-bank-of-canada-2026-10-14/",
-      "date": "2026-10-09T16:32:39.000Z",
-      "summary": "On Wednesday, October 14, 2026, Tiff Macklem, Governor of the Bank of Canada, will speak at the Institute of International Finance (IIF) Annual Membership Meeting.",
-      "sourceId": "canada-boc-press",
-      "sourceLabel": "Bank of Canada — Press",
-      "sourceUrl": "https://www.bankofcanada.ca/press/",
-      "kind": "guidance",
-      "jurisdiction": "Canada"
-    },
-    {
       "title": "RBI Working Paper No. 01/2026: Data Gaps in State-Level Inflation: An Assessment for the Covid Period",
       "link": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63776",
       "date": "2026-10-09T16:30:00.000Z",
@@ -168,6 +179,28 @@
       "jurisdiction": "India"
     },
     {
+      "title": "Trusted Loan Capital - Central Bank of Ireland Issues Warning on Unauthorised Firm",
+      "link": "https://www.centralbank.ie/news/article/trusted-loan-capital---central-bank-of-ireland-issues-warning-on-unauthorised-firm",
+      "date": "2026-10-09T13:33:04.000Z",
+      "summary": "Trusted Loan Capital - Central Bank of Ireland Issues Warning on Unauthorised Firm",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
+    },
+    {
+      "title": "McFall Capital - Central Bank of Ireland Issues Warning on Unauthorised Firm",
+      "link": "https://www.centralbank.ie/news/article/mcfall-capital---central-bank-of-ireland-issues-warning-on-unauthorised-firm",
+      "date": "2026-10-09T13:30:18.000Z",
+      "summary": "McFall Capital - Central Bank of Ireland Issues Warning on Unauthorised Firm",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
+    },
+    {
       "title": "The South African Reserve Bank and South African Foreign Exchange Committee launch the FX Global Code Public Register",
       "link": "/en/home/publications/publication-detail-pages/media-releases/2026/fx-global-code",
       "date": "2026-10-09T11:58:00.000Z",
@@ -188,6 +221,28 @@
       "sourceUrl": "https://www.bde.es/wbe/en/noticias-eventos/",
       "kind": "guidance",
       "jurisdiction": "Spain"
+    },
+    {
+      "title": "Closing the Gaps: Collaboration in the Fight Against Economic Crime - Remarks by Deputy Governor Colm Kincaid at the Irish Criminal Justice Agencies Conference 2026",
+      "link": "https://www.centralbank.ie/news/article/speech-deputy-governor-colm-kincaid-irish-criminal-justice-agencies-conference-09-october-2026",
+      "date": "2026-10-09T10:45:40.000Z",
+      "summary": "Remarks by Deputy Governor Colm Kincaid at the Irish Criminal Justice Agencies Conference 2026",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
+    },
+    {
+      "title": "Governance In a Changing World - Remarks by Governor Gabriel Makhlouf at the launch of \"The Evolution of Bank Governance in the EU\"",
+      "link": "https://www.centralbank.ie/news/article/speech-governor-gabriel-makhlouf-opening-remarks-launch-of-the-evolution-of-bank-governance-in-the-eu-8-october-2026",
+      "date": "2026-10-09T10:00:36.000Z",
+      "summary": "Remarks by Governor Gabriel Makhlouf on the launch of The Evolution of Bank Governance in the EU",
+      "sourceId": "ireland-cbi-news",
+      "sourceLabel": "Central Bank of Ireland — News & Media",
+      "sourceUrl": "https://www.centralbank.ie/news",
+      "kind": "guidance",
+      "jurisdiction": "Ireland"
     },
     {
       "title": "CMORG holds sector-wide cloud outage simulation exercise",
@@ -1895,28 +1950,6 @@
       "jurisdiction": "Ireland"
     },
     {
-      "title": "Infinity Insurance & Assistance / Infinity European Assistance - Central Bank of Ireland Issues Warning on Unauthorised Firm",
-      "link": "https://www.centralbank.ie/news/article/infinity-insurance---assistance---infinity-european-assistance---central-bank-of-ireland-issues-warning-on-unauthorised-firm",
-      "date": "2026-09-25T11:01:02.000Z",
-      "summary": "Warning:Unauthorised Insurance&nbsp;IntermediaryUnauthorised Firm NameInfinity Insurance &amp; Assistance / Infinity European AssistanceWebsitewww.infinityinsurance.euwww.infinityassistance.ukEmail address(es) usedcontato@infinityassistance.eusac@infinityassistance.ukPhone number",
-      "sourceId": "ireland-cbi-news",
-      "sourceLabel": "Central Bank of Ireland — News & Media",
-      "sourceUrl": "https://www.centralbank.ie/news",
-      "kind": "guidance",
-      "jurisdiction": "Ireland"
-    },
-    {
-      "title": "Central Bank of Ireland launches U2 commemorative coin, marking 50 years since the band formed",
-      "link": "https://www.centralbank.ie/news/article/press-release-central-bank-of-ireland-launches-u2-commemorative-coin-25-september-2026",
-      "date": "2026-09-25T10:55:05.000Z",
-      "summary": "Central Bank of Ireland has today (Friday 25 September) launched a new &euro;2 commemorative coin to celebrate U2, one of the world&rsquo;s greatest bands, marking 50 years since their formation in 1976. The coin features an image of the four band members Adam Clayton, Bono, The ",
-      "sourceId": "ireland-cbi-news",
-      "sourceLabel": "Central Bank of Ireland — News & Media",
-      "sourceUrl": "https://www.centralbank.ie/news",
-      "kind": "guidance",
-      "jurisdiction": "Ireland"
-    },
-    {
       "title": "Sanktionen: Belarus",
       "link": "https://www.finma.ch/en/news/2026/09/20260925-sanktionen-belarus/",
       "date": "2026-09-25T06:50:01.000Z",
@@ -2005,17 +2038,6 @@
       "jurisdiction": "US"
     },
     {
-      "title": "Bank of Canada Media Interview – CBC North",
-      "link": "https://www.bankofcanada.ca/2026/09/bank-of-canada-media-interview-cbc-north-2026-09-23/",
-      "date": "2026-09-23T16:55:22.000Z",
-      "summary": "Tiff Macklem, Governor of the Bank of Canada, will give a live interview to CBC radio’s Trail’s End.",
-      "sourceId": "canada-boc-press",
-      "sourceLabel": "Bank of Canada — Press",
-      "sourceUrl": "https://www.bankofcanada.ca/press/",
-      "kind": "guidance",
-      "jurisdiction": "Canada"
-    },
-    {
       "title": "Record number of retail investors on the markets in the first half of 2026",
       "link": "https://www.amf-france.org/en/news-publications/news/record-number-retail-investors-markets-first-half-2026#xts=607212&xtor=RSS-11&type=RSS",
       "date": "2026-09-23T09:00:15.000Z",
@@ -2080,28 +2102,6 @@
       "sourceUrl": "https://www.finma.ch/en/news/",
       "kind": "guidance",
       "jurisdiction": "Switzerland"
-    },
-    {
-      "title": "Remarks by Director of Insurance, Seána Cunningham to the UN Environment Programme Global Sustainable Insurance Summit, Dublin",
-      "link": "https://www.centralbank.ie/news/article/speech-remarks-by-seana-cunningham-dublin-17-September-2026",
-      "date": "2026-09-18T10:08:27.000Z",
-      "summary": "Seána Cunningham delivers her opening remarks at the UNEP Global Sustainable Insurance Summit in Dublin.",
-      "sourceId": "ireland-cbi-news",
-      "sourceLabel": "Central Bank of Ireland — News & Media",
-      "sourceUrl": "https://www.centralbank.ie/news",
-      "kind": "guidance",
-      "jurisdiction": "Ireland"
-    },
-    {
-      "title": "L'Europe, C'est Nous – Governor Gabriel Makhlouf remarks informal ECOFIN dinner",
-      "link": "https://www.centralbank.ie/news/article/speech-governor-gabriel-makhlouf-remarks-informal-ecofin-dinner-18-september-2026",
-      "date": "2026-09-18T09:47:37.000Z",
-      "summary": "T&aacute;naiste, Ministers, Governors, Commissioners, Deputy Governors, colleagues and friends.It is a great pleasure to join the T&aacute;naiste in welcoming you to Dublin this evening. &nbsp;I am conscious that, at this point in the proceedings I am standing between you and the",
-      "sourceId": "ireland-cbi-news",
-      "sourceLabel": "Central Bank of Ireland — News & Media",
-      "sourceUrl": "https://www.centralbank.ie/news",
-      "kind": "guidance",
-      "jurisdiction": "Ireland"
     },
     {
       "title": "Order subject to penalty for trust office Erez Corporate Service B.V. for serious non-compliance with the Act on the Supervision of Trust Offices 2018",
